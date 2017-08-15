@@ -1,1 +1,131 @@
-/home/jon/Dropbox/Org/Projects/SOPS.org
+# -*- org-ref-bibliography-notes: "~/Dropbox/Org/Projects/SOPS.org" -*-
+#+BIBLIOGRAPHY: ~/Code/SOPS/SOPS.bib
+
+* A Safer Online Public Square
+* Todo
+** TODO [#A] email supervisors about what work would entail
+** TODO [#A] start exploratory research
+:LOGBOOK:
+CLOCK: [2017-08-13 Sun 17:51]--[2017-08-13 Sun 17:57] =>  0:06
+CLOCK: [2017-08-13 Sun 17:17]--[2017-08-13 Sun 17:51] =>  0:34
+CLOCK: [2017-08-13 Sun 16:14]--[2017-08-13 Sun 16:38] =>  0:24
+CLOCK: [2017-08-13 Sun 15:42]--[2017-08-13 Sun 16:08] =>  0:26
+CLOCK: [2017-08-13 Sun 13:17]--[2017-08-13 Sun 14:27] =>  1:10
+:END:
+*** TODO search NLP journals for keywords like "harassment," "harassment of journalists," etc. 
+:LOGBOOK:
+CLOCK: [2017-08-12 Sat 16:41]--[2017-08-12 Sat 16:44] =>  0:03
+:END:
+** TODO reach out to Phil for Gamergate tweets
+** TODO search ACM
+** TODO search Arxiv
+** TODO prepare a list of NLP journal to search
+* Links 
+** News and Mass Media
+*** TED talks
+**** [[https://www.ted.com/talks/ashley_judd_how_online_abuse_of_women_has_spiraled_out_of_control][Ashley Judd: How online abuse of women has spiraled out of control | TED Talk | TED.com]]
+October 2016 at TEDWomen 2016
+
+>Enough with online hate speech, sexual harassment and threats of violence against women and marginalized groups. It's time to take the global crisis of online abuse seriously. In this searching, powerful talk, Ashley Judd recounts her ongoing experience of being terrorized on social media for her unwavering activism and calls on citizens of the internet, the tech community, law enforcement and legislators to recognize the offline harm of online harassment.
+ 
+"because the threat of violence is experienced neurobiologically as violence. The cortisol shoots up, the limbic system gets fired, we lose productivity at work." 
+
+Judd founds The Speech Project: 
+ - http://wmcspeechproject.com/
+ 
+"EDGE, the global standard for gender equality, is the minimum standard." 
+
+And the law: "In New York recently, the law could not be applied to a perpetrator because the crimes must have been committed -- even if it was anonymous -- they must have been committed by telephone, in mail, by telegraph --" 
+
+** Software
+*** [[https://devpost.com/software/trollbusters][TrollBusters | Devpost]]
+"Offering online "pest control" solutions for women news publishers"
+
+**** DONE presentation slides: [[https://www.slideshare.net/locallygrownnews/trollbusters-international-womens-media-foundation-hackathon-solution][TrollBusters: International Women's Media Foundation Hackathon Soluti…]]
+CLOSED: [2017-08-13 Sun 14:27]
+
+***** TODO Use CATS: "C.A.T.S.: Clustering Analysis and Targeting System, Ohio University" 
+ - "Using a proprietary technology for network analysis developed by Ohio University students, we find and aggregate communities of trolls and identify who else is a subject of attack"
+
+**** DONE News article: [[http://alldigitocracy.org/combating-hate-speech-against-women-on-twitter/][Team developing tool to combat online harassment of women journalists takes top prize at New York hack-a-thon | All Digitocracy]]
+CLOSED: [2017-08-13 Sun 14:26]
+"TrollBusters will use proprietary audience targeting software, designed by a team at Ferrier’s university, to identify communities of trolls around any given issue using natural language processing. The service will counter cyberattacks in real- time with online community support and positive messaging, Ferrier said in her pitch." 
+ 
+** Organizations
+*** TODO [[http://wmcspeechproject.com/][WMC Speech Project]]
+**** TODO [[http://wmcspeechproject.com/research-statistics/][WMC Speech Project » Research & Statistics]]
+*** DONE [[https://www.trolldor.com/][Trolldor: the global blacklist of twitter trolls]]
+CLOSED: [2017-08-13 Sun 14:17]
+
+#+BEGIN_QUOTE 
+The aim of Trolldor is to combat the defenselessness of Twitter users. We want to get across the need behavior on Twitter to be based on respect for users, to encourage a good social network environment.
+
+We feel that the behavior of some Twitter users is part of the problem, which is why we’ve created Trolldor, a place where users themselves are the ones who can report other users that fail to respect everyone else.
+
+Trolldor works like a blacklist of Trolls, and is open to any user in the world with a Twitter account.
+#+END_QUOTE
+ 
+- Needs three reports from different users to get listed. 
+- Maintain a list of top 10 worldwide trolls
+
+*** TODO [[https://www.nohatespeechmovement.org/][No Hate Speech Movement]]
+ "A youth campaign of the Council of Europe for human rights online, to reduce the levels of acceptance of hate speech and develop online youth participation and citizenship, including in Internet governance processes."
+
+*** TODO [[https://www.splcenter.org/hate-map][Southern Poverty Law Center]]
+ - maintain a list and map of 917 hate groups operating in the US
+
+*** TODO [[https://cyberbullying.org/][Cyberbullying Research Center]]
+"The Cyberbullying Research Center is dedicated to providing up-to-date information about the nature, extent, causes, and consequences of cyberbullying among adolescents. Cyberbullying can be defined as “Willful and repeated harm inflicted through the use of computers, cell phones, and other electronic devices.” It is also known as “cyber bullying,” “electronic bullying,” “e-bullying,” “sms bullying,” “mobile bullying,” “online bullying,” “digital bullying,” or “Internet bullying.” The Center also explores other adolescent behaviors online including sexting, problematic social networking practices, and a variety of issues related to digital citizenship."
+
+*** TODO [[https://cpj.org/][Committee to Protect Journalists]]
+"The Committee to Protect Journalists is an independent, nonprofit organization that promotes press freedom worldwide. We defend the right of journalists to report the news without fear of reprisal."
+*** TODO Anti-Defamation League Task Force on Harassment and Journalism
+**** Description of report: [[http://denver.adl.org/news/adl-task-force-issues-report-detailing-widespread-anti-semitic-harassment-of-journalists-on-twitter-during-2016-campaign/][Anti-Defamation League | ADL TASK FORCE ISSUES REPORT DETAILING WIDESPREAD ANTI-SEMITIC HARASSMENT OF JOURNALISTS ON TWITTER DURING 2016 CAMPAIGN | Denver]]
+cite:anti-defamation_league_adl_2016
+
+*** TODO [[http://haltabuse.org/][Working to Halt Online Abuse]]
+** Statistics about Harassment
+*** [[http://onlineharassmentdata.org/][Infographic: The Rise of Online Harassment]]
+Survey by: 
+ - Rad Campaign (Web Design Agency)
+ - Lincoln Park Strategies (Data analytics)
+ - Craig Newmark (Consultant?)
+*** [[http://www.pewinternet.org/2014/10/22/online-harassment/][Online Harassment | Pew Research Center]]
+2014 Report
+*** TODO [[http://www.haltabuse.org/resources/stats/index.shtml][WHOA: Cyberstalking Statistics.]]
+* Books and Other Sources
+*** [[http://www.iwmf.org/blog/2014/03/07/intimidation-threats-and-abuse/][Intimidation, Threats, and Abuse | International Women's Media Foundation (IWMF)]]
+** TODO - Cybercrime and its victims
+ :PROPERTIES:
+  :Custom_ID: martellozzo_cybercrime_2017
+  :AUTHOR: Martellozzo \& Jane
+  :JOURNAL: 
+  :YEAR: 
+ :END:
+cite:martellozzo_cybercrime_2017
+** TODO - Misogyny Online: A Short (and Brutish) History
+ :PROPERTIES:
+  :Custom_ID: jane_misogyny_2016
+  :AUTHOR: Jane
+  :JOURNAL: 
+  :YEAR: 
+ :END:
+cite:jane_misogyny_2016
+
+** TODO - Weeding Out Online Bullying Is Tough, So Let Machines Do It
+ :PROPERTIES:
+  :Custom_ID: alba_weeding_2015
+  :AUTHOR: Alba
+  :JOURNAL: WIRED
+ :END:
+cite:alba_weeding_2015
+[[https://www.wired.com/2015/07/weeding-online-bullying-tough-let-machines/][Weeding Out Online Bullying Is Tough, So Let Machines Do It | WIRED]]
+
+** TODO - Pew Research Report 2014: Online Harassment
+ :PROPERTIES:
+  :Custom_ID: duggan_online_2014
+  :AUTHOR: Duggan
+  :JOURNAL: 
+  :YEAR: 
+ :END:
+cite:duggan_online_2014
