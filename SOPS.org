@@ -93,8 +93,8 @@ Survey by:
 *** [[http://www.pewinternet.org/2014/10/22/online-harassment/][Online Harassment | Pew Research Center]]
 2014 Report
 *** TODO [[http://www.haltabuse.org/resources/stats/index.shtml][WHOA: Cyberstalking Statistics.]]
-* Books and Other Sources
 *** [[http://www.iwmf.org/blog/2014/03/07/intimidation-threats-and-abuse/][Intimidation, Threats, and Abuse | International Women's Media Foundation (IWMF)]]
+* Books and Other Sources
 ** TODO - Cybercrime and its victims
  :PROPERTIES:
   :Custom_ID: martellozzo_cybercrime_2017
