@@ -1,2 +1,2 @@
-SOPS.org : ~/Dropbox/Org/Projects/SOPS.org
-	cp $< $@
+SOPS.pdf : SOPS.org
+	pandoc $< -o $@

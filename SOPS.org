@@ -3,7 +3,8 @@
 
 * A Safer Online Public Square
 * Todo
-** TODO [#A] email supervisors about what work would entail
+** DONE [#A] email supervisors about what work would entail
+CLOSED: [2017-08-15 Tue 13:20]
 ** TODO [#A] start exploratory research
 :LOGBOOK:
 CLOCK: [2017-08-13 Sun 17:51]--[2017-08-13 Sun 17:57] =>  0:06
@@ -36,6 +37,20 @@ Judd founds The Speech Project:
 "EDGE, the global standard for gender equality, is the minimum standard." 
 
 And the law: "In New York recently, the law could not be applied to a perpetrator because the crimes must have been committed -- even if it was anonymous -- they must have been committed by telephone, in mail, by telegraph --" 
+
+
+** TODO [[https://meta.wikimedia.org/wiki/Research:Online_harassment_resource_guide][Online Harassment Resource Guide - Mattias, J. Nathan (et. al)]]
+"Literature review on online harassment circa 2015/2016. Created for Wikimedia Foundation by folks from MIT Center for Civic Media & Berkman Center for Internet and Society" 
+
+** TODO [[https://www.nytimes.com/2017/06/21/opinion/whatsapp-crowds-and-power-in-india.html][*New York Times* WhatsApp, Crowd, Power in India]]
+
+** TODO - ProPublica: [[https://www.propublica.org/article/facebook-hate-speech-censorship-internal-documents-algorithms][Facebook’s Secret Censorship Rules Protect White Men from Hate Speech But Not Black Children]]
+
+** TODO New York Times: [[https://www.nytimes.com/2017/07/01/opinion/sunday/save-free-speech-from-trolls.html?action=click&pgtype=Homepage&clickSource=story-heading&module=opinion-c-col-left-region&region=opinion-c-col-left-region&WT.nav=opinion-c-col-left-region][NYT: Save Free Speech from Trolls]]
+
+** TODO [[https://datasociety.net/blog/2017/01/18/online-harassment-digital-abuse/][Data & Society: Online Harassment and Digital Abuse]]
+
+** TODO [[http://aclweb.org/anthology/W17-30][Proceedings of the first ACL Workshop on Abusive Language Online]]
 
 ** Software
 *** [[https://devpost.com/software/trollbusters][TrollBusters | Devpost]]
