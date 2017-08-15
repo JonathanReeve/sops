@@ -36,7 +36,7 @@ Judd founds The Speech Project:
 
 And the law: "In New York recently, the law could not be applied to a perpetrator because the crimes must have been committed -- even if it was anonymous -- they must have been committed by telephone, in mail, by telegraph --" 
 
-
+https://github.com/JonathanReeve/sops
 ** TODO [[https://meta.wikimedia.org/wiki/Research:Online_harassment_resource_guide][Online Harassment Resource Guide - Mattias, J. Nathan (et. al)]]
 "Literature review on online harassment circa 2015/2016. Created for Wikimedia Foundation by folks from MIT Center for Civic Media & Berkman Center for Internet and Society" 
 
