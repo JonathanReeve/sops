@@ -3,8 +3,6 @@
 
 * A Safer Online Public Square
 * Todo
-** DONE [#A] email supervisors about what work would entail
-CLOSED: [2017-08-15 Tue 13:20]
 ** TODO [#A] start exploratory research
 :LOGBOOK:
 CLOCK: [2017-08-13 Sun 17:51]--[2017-08-13 Sun 17:57] =>  0:06
