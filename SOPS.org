@@ -1,32 +1,74 @@
 # -*- org-ref-bibliography-notes: "~/Dropbox/Org/Projects/SOPS.org" -*-
 #+BIBLIOGRAPHY: ~/Code/SOPS/SOPS.bib
+#+TITLE: A Safer Online Public Square: Research Notes
+#+AUTHOR: Jonathan Reeve
 
-* A Safer Online Public Square
 * Todo
 ** TODO [#A] start exploratory research
 :LOGBOOK:
+CLOCK: [2017-08-18 Fri 14:28]--[2017-08-18 Fri 15:06] =>  0:38
+CLOCK: [2017-08-18 Fri 11:30]--[2017-08-18 Fri 12:11] =>  0:41
+CLOCK: [2017-08-17 Thu 20:02]--[2017-08-17 Thu 20:29] =>  0:27
+CLOCK: [2017-08-17 Thu 17:41]--[2017-08-17 Thu 18:36] =>  0:55
+CLOCK: [2017-08-16 Wed 13:28]--[2017-08-16 Wed 15:26] =>  1:58
 CLOCK: [2017-08-13 Sun 17:51]--[2017-08-13 Sun 17:57] =>  0:06
 CLOCK: [2017-08-13 Sun 17:17]--[2017-08-13 Sun 17:51] =>  0:34
 CLOCK: [2017-08-13 Sun 16:14]--[2017-08-13 Sun 16:38] =>  0:24
 CLOCK: [2017-08-13 Sun 15:42]--[2017-08-13 Sun 16:08] =>  0:26
 CLOCK: [2017-08-13 Sun 13:17]--[2017-08-13 Sun 14:27] =>  1:10
 :END:
-*** TODO search NLP journals for keywords like "harassment," "harassment of journalists," etc. 
+
+** TODO read ACL workshop papers
 :LOGBOOK:
-CLOCK: [2017-08-12 Sat 16:41]--[2017-08-12 Sat 16:44] =>  0:03
+CLOCK: [2017-08-21 Mon 18:43]--[2017-08-21 Mon 19:00] =>  0:17
+CLOCK: [2017-08-21 Mon 16:01]--[2017-08-21 Mon 17:19] =>  1:18
+CLOCK: [2017-08-21 Mon 13:35]--[2017-08-21 Mon 14:15] =>  0:40
+CLOCK: [2017-08-21 Mon 10:58]--[2017-08-21 Mon 12:19] =>  1:21
+CLOCK: [2017-08-21 Mon 09:59]--[2017-08-21 Mon 10:45] =>  0:46
+CLOCK: [2017-08-18 Fri 16:18]--[2017-08-18 Fri 16:31] =>  0:13
+CLOCK: [2017-08-18 Fri 15:54]--[2017-08-18 Fri 16:08] =>  0:14
+CLOCK: [2017-08-18 Fri 15:23]--[2017-08-18 Fri 15:51] =>  0:28
 :END:
+
+** TODO write first report
+:LOGBOOK:
+CLOCK: [2017-08-22 Tue 09:23]--[2017-08-22 Tue 11:11] =>  1:48
+:END:
+** TODO prepare a list of NLP journals to search
+** TODO search NLP journals for keywords 
 ** TODO reach out to Phil for Gamergate tweets
 ** TODO search ACM
 ** TODO search Arxiv
-** TODO prepare a list of NLP journal to search
 * Links 
-** News and Mass Media
+** News, Blogs, Mass Media
+*** DONE [[https://www.nytimes.com/2017/06/21/opinion/whatsapp-crowds-and-power-in-india.html][*New York Times* WhatsApp, Crowd, Power in India]]
+CLOSED: [2017-08-16 Wed 13:37]
+- Describes fake news circulated using WhatsApp that results in mob violence, riots
+
+*** DONE New York Times: [[https://www.nytimes.com/2017/07/01/opinion/sunday/save-free-speech-from-trolls.html?action=click&pgtype=Homepage&clickSource=story-heading&module=opinion-c-col-left-region&region=opinion-c-col-left-region&WT.nav=opinion-c-col-left-region][NYT: Save Free Speech from Trolls]]
+CLOSED: [2017-08-16 Wed 14:55]
+- "...the anti-free-speech charge, applied broadly to cultural criticism and especially to feminist discourse, has proliferated." 
+- "[Anita] Sarkeesian has been relentlessly stalked, abused, and threatened since 2012, when she started a Kickstarter campaign to fund a series of YouTube videos critiquing the representation of women in video games."
+- Sarkeesian: "They're weaponizing free speech to maintain their cultural dominance."
+- "'Free speech' rhetoric begot 'fake news,' which begot 'alternative facts.'"
+
+*** DONE [[https://datasociety.net/blog/2017/01/18/online-harassment-digital-abuse/][Data & Society: Online Harassment and Digital Abuse]]
+CLOSED: [2017-08-16 Wed 15:02]
+- See report in [[Statistics about Harassment]] below
+*** TODO [[https://meta.wikimedia.org/wiki/Research:Online_harassment_resource_guide][Online Harassment Resource Guide - Mattias, J. Nathan (et. al)]]
+- Susan: "Literature review on online harassment circa 2015/2016. Created for Wikimedia Foundation by folks from MIT Center for Civic Media & Berkman Center for Internet and Society"
+- Very thorough overview
+*** DONE [[http://aclweb.org/anthology/W17-30][Proceedings of the first ACL Workshop on Abusive Language Online]]
+CLOSED: [2017-08-18 Fri 12:06]
+- Contains a number of relevant papers on the automated detection of abusive language. Parsed this into individual entries. 
 *** TED talks
 **** [[https://www.ted.com/talks/ashley_judd_how_online_abuse_of_women_has_spiraled_out_of_control][Ashley Judd: How online abuse of women has spiraled out of control | TED Talk | TED.com]]
 October 2016 at TEDWomen 2016
 
->Enough with online hate speech, sexual harassment and threats of violence against women and marginalized groups. It's time to take the global crisis of online abuse seriously. In this searching, powerful talk, Ashley Judd recounts her ongoing experience of being terrorized on social media for her unwavering activism and calls on citizens of the internet, the tech community, law enforcement and legislators to recognize the offline harm of online harassment.
- 
+#+begin_quote
+Judd recounts her ongoing experience of being terrorized on social media for her unwavering activism and calls on citizens of the internet, the tech community, law enforcement and legislators to recognize the offline harm of online harassment.
+#+end_quote
+
 "because the threat of violence is experienced neurobiologically as violence. The cortisol shoots up, the limbic system gets fired, we lose productivity at work." 
 
 Judd founds The Speech Project: 
@@ -37,19 +79,6 @@ Judd founds The Speech Project:
 And the law: "In New York recently, the law could not be applied to a perpetrator because the crimes must have been committed -- even if it was anonymous -- they must have been committed by telephone, in mail, by telegraph --" 
 
 https://github.com/JonathanReeve/sops
-** TODO [[https://meta.wikimedia.org/wiki/Research:Online_harassment_resource_guide][Online Harassment Resource Guide - Mattias, J. Nathan (et. al)]]
-"Literature review on online harassment circa 2015/2016. Created for Wikimedia Foundation by folks from MIT Center for Civic Media & Berkman Center for Internet and Society" 
-
-** TODO [[https://www.nytimes.com/2017/06/21/opinion/whatsapp-crowds-and-power-in-india.html][*New York Times* WhatsApp, Crowd, Power in India]]
-
-** TODO - ProPublica: [[https://www.propublica.org/article/facebook-hate-speech-censorship-internal-documents-algorithms][Facebook’s Secret Censorship Rules Protect White Men from Hate Speech But Not Black Children]]
-
-** TODO New York Times: [[https://www.nytimes.com/2017/07/01/opinion/sunday/save-free-speech-from-trolls.html?action=click&pgtype=Homepage&clickSource=story-heading&module=opinion-c-col-left-region&region=opinion-c-col-left-region&WT.nav=opinion-c-col-left-region][NYT: Save Free Speech from Trolls]]
-
-** TODO [[https://datasociety.net/blog/2017/01/18/online-harassment-digital-abuse/][Data & Society: Online Harassment and Digital Abuse]]
-
-** TODO [[http://aclweb.org/anthology/W17-30][Proceedings of the first ACL Workshop on Abusive Language Online]]
-
 ** Software
 *** [[https://devpost.com/software/trollbusters][TrollBusters | Devpost]]
 "Offering online "pest control" solutions for women news publishers"
@@ -64,6 +93,7 @@ CLOSED: [2017-08-13 Sun 14:27]
 CLOSED: [2017-08-13 Sun 14:26]
 "TrollBusters will use proprietary audience targeting software, designed by a team at Ferrier’s university, to identify communities of trolls around any given issue using natural language processing. The service will counter cyberattacks in real- time with online community support and positive messaging, Ferrier said in her pitch." 
  
+*** TODO [[http://www.perspectiveapi.com/][Perspective]] (API) 
 ** Organizations
 *** TODO [[http://wmcspeechproject.com/][WMC Speech Project]]
 **** TODO [[http://wmcspeechproject.com/research-statistics/][WMC Speech Project » Research & Statistics]]
@@ -95,9 +125,24 @@ Trolldor works like a blacklist of Trolls, and is open to any user in the world 
 *** TODO Anti-Defamation League Task Force on Harassment and Journalism
 **** Description of report: [[http://denver.adl.org/news/adl-task-force-issues-report-detailing-widespread-anti-semitic-harassment-of-journalists-on-twitter-during-2016-campaign/][Anti-Defamation League | ADL TASK FORCE ISSUES REPORT DETAILING WIDESPREAD ANTI-SEMITIC HARASSMENT OF JOURNALISTS ON TWITTER DURING 2016 CAMPAIGN | Denver]]
 cite:anti-defamation_league_adl_2016
-
 *** TODO [[http://haltabuse.org/][Working to Halt Online Abuse]]
+*** TODO [[http://www.broadbandcommission.org/workinggroups/pages/bbandgender.aspx][UN Broadband Commission for Sustainable Development Working Group on Broadband and Gender]]
+**** TODO Report: [[http://www.unwomen.org/~/media/headquarters/attachments/sections/library/publications/2015/cyber_violence_gender%2520report.pdf?v=1&d=20150924T154259][Cyber Violence Against Women and Girls]]
+***** TODO Response in NY Mag: [[http://nymag.com/scienceofus/2015/09/uns-cyberharassment-report-is-really-bad.html][The U.N.’s Cyberharassment Report Is Really Bad]]
+*** TODO SRI International 
+"nine months ago, a social network approached the SRI and said it had a major problem with bullying on its platform. The company, which Winarsky declined to identify, had already gathered a wealth of reports and data sets on bullying and offered them to SRI to see if its researchers could do anything to help curb the problem." cite:alba_weeding_2015 
+*** TODO [[https://womenactionmedia.org/][Women Action Media]] (WAM!)
+"allowed to report and identify harassment on behalf of others" and report them to Twitter cite:lapowsky_its_2015 
+*** TODO [[https://www.hackharassment.com/][Hack Harassment]]
+"Hack Harassment is a coalition of organizations and individuals who share in the common goal of building a more inclusive and supportive online community.  Hack Harassment does not guarantee the world will be free from online harassment, but together, we hope to bring us all closer to that goal." 
+*** Algorithmic
+**** TODO [[https://jigsaw.google.com/vision/][Jigsaw]]: org within Alphabet (Google) 
+"We’re an incubator within Alphabet that builds technology to tackle some of the toughest global security challenges facing the world today—from thwarting online censorship to mitigating the threats from digital attacks to countering violent extremism to protecting people from online harassment." 
+
+- Creators of project [[http://www.perspectiveapi.com/][Perspective]]
 ** Statistics about Harassment
+*** Proportion of Internet users that experience harassment
+- 47% (D&S report) 
 *** [[http://onlineharassmentdata.org/][Infographic: The Rise of Online Harassment]]
 Survey by: 
  - Rad Campaign (Web Design Agency)
@@ -107,6 +152,274 @@ Survey by:
 2014 Report
 *** TODO [[http://www.haltabuse.org/resources/stats/index.shtml][WHOA: Cyberstalking Statistics.]]
 *** [[http://www.iwmf.org/blog/2014/03/07/intimidation-threats-and-abuse/][Intimidation, Threats, and Abuse | International Women's Media Foundation (IWMF)]]
+*** TODO [[https://www.datasociety.net/pubs/oh/Online_Harassment_2016.pdf][Data and Society Report: Online Harassment, Digital Abuse, and Cyberstalking in America]] 
+**** DONE [[https://qz.com/844319/a-new-study-suggests-online-harassment-is-pressuring-women-and-minorities-to-self-censor/][A new study suggests online harassment is pressuring women and minorities to self-censor — Quartz]]
+CLOSED: [2017-08-16 Wed 15:22]
+- "Researchers consistently find that people self-censor online to avoid retaliation. This could be positive: For instance, people might be less likely to use a racial slur online if they think they’ll be condemned for it. But given the differences in people’s experience of harassment, this survey suggests that young people, especially young women and LGB people, are less likely to make online contributions at all because they’re worried about being attacked for it." 
+**** DONE Blog post: [[https://points.datasociety.net/culture-of-harassment-1d999adbfac3][Culture of Harassment – Data & Society: Points]]
+CLOSED: [2017-08-18 Fri 12:10]
+- Summarizes D&S report. 
+- "Danah Boyd reads Data & Society and CiPHR’s new report, “Online Harassment, Digital Abuse, and Cyberstalking in America,” and connects it with her own qualitative research and today’s political culture. Online harassment, she argues, suppresses voices that need to be heard for the public sphere to be public. — Ed." 
+**** TODO [[https://www.theatlantic.com/technology/archive/2016/11/people-censor-themselves-online-for-fear-of-being-harassed/508523/][47 Percent of U.S. Internet Users Have Experienced Online Abuse - The Atlantic]]
+** Social Media Services
+*** General Legal / Terms of Service Issues
+**** TODO "Towards a better protection of social media users: a legal perspective on the terms of use of social networking sites" cite:wauters_towards_2014 
+**** TODO "Intermediaries and hate speech: Fostering digital citizenship for our information age." cite:citron_intermediaries_2011 
+*** Facebook 
+**** DONE - ProPublica: [[https://www.propublica.org/article/facebook-hate-speech-censorship-internal-documents-algorithms][Facebook's Secret Censorship Rules Protect White Men from Hate Speech But Not Black Children]]
+CLOSED: [2017-08-16 Wed 14:05]
+- Describes Facebook's rules for deleting posts
+- Facebook doesn't delete attacks on "subsets" of people, e.g. "female drivers," but deletes posts of "protected categories," of entire races, sexes, religious affiliations, e.g. "white men."
+- Facebook permits speech that is illegal in some countries, like Holocaust denial
+- FB currently employs about 4,500 censors
+- FB shuts down accounts of some activists. (Article doesn't explain reasons.)
+- "Kate Klonick, a Ph.D. candidate at Yale Law School who has spent two years studying censorship operations at tech companies,"
+- "Candidate Trump’s posting — which has come back to haunt him in court decisions voiding his proposed travel ban — appeared to violate Facebook’s rules against “calls for exclusion” of a protected religious group. Zuckerberg decided to allow it because it was part of the political discourse, according to people familiar with the situation."
+  - Q: Would allowing incendiary posts/comments ultimately be healthy for society, since it allows for criticism and discourse? 
+
+*** Twitter 
+**** DONE Twitter blog post: [[https://blog.twitter.com/official/en_us/a/2016/progress-on-addressing-online-abuse.html][Progress on addressing online abuse]]
+CLOSED: [2017-08-16 Wed 15:19]
+- "We’re enabling you to mute keywords, phrases, and even entire conversations you don’t want to see notifications about"
+- "We’ve also improved our internal tools and systems in order to deal more effectively with this conduct when it’s reported to us. Our goal is a faster and more transparent process." 
+**** DONE [[https://support.twitter.com/articles/20175050#][Twitter: Hateful Conduct Policy]]
+CLOSED: [2017-08-16 Wed 15:21]
+- "You may not promote violence against or directly attack or threaten other people on the basis of race, ethnicity, national origin, sexual orientation, gender, gender identity, religious affiliation, age, disability, or disease."
+- "Context matters. Some Tweets may seem to be abusive when viewed in isolation, but may not be when viewed in the context of a larger conversation."
+- Say that they may suspend accounts for violations.
+**** DONE Wired article: [[https://www.wired.com/2017/03/twitter-abuse-tools/][Twitter Eggs, the End Has Finally Come for Your Awfulness | WIRED]]
+CLOSED: [2017-08-17 Thu 17:52]
+- On algorithms for filtering trolls: "Twitter says it has developed algorithms that can detect when an account engages in abusive behavior—for instance, if it repeatedly tweets at non-followers."
+- On user-level filtering: "Twitter will now let users filter "Twitter eggs" out of their notifications."
+*** Mastodon
+**** DONE [[http://www.newstatesman.com/science-tech/social-media/2017/04/mastodonsocial-why-does-every-new-twitter-fail][Mastodon.social: Why does every new “Twitter” fail?]]
+CLOSED: [2017-08-16 Wed 14:51]
+- Calls Mastodon a failure, and attempts a postmortem. 
+**** TODO WIRED: [[https://www.wired.com/2017/04/like-twitter-hate-trolls-try-mastodon/][Social Media Upstart Mastodon Is Like Twitter, Except Way More Civil | WIRED]]
+*** WhatsApp
+*** Reddit
+**** DONE [[https://www.reddit.com/r/announcements/comments/4dmnn6/new_and_improved_block_user_feature_in_your_inbox/][New and improved "block user" feature in your inbox. : announcements]]
+CLOSED: [2017-08-16 Wed 15:13]
+**** TODO [[https://socialmediacollective.org/2015/06/16/reddit-research/][Recognizing the Work of Reddit’s Moderators: Summer Research Project | Social Media Collective]]
+*** Wikipedia
+**** TODO The Work of Sustaining Order in Wikipedia: The Banning of a Vandal cite:geiger_work_2010 
+**** TODO Book: Wikipedia and the Politics of Openness cite:tkacz_wikipedia_2014 
+*** Metafilter
+**** TODO Dissertation: "What we talk about when we talk about talking: Ethos at work in an online community" cite:warnick_what_2010  
+Abstract: "This dissertation explores the rhetorical concept of ethos as it functions in contemporary online communities, via a case study of one successful online community, MetaFilter. com. A year-long virtual ethnography of MetaFilter demonstrates that understanding ethos as it functions online requires a multilayered definition that accounts for the traditional notion of ethos as vir bonus, the strict Aristotelian conception of ethos as ..." 
+** People 
+*** Anita Sarkeesian, Zoe Quinn
+**** TODO Video: [[https://www.youtube.com/watch?v=HLteBt0_LiI][Speech for the UN]] at around the same time
+* Problems, Topics
+** Censorship policies of social media companies
+** Flagging
+*** TODO "What is a Flag for? Social Media Reporting Tools and the Vocabulary of Complaint" cite:crawford_what_2016
+*** TODO Reporting, Reviewing, and Responding to Harassment on Twitter. cite:matias_reporting_2015  
+*** TODO [[http://www.cpeterson.org/2013/07/22/a-brief-guide-to-user-generated-censorship/][A Brief Guide To User-Generated Censorship - Chris Peterson]]
+** Moderation
+*** TODO "The Virtues of Moderation" cite:grimmelmann_virtues_2015 
+** Cross-cultural studies
+*** TODO "Rephrasing Profanity in Chinese Text" cite:su_rephrasing_2017 
+*** TODO "Legal Framework, Dataset and Annotation Schema for Socially Unacceptable Online Discourse Practices in Slovene" cite:fiser_legal_2017 
+*** TODO "Abusive Language Detection on Arabic Social Media" cite:mubarak_abusive_2017   
+** Automated Detection
+*** Of high-quality contributions
+**** DONE "How Useful are Your Comments?- Analyzing and Predicting YouTube Comments and Comment Ratings" cite:siersdorfer_how_2010 
+CLOSED: [2017-08-21 Mon 10:06]
+- "Can we predict the community feedback for comments?" 892
+- "automatically generated content ratings might help to identify users showing malicious behavior such as spammers and trolls at an early stage, and, in the future, might lead to methods for recommending to an individual user of the system other users with similar interests and points of views." 892
+- use 6.1M comments from 67K videos 893
+  - mean # comments 475
+- distribution of comment ratings skews positive, with mean of 0.61
+- find MDWs for comments with high, low ratings
+  - low rating MDWs contain racial, gender slurs, obscenities
+- sentiment analysis shows correlation between machine-detected sentiment and ratings
+  - use SentiWordNet thesaurus
+- use SVM classifiers to predict categories 
+  - predictably, the classifier works best on high and low ratings, not as well on comments with neutral ratings
+- test "variance of comment ratings as indicator for polarizing videos"
+  - find MDWS for polarizing and non-polarizing videos. 
+  - high comment rating variance MDWS include political terms, terms relating to religion
+  - low comment rating variance MDWs include sports-, hobby-, and tax-related terms
+- "Politics videos have significantly more negatively rated comments than any other category. Music videos, on the other hand, have a clear majority of positively rated comments."
+- Music has the highest mean comment rating, science and automotive videos the lowest.
+  - Mean sentivalues across categories also correlate, with music showing the highest mean, and autos, gaming, science the with the lowest mean. 
+**** DONE "The Editor's Eye: Curation and Comment Relevance on the New York Times" cite:diakopoulos_editors_2015 
+CLOSED: [2017-08-21 Mon 10:32]
+"explores the manifestation of editorial quality criteria in comments that have been curated and selected on the New York Times website as “NYT Picks.” The relationship between comment selection and comment relevance is examined through the analysis of 331,785 comments, including 12,542 editor’s selections. A robust association between editorial selection and article relevance or conversational relevance was found." 
+
+"Could new computational tools be used to reduce the amount of time journalists need to spend doing this curatorial work, to identify worthy but overlooked contributions, or to scale their ability to consider more content?" 
+
+NYT comment moderation: 
+ - pre-moderate comments
+ - assign "NYT Picks" badge to good comments
+
+Preprocessing: tokenize, normalize, stopword filter, and stem
+ - reduce the vocabulary to 22,837 features
+ - transform into tf-idfs
+ - analyze cosine similarity between comments and articles
+
+Find that "the article relevance of the comment is positively associated with a higher chance of it being selected by an editor." 
+
+"There was a slight negative correlation between elapsed time and whether the comment was an editor’s selection (Spearman rho = -0.048, p = 0). Thus, there are less editor’s selections later in the conversation." 3 
+
+"Comments made in the first hour have a distinctly higher article relevance than in the immediately subsequent hours. But after about 18 hours the average article relevance begins increasing again up to hour 48" 3
+
+This article seems to assume that tf-idf cosine similarity can be directly interpreted as "relevance." 
+ - It's possible that a very relevant comment contains very few of the words used in the article, and would then be computationally considered irrelevant. 
+
+**** DONE "Predicting information credibility in time-sensitive social media"  cite:castillo_predicting_2013 
+CLOSED: [2017-08-21 Mon 11:53]
+- supervised categorization of "credible" and non-credible tweet groups or "information cascades"
+- study propogation of tweets, tweet "affirmations," "questions," and other reactions
+- use data set of manually-labeled (Amazon Turk) tweets as "likely to be true," etc.  
+- best 8 features that distinguish between "NEWS" and "CHAT" (discussion) labels: (573) 
+  - ! "fraction of authors in the topic that have written a self-description (“bio” in Twitter terms)" 
+  - "count of distinct URLs" 
+  - "fraction of URLs pointing to domains in the top 100 most visited domains on the web" 
+  - "average length of the tweets" 
+  - "count of distinct user mentions" 
+  - "fraction of tweets containing a hashtag"
+  - "fraction of tweets containing a “frowning” emoticon"
+  - "maximum depth of propagation trees"
+- test clustering/classification methods, find that Random Forest classifies best.
+- best features that distinguish between "credible" and "not credible" labels: (575) 
+  - the average number of tweets posted by authors of the tweets in the topic in the past
+  - the average number of followers of authors posting these tweets
+  - the fraction of tweets having a positive sentiment
+  - the fraction of tweets having a negative sentiment
+  - the fraction of tweets containing a URL that contain the most frequent URL
+  - the fraction of tweets containing a URL
+  - the fraction of URLs pointing to a domain among the top 10,000 most visited
+  - the fraction of tweets containing a user mention;
+  - the average length of the tweets;
+  - the fraction of tweets containing a question mark;
+  - the fraction of tweets containing an exclamation mark;
+  - the fraction of tweets containing a question or an exclamation mark;
+  - the fraction of tweets containing a “smiling” emoticons;
+  - the fraction of tweets containing a first-person pronoun;
+  - the fraction of tweets containing a third-person pronoun; and
+  - the maximum depth of the propagation trees.
+- test clustering methods, find that logistic regression classifies with ~80% accuracy
+
+**** DONE "Constructive Language in News Comments" cite:kolhatkar_constructive_2017  
+CLOSED: [2017-08-21 Mon 14:12]
+- create a custom annotated corpus 
+  - crowdsource the annotation of comments as "constructive" or not (12)
+  - "Out of the 1,121 comments, 603 comments (53.79%) were classified as constructive, 517 (46.12%) as non-constructive, and the annotators were not sure in only one case." (12) 
+  - [[https://github.com/sfu-discourse-lab/Constructiveness_Toxicity_Corpus][corpus available on GitHub]]
+  - also use Yahoo News Annotated Corpus and Argument Extraction Corpus
+- train a Bi-directional Long Short-Term Memory model (biLSTM) (implemented in TensorFlow)
+  - make word vectors for each word, using GloVe vectors
+  - categorization is about 72% precise
+- features with strong correlation with constructiveness: 
+  - "argumentative discourse relations"
+  - "stance adverbials (e.g., undoubtedly, paradoxically, of course)"
+  - "reasoning verbs (e.g., cause, lead)" 
+  - modals
+- crowdsource annotation of comments as "toxic" or not on a scale
+  - "constructiveness and toxicity are orthogonal categories." 
+**** TODO "Finding high-quality content in social media" cite:agichtein_finding_2008 
+- study a Yahoo Answers corpus
+- express "high quality content" through user reputation, 
+  - calculated through graph-based algorithms like PageRank, HITS, ExpertiseRank
+- features: "all word n-grams up to length 5 that appear in the collection more than 3 times used as features."
+  - also add as features POS representations of n-grams
+    - ! "Some part-of-speech sequences are typical of correctly- formed questions: e.g., the sequence “when|how|why to (verb)” (as in “how to identify. . . ”) is typical of lower-quality ques- tions, whereas the sequence “when|how|why (verb) (personal pronoun) (verb)” (as in “how do I remove. . . ”) is more typical of correctly-formed content."
+  - use formality score of cite:heylighen_variation_2002
+- classifier: stochastic gradient boosted trees
+  - "A particularly useful aspect of boosted trees for our settings is their ability to utilize combinations of sparse and dense features." (187)
+- relevance scores: "To represent this we include the KL-divergence between the language models of the two texts, their non-stopword overlap, the ratio between their lengths, and other similar features."
+- 20 most signification question quality features: 
+  - UQV Average number of ”stars” to questions by the same
+asker.
+  - ∅ The punctuation density in the question’s subject.
+  - ∅ The question’s category (assigned by the asker).
+  - ∅ “Normalized Clickthrough:” The number of clicks on the question thread, normalized by the average number of clicks for all questions in its category.
+  - UAV Average number of ”Thumbs up” received by answers written by the asker of the current question.
+  - ∅ Number of words per sentence.
+  - UA Average number of answers with references (URLs) given by the asker of the current question.
+  - UQ Fraction of questions asked by the asker in which he opens the question’s answers to voting (instead of pick- ing the best answer by hand).
+  - UQ Average length of the questions by the asker.
+  - UAV The number of “best answers” authored by the user.
+  - U The number of days the user was active in the system.
+  - UAV “Thumbs up” received by the answers wrote by the asker of the current question, minus “thumbs down”, divided by total number of “thumbs” received.
+  - ∅ “Clicks over Views:” The number of clicks on a question thread divided by the number of times the question thread was retrieved as a search result (see [2]).
+  - ∅ The KL-divergence between the question’s language model and a model estimated from a collection of question answered by the Yahoo editorial team (available in http://ask.yahoo.com).
+  - ∅ The fraction of words that are not in the list of the top-10 words in the collection, ranked by frequency. 
+  - ∅ The number of “capitalization errors” in the question (e.g., sentence not starting with a capitalized word).
+  - U The number of days that has passed since the asker wrote his/her first question or answer in the system.
+  - UAV The total number of answers of the asker that have been selected as the “best answer”.
+  - UQ The number of questions that the asker has asked in its most active category, over the total number of questions that the asker has asked.
+  - ∅ The entropy of the part-of-speech tags of the question.
+- 20 most significant answer features: 
+  - ∅ Answer length.
+  - ∅ The number of words in the answer with a corpus frequency larger than c.
+  - UAV The number of “thumbs up” minus “thumbs down” received by the answerer, divided by the total number of “thumbs” s/he has received.
+  - ∅ The entropy of the trigram character-level model of the answer.
+  - UAV The fraction of answers of the answerer that have been picked as best answers (either by the askers of such questions, or by a community voting).
+  - ∅ The unique number of words in the answer. U Average number of abuse reports received by the answerer over all his/her questions and answers.
+  - UAV Average number of abuse reports received by the answerer over his/her answers.
+  - ∅ The non-stopword word overlap between the question and the answer.
+  - ∅ The Kincaid [21] score of the answer. 
+  - QUA The average number of answers received by the questions asked by the asker of this answer.
+  - ∅ The ratio between the length of the question and the length of the answer.
+  - UAV The number of “thumbs up” minus “thumbs down” received by the answerer.
+  - QUAV The average numbers of “thumbs” received by the answers to other questions asked by the asker of this answer.
+  - ∅ The entropy of the unigram character-level model of the answer.
+  - ∅ The KL-divergence between the answer’s language model and a model estimated from the Wikipedia discussion pages.
+  - QU Number of abuse reports received by the asker of the question being answered.
+  - QUQA The sum of the lengths of all the answers received by the asker of the question being answered.
+  - QUQAV The sum of the “thumbs down” received by the answers received by the asker of the question being answered.
+  - QUQAV The average number of answers with votes in the questions asked by the asker of the question being answered.
+    
+**** TODO "How opinions are received by online communities: a case study on amazon.com helpfulness votes" cite:danescu-niculescu-mizil_how_2009 
+**** TODO "Variation in the contextuality of language: An empirical measure." cite:heylighen_variation_2002   
+**** TODO "Comment classification for an online news domain." cite:brand_comment_2014 
+*** Of potentially abusive behavior
+**** TODO "Finding Deceptive Opinion Spam by Any Stretch of the Imagination" cite:ott_finding_2011 
+**** TODO "Automatic identification of personal insults on social news sites" cite:sood_automatic_2012 
+**** TODO "Modeling the detection of Textual Cyberbullying" cite:dinakar_modeling_2011 
+**** TODO "Cross-Language Learning from Bots and Users to Detect Vandalism on Wikipedia" cite:tran_cross-language_2015 
+**** TODO "Mining for gold farmers: Automatic detection of deviant players in mmogs." cite:ahmad_mining_2009  
+**** TODO "Don’t hate the player, hate the game: The racialization of labor in World of Warcraft." cite:nakamura_dont_2009 
+**** TODO "Antisocial Behavior in Online Discussion Communities" cite:cheng_antisocial_2015 
+**** TODO "Abusive language detection in online user content" cite:nobata_abusive_2016 
+**** TODO "Deep Learning for User Comment Moderation" cite:pavlopoulos_deep_2017 
+**** TODO "Class-based Prediction Errors to Detect Hate Speech with Out-of-vocabulary Words" cite:serra_class-based_2017 
+**** TODO "One-step and Two-step Classification for Abusive Language Detection on Twitter" cite:park_one-step_2017 
+**** TODO "Vectors for Counterspeech on Twitter" cite:wright_vectors_2017 
+**** TODO "Detecting Nastiness in Social Media"  cite:samghabadi_detecting_2017 
+**** TODO "Technology Solutions to Combat Online Harassment" cite:kennedy_iii_hack_2017 
+**** TODO "Understanding Abuse: A Typology of Abusive Language Detection Subtasks"  cite:waseem_understanding_2017 
+**** TODO "Using Convolutional Neural Networks to Classify Hate-Speech" cite:gamback_using_2017 
+**** TODO "Illegal is not a Noun: Linguistic Form for Detection of Pejorative Nominalizations" cite:palmer_illegal_2017 
+**** TODO "Locate the hate: Detecting tweets against blacks." cite:kwok_locate_2013 
+**** TODO "Hate speech detection with comment embeddings" cite:djuric_hate_2015 
+**** TODO "Analyzing the targets of hate in online social media" cite:silva_analyzing_2016 
+**** TODO "Hateful Symbols or Hateful People: Predictive features for hate speech detection on twitter" cite:waseem_hateful_2016 
+**** TODO "Ex machina: Personal attacks seen at scale." cite:wulczyn_ex_2017  
+**** TODO "Automated hate speech detection and the problem of offensive language." cite:davidson_automated_2017   
+
+*** Linguistic properties of abusive language
+**** TODO "Dimensions of Abusive Language on Twitter" cite:clarke_dimensions_2017  
+**** TODO "Abusive language detection in online user content" cite:nobata_abusive_2016 
+** Psychology, Perception
+*** TODO "The “Nasty Effect:” Online Incivility and Risk Perceptions of Emerging Technologies." cite:anderson_nasty_2014   
+*** TODO "Newsworthiness and Network Gatekeeping on Twitter: The Role of Social Deviance" cite:diakopoulos_newsworthiness_2014  
+** Gamergate
+*** DONE [[http://www.newyorker.com/tech/elements/zoe-quinns-depression-quest][Zoe Quinn’s Depression Quest | The New Yorker]]
+CLOSED: [2017-08-21 Mon 13:22]
+*** TODO [[https://www.nytimes.com/2014/10/16/technology/gamergate-women-video-game-threats-anita-sarkeesian.html][Feminist Critics of Video Games Facing Threats in ‘GamerGate’ Campaign - The New York Times]]
+* Questions
+** Has anyone done a comment/article similarity (relevance) study like cite:diakopoulos_editors_2015 but using word/document vectors instead of tf-idf? 
+- cite:kolhatkar_constructive_2017 vectorizes words, but not to compute similarity with articles
+** Has anyone studied platform/OS source as predictor of potentially abusive language? 
+- [[http://keyhole.co/][Keyhole]] shows high incidence of bot platforms for #gamergate. These account for almost 20%: 
+  - [[http://twittbot.net/][twittbot]]
+  - [[http://cheapbotsdonequick.com/][Cheap Bots, Done Quick!]]
+  - ITTT (If this, then that) 
+
 * Books and Other Sources
 ** TODO - Cybercrime and its victims
  :PROPERTIES:
@@ -125,7 +438,8 @@ cite:martellozzo_cybercrime_2017
  :END:
 cite:jane_misogyny_2016
 
-** TODO - Weeding Out Online Bullying Is Tough, So Let Machines Do It
+** DONE - Weeding Out Online Bullying Is Tough, So Let Machines Do It
+CLOSED: [2017-08-18 Fri 14:54]
  :PROPERTIES:
   :Custom_ID: alba_weeding_2015
   :AUTHOR: Alba
@@ -134,6 +448,10 @@ cite:jane_misogyny_2016
 cite:alba_weeding_2015
 [[https://www.wired.com/2015/07/weeding-online-bullying-tough-let-machines/][Weeding Out Online Bullying Is Tough, So Let Machines Do It | WIRED]]
 
+SRI International uses data from a major unspecified social media company to train an algorithm against reported data. 
+
+"Smart abusers": "Jamia Wilson, executive director of Women Action Media, a group Twitter appointed last fall to look at reports of harassment on the social network, says her main concern is that abusers are well-aware of the initiatives to curb harassment on networks—and employ sophisticated techniques to avoid detection." 
+ 
 ** TODO - Pew Research Report 2014: Online Harassment
  :PROPERTIES:
   :Custom_ID: duggan_online_2014
@@ -142,3 +460,20 @@ cite:alba_weeding_2015
   :YEAR: 
  :END:
 cite:duggan_online_2014
+
+* Report 1 <2017-08-22 Tue> 
+    
+The detection and prediction of abusive or other "low-quality" language is a much-discussed topic in the computer science field of natural language processing and in computational linguistics. The work I've examined so far largely treats the problem as one of document classification, a subset of machine learning. Documents, which could be articles, comments, tweets, or other text, are first preprocessed (converting them to words or sequences of words), vectorized (transformed into numeric representations of these words), and the resulting vectors, usually along with other contextual features, are used to train machine learning algorithms to recognize abusive or other kinds of language. Once the algorithm is trained against labeled data (comments that have been marked as abusive by other users, for instance), it can then be used to guess whether a test document should be categorized as abusive.  
+
+Although the machine learning algorithm ultimately decides which of the features best categorize its data, whether to use word vector features or other contextual features, and how to weight those features, the researcher must first decide which features to feed it. In some cases, features include term frequencies, adjusted for their frequency in the document or corpus (TF-IDF) (cite:diakopoulos_editors_2015), or n-dimensional word embeddings (cite:agichtein_finding_2008), trained on data like [[https://nlp.stanford.edu/projects/glove/][Stanford's GloVe vectors]]. Nicholas Diakopoulos et al., for instance, introduce a measure of the "relevance" of a news website comment to its article by measuring the cosine similarities of TF-IDF vectors between them. Eugene Agichtein et al use a similar technique to measure relevance of questions and answers from a Q&A website, measuring instead the KL divergence of their language models. Agichtein's team also vectorizes their texts by transforming them into part-of-speech representations, discovering that certain grammatical constructions correlate with the "quality" of the question or answer. 
+
+Sentiment analysis, a sub-field of natural language processing, can also provide useful features for categorization. Stefan Siersdorfer et al find that sentiment scores,  computed using the SentiWordNet, correlate with user ratings of comments on YouTube (cite:siersdorfer_how_2010). Carlos Castillo et al, as well, find sentiment scores to be among the best features that distinguish between "credible" and "non-credible" tweets (cite:castillo_predicting_2013). 
+
+Some of the more interesting features used to train these categorizers, however, are metatextual, rather than textual features. Castillo et al, for instance, find that whether a Twitter user has completed his or her self-description ("bio") is a feature that is weighted highly in distinguishing between tweets automatically categorized as either "news" and "discussion" (cite:castillo_predicting_2013). Agichtein et al use social network theory, and in particular trust propagation theory, to predict "high-quality" questions and answers. If user A answers a question asked by a well-known expert answerer B, for instance, they assume a certain level of expertise on the part of user A.  
+
+While these papers describe techniques for abusive language detection, and not necessarily software, such software does exist. TrollBusters, the fruit of a 2015 hackathon, claims to "identify communities of trolls around any given issue using natural language processing" and "counter cyberattacks in real-time with online community support and positive messaging." As far as I can tell, it is proprietary software. [[http://www.perspectiveapi.com/][Perspective]], a product produced by the startup Jigsaw, an Alphabet (Google) company, is a more mature-looking product, with a public API that could be used to label comments according to their potential "toxicity." Although much of [[https://github.com/conversationai][Perspective's code]] is on GitHub, it is unclear how much of their model is public, so there might still be room for development of a fully open-source tool. 
+
+There are a few dozen other papers in this area I have yet to explore, and a few related fields, besides. The fields of automated essay grading and readability indexing may hold techniques that are useful to the automated detection of abusive text. Non-computational fields, as well, such as psychology and media studies, may provide useful ideas for ML feature design. I hope to explore the Gamergate controversy in more detail, especially since [[https://prpole.github.io/semantic-analysis-of-one-million-gamergate-tweets/][a colleague of mine has recently done a computational analysis of its tweets]]. (A quick analysis of gamergate tweets on Keyhole reveals that around 10% of the tweets came from Twitter bot platforms--are there automated abuse robots, and how might these be identified?) 
+
+* References
+<<bibliography link>> bibliographystyle:unsrt bibliography:SOPS.bib
