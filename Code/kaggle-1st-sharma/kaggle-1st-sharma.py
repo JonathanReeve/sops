@@ -23,7 +23,7 @@ TRAIN_FILE      = DIR_PATH + "train.csv"
 TEST_SOL_FILE   = DIR_PATH + "test_with_solutions.csv"   # This is also used for training, together with TRAIN_FILE
 BADWORDS_FILE   = DIR_PATH + "badwords.txt"              # attached with submission
 
-TEST_FILE       = DIR_PATH + "verification.csv"          # set this to the new test file name
+TEST_FILE       = DIR_PATH + "impermium_verification_set.csv"          # set this to the new test file name
 PREDICTION_FILE = DIR_PATH + "preds.csv"                 # predictions will be written here
 
 ########
@@ -94,11 +94,11 @@ def ngrams(data, labels, ntrain, mn=1, mx=1, nm=500, binary = False, donorm = Fa
         analyzer_type = 'char'
 
     if binary:
-        vectorizer = CountVectorizer(max_n=mx,min_n=mn,binary=True)
+        vectorizer = CountVectorizer(ngram_range=(mx,mn),binary=True)
     elif stopwords:
-        vectorizer = TfidfVectorizer(max_n=mx,min_n=mn,stop_words='english',analyzer=analyzer_type,sublinear_tf=True)
+        vectorizer = TfidfVectorizer(ngram_range=(mx,mn),stop_words='english',analyzer=analyzer_type,sublinear_tf=True)
     else:
-        vectorizer = TfidfVectorizer(max_n=mx,min_n=mn,sublinear_tf=True,analyzer=analyzer_type)
+        vectorizer = TfidfVectorizer(ngram_range=(mx,mn),sublinear_tf=True,analyzer=analyzer_type)
 
     if verbose:
         print("extracting ngrams... where n is [%d,%d]" % (mn,mx))
