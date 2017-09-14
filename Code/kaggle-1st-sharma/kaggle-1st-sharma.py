@@ -164,7 +164,7 @@ def run(verbose = True):
     train  = [x[2] for x in train_data]
 
     test_data = readCsv(TEST_FILE)
-    test_data = [x[1] for x in test_data]
+    test_data = [x[2] for x in test_data]
     data = train + test_data
     n = len(data)
     ntrain = len(train)
