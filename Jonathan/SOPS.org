@@ -111,6 +111,13 @@ CLOSED: [2017-09-14 Thu 13:12]
 :LOGBOOK:
 CLOCK: [2017-09-14 Thu 13:02]--[2017-09-14 Thu 14:03] =>  1:01
 :END:
+** TODO make outline of master report
+** TODO make master report
+- technical solutions
+- industry responses
+- psychology, psycholinguistics
+- legal frameworks
+- names of potential future collaborators
 * Links 
 ** News, Blogs, Mass Media
 *** DONE [[https://www.nytimes.com/2017/06/21/opinion/whatsapp-crowds-and-power-in-india.html][*New York Times* WhatsApp, Crowd, Power in India]]
@@ -939,6 +946,7 @@ CLOSED: [2017-08-21 Mon 13:22]
 ** Has anyone written a Twitter bot to identify abusive speech, and then ask the alleged abuser/abusee whether he/she thought it was abusive? 
  - This approach might be able to learn from correct/incorrect identifications.
 ** What Twitter accounts or hashtags might be cataloging abusive tweets? Can these be mined to create new datasets? 
+** If we can identify male voices or deceptive, can we use that as a proxy to identifying trolls? 
 * Books and Other Sources
 ** TODO - Cybercrime and its victims
  :PROPERTIES:
@@ -982,7 +990,6 @@ cite:duggan_online_2014
 
 * Reports
 ** Report 1 <2017-08-22 Tue> 
-    
 The detection and prediction of abusive or other "low-quality" language is a much-discussed topic in the computer science field of natural language processing and in computational linguistics. The work I've examined so far largely treats the problem as one of document classification, a subset of machine learning. Documents, which could be articles, comments, tweets, or other text, are first preprocessed (converting them to words or sequences of words), vectorized (transformed into numeric representations of these words), and the resulting vectors, usually along with other contextual features, are used to train machine learning algorithms to recognize abusive or other kinds of language. Once the algorithm is trained against labeled data (comments that have been marked as abusive by other users, for instance), it can then be used to guess whether a test document should be categorized as abusive.  
 
 Although the machine learning algorithm ultimately decides which of the features best categorize its data, whether to use word vector features or other contextual features, and how to weight those features, the researcher must first decide which features to feed it. In some cases, features include term frequencies, adjusted for their frequency in the document or corpus (TF-IDF) (cite:diakopoulos_editors_2015), or n-dimensional word embeddings (cite:agichtein_finding_2008), trained on data like [[https://nlp.stanford.edu/projects/glove/][Stanford's GloVe vectors]]. Nicholas Diakopoulos et al., for instance, introduce a measure of the "relevance" of a news website comment to its article by measuring the cosine similarities of TF-IDF vectors between them. Eugene Agichtein et al use a similar technique to measure relevance of questions and answers from a Q&A website, measuring instead the KL divergence of their language models. Agichtein's team also vectorizes their texts by transforming them into part-of-speech representations, discovering that certain grammatical constructions correlate with the "quality" of the question or answer. 
@@ -1018,7 +1025,7 @@ As previously noted, very little user-space software seems to exist for detectio
 These scores highlight both the high variability between algorithms, and their difficulty with ambiguous language. 
 
 More abstract and theoretical work in this area also seems worthy of more examination. Heylighen et al's formality score, a formula using part-of-speech representations of words, uses anthropological and psycholinguistic theories of contextuality (linguistic deixis). Although this measure is used directly in categorization experiments (cite:agichtein_finding_2008), its methodology might also be adapted to build other POS pattern-based approaches for the detection of abusive language. The methods of the sub-field of deceptive opinion spam (false product reviews, for instance), which in some cases succeed in detecting opinion spam at 90%, a success rate much higher than those of human judges, might also be adapted to the detection of abusive language.  
-** TODO Report 3, <2017-09-14 Thu> 
+** Report 3, <2017-09-14 Thu> 
 This week, I began by exploring some of the winning entries from the 2012 Kaggle data science contest, [[https://www.kaggle.com/c/detecting-insults-in-social-commentary][Detecting Insults in Social Commentary]]. The top six entries used the Python programming language and its machine learning libraries, like Scikit-Learn; other entries used the statistical language R or other programming languages. Since the top entries all seemed to use similar categorizers and meta-categorizers (grid-search cross-validation techniques), they largely differ in preprocessing. One coder credits "good tokenization" as one of the major keys to his success. Domain-specific knowledge, and in particular linguistic observation of the training data, then, provided the most tangible advantages. Knowledge of the obfuscation techniques used by speakers of insults, for instance, contributed to these useful tokenization techniques. 
 
 Following my previous report on formality scores and their use in these categorization tasks, I began to investigate the field of computational psycholinguistics. A few articles in this field exist that take quantitative approaches to the study of language produced by people who have been diagnosed with mental illness. cite:gawda_emotional_2013, for instance, studies narratives written by prison inmates diagnosed with Antisocial Personality Disorder (ASPD), as compared with a control group, and those diagnosed as not having the disorder. They find that emotional words are higher in general among those with ASPD, but negative words, for instance, might have lower than normal scores for narratives that describe hate. When seen in the context of our project of the computational identification of abusive language, this finding suggests that negative words on their own may not be markers of abuse, at least that originating from those with ASPD. Similarly, cite:rieber_language_1994, a literature review of "the language of psychopathy" finds that often one of the distinguishing linguistic features of these patients is the /lack/ of emotional markers in certain contexts. Here again, this indicates that strong emotional valence, as measured by sentiment analysis, might not on its own be a useful feature for a categorizer, and that contextually contrasting emotional content might perform better.
@@ -1059,4 +1066,5 @@ communities of abuse / trust propogation
 social network studies have been done, and formality studies, but not yet formality+social network
 ! do more reading in psycholinguistics.
  - deixis
-  
+* Notes from meeting <2017-09-14 Thu>
+** NYU twitter bots: [[https://cds.nyu.edu/using-data-science-moderate-online-harrassment/][Using Data Science to Moderate Online Harrassment - NYU Center for Data Science]]
