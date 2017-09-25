@@ -10,14 +10,18 @@ authors: Jonathan Reeve, Colin Muller
 ### Taxonomies
 
  - Hate speech
- - Cyberbullying
- - Cyberstalking
+ - Bullying
+ - Harassment and stalking
+ - Dangerous speech
  - Abuse of journalists
    - "Gamergate"
  - Related language patterns that, while not strictly abusive language, could be useful to its detection
    - Misinformation (e.g. Russian fake news)
    - Deceptive opinion spam (e.g. fake Amazon product reviews) 
- 
+
+#### Alternative Taxonomies (Colin)
+
+
 ### Statistics 
 
  - General stats related to abusive langauge
@@ -34,6 +38,9 @@ authors: Jonathan Reeve, Colin Muller
  - Working to Halt Online Abuse
  - No Hate Speech Movement
  - Etc...
+
+#### Legal Aid
+#### Education
 
 ### Initiatives by Social Media Platforms
 
@@ -66,6 +73,7 @@ authors: Jonathan Reeve, Colin Muller
  - Classifiers used
  - Meta-classification
 
+
 ### Detection of Quality, Formality
 
  - Formality scores
@@ -93,6 +101,15 @@ authors: Jonathan Reeve, Colin Muller
 ## Counterspeech (Colin)
 
  - Kevin Munger article
+
+### Types
+
+A useful method of typologizing harmful speech online is by distinguishing between the types of exchanges (vectors). (This is basedon the models put forward in Counterspeech on Twitter: A Field Study)
+ 
+ - One-to-one: one person deploying counterspeech against one person’s hate speech
+ - One-to-many: one person deploying counterspeech against many people’s hate speech
+ - Many-to-one: many people deploying counterspeech against one person’s hate speech
+ - Many-to-many: many people deploying counterspeech against many people’s hate speech
  
 # Future Directions
 
