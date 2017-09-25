@@ -111,7 +111,11 @@ CLOSED: [2017-09-14 Thu 13:12]
 :LOGBOOK:
 CLOCK: [2017-09-14 Thu 13:02]--[2017-09-14 Thu 14:03] =>  1:01
 :END:
-** TODO make outline of master report
+** TODO [#A] make outline of master report
+SCHEDULED: <2017-09-23 Sat>
+:LOGBOOK:
+CLOCK: [2017-09-25 Mon 14:33]
+:END:
 ** TODO make master report
 - technical solutions
 - industry responses
@@ -342,9 +346,9 @@ CLOSED: [2017-08-18 Fri 12:10]
 - "Danah Boyd reads Data & Society and CiPHR’s new report, “Online Harassment, Digital Abuse, and Cyberstalking in America,” and connects it with her own qualitative research and today’s political culture. Online harassment, she argues, suppresses voices that need to be heard for the public sphere to be public. — Ed." 
 **** TODO [[https://www.theatlantic.com/technology/archive/2016/11/people-censor-themselves-online-for-fear-of-being-harassed/508523/][47 Percent of U.S. Internet Users Have Experienced Online Abuse - The Atlantic]]
 ** Social Media Services
-**** General Legal / Terms of Service Issues
-***** TODO "Towards a better protection of social media users: a legal perspective on the terms of use of social networking sites" cite:wauters_towards_2014 
-***** TODO "Intermediaries and hate speech: Fostering digital citizenship for our information age." cite:citron_intermediaries_2011 
+*** General Legal / Terms of Service Issues
+**** TODO "Towards a better protection of social media users: a legal perspective on the terms of use of social networking sites" cite:wauters_towards_2014 
+**** TODO "Intermediaries and hate speech: Fostering digital citizenship for our information age." cite:citron_intermediaries_2011 
 *** Facebook 
 **** DONE - ProPublica: [[https://www.propublica.org/article/facebook-hate-speech-censorship-internal-documents-algorithms][Facebook's Secret Censorship Rules Protect White Men from Hate Speech But Not Black Children]]
 CLOSED: [2017-08-16 Wed 14:05]
@@ -1038,7 +1042,8 @@ New directions for research include six US patents related to the detection of a
 
 * References
 <<bibliography link>> bibliographystyle:unsrt bibliography:SOPS.bib
-* Notes from meeting <2017-08-22 Tue> 
+* Meeting notes
+** Notes from meeting <2017-08-22 Tue> 
 How does anti-bullying work in real life? 
 How does online bullying differ from real-world bullying? 
  - Does bullying happen IRL when no one else is around, when they're not being watched?
@@ -1054,17 +1059,17 @@ What opportunities for colloration are there?
 Aggression, personal attacks as irrelevance. 
 What power differentials are there between high-profile (lots of followers) figures and low-profile figures? 
 What applications of RST might there be?  
-* Notes from meeting <2017-08-28 Mon> 
+** Notes from meeting <2017-08-28 Mon> 
 Google account suspension of School of Prof. Studies stats professor, tweeting about Clinton and the 2016 election
  - ML algorithm probably made a mistake in categorizing this as abusive
  - [[https://www.inc.com/sonya-mann/salil-mehta-free-speech.html][A Handful of Tech Companies Decide Who Has Free Speech Online. That's Not Good. | Inc.com]]
-** Colin's week 1 summary: [[https://docs.google.com/document/d/1Hmk5KZxQ0ci_QZHlWFLDwX_Sr47fGgeSKS1qFFw17ok/edit?ts=59a45e96#heading=h.9eg2yefb1sbk][Summaries Week 1 - Google Docs]]
-* Notes from meeting <2017-09-07 Thu> 
+*** Colin's week 1 summary: [[https://docs.google.com/document/d/1Hmk5KZxQ0ci_QZHlWFLDwX_Sr47fGgeSKS1qFFw17ok/edit?ts=59a45e96#heading=h.9eg2yefb1sbk][Summaries Week 1 - Google Docs]]
+** Notes from meeting <2017-09-07 Thu> 
 Colin: lack of theorizing re: cyberbullying
 techniques of counterspeech
 communities of abuse / trust propogation
 social network studies have been done, and formality studies, but not yet formality+social network
 ! do more reading in psycholinguistics.
  - deixis
-* Notes from meeting <2017-09-14 Thu>
-** NYU twitter bots: [[https://cds.nyu.edu/using-data-science-moderate-online-harrassment/][Using Data Science to Moderate Online Harrassment - NYU Center for Data Science]]
+** Notes from meeting <2017-09-14 Thu>
+*** NYU twitter bots: [[https://cds.nyu.edu/using-data-science-moderate-online-harrassment/][Using Data Science to Moderate Online Harrassment - NYU Center for Data Science]]
