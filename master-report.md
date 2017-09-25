@@ -3,11 +3,8 @@ title: A Safer Online Public Square
 authors: Jonathan Reeve, Colin Muller
 ---
 
-# The Problems
-
-## Abusive Language: Statistics and Taxonomies (Colin and Jonathan) 
-
-### Taxonomies
+# Problems
+## Taxonomies
 
  - Hate speech
  - Bullying
@@ -19,19 +16,14 @@ authors: Jonathan Reeve, Colin Muller
    - Misinformation (e.g. Russian fake news)
    - Deceptive opinion spam (e.g. fake Amazon product reviews) 
 
-#### Alternative Taxonomies (Colin)
-
-
-### Statistics 
+## Statistics 
 
  - General stats related to abusive langauge
  - Cyberbulling stats
  - Hate speech stats
 
 # Existing Approaches
-
 ## Organizations 
-
 ### Advocacy Groups (Colin and Jonathan)
 
  - [Women's Media Center Speech Project](http://wmcspeechproject.com/)
@@ -39,8 +31,8 @@ authors: Jonathan Reeve, Colin Muller
  - No Hate Speech Movement
  - Etc...
 
-#### Legal Aid
-#### Education
+#### Legal Aid (Colin)
+#### Education (Colin)
 
 ### Initiatives by Social Media Platforms
 
@@ -50,13 +42,6 @@ authors: Jonathan Reeve, Colin Muller
  - New social media outlets (Mastodon) created with these problems in mind
  - Moderation, flagging
 
-### Organizations and Projects Employing Machine Learning 
-
- - Jigsaw (Google)
-   - Perspective API
- - Wikimedia Foundation WikiDeTox project
- - Brief survey of US patents for detection of "offensiveness"
- 
 ### Databases and Datasets
 
  - Trolldor: "the global blacklist of twitter trolls"
@@ -64,6 +49,13 @@ authors: Jonathan Reeve, Colin Muller
  - Gamergate tweets
  - Public training data from Kaggle contest and other similar projects
 
+### Organizations and Projects Employing Machine Learning 
+
+ - Jigsaw (Google)
+   - Perspective API
+ - Wikimedia Foundation WikiDeTox project
+ - Brief survey of US patents for detection of "offensiveness"
+ 
 ## Computational Detection of Abusive Language, Behaviors, or People (Jonathan)
 
 ### General Classification Studies
@@ -72,7 +64,6 @@ authors: Jonathan Reeve, Colin Muller
  - Features used
  - Classifiers used
  - Meta-classification
-
 
 ### Detection of Quality, Formality
 
@@ -97,14 +88,13 @@ authors: Jonathan Reeve, Colin Muller
  - Detection of misinformation
 
 ## And the Law (Colin)
-
 ## Counterspeech (Colin)
 
  - Kevin Munger article
 
 ### Types
 
-A useful method of typologizing harmful speech online is by distinguishing between the types of exchanges (vectors). (This is basedon the models put forward in Counterspeech on Twitter: A Field Study)
+A useful method of typologizing harmful speech online is by distinguishing between the types of exchanges (vectors). (This is based on the models put forward in Counterspeech on Twitter: A Field Study)
  
  - One-to-one: one person deploying counterspeech against one person’s hate speech
  - One-to-many: one person deploying counterspeech against many people’s hate speech
