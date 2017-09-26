@@ -7,6 +7,8 @@ authors: Jonathan Reeve, Colin Muller
 ## Taxonomies
 
  - Hate speech
+   - “An expression that denigrates or stigmatizes a person or people based on their membership of a group that is usually but not always immutable, such as an ethnic or religious group. Sometimes other groups, defined by disability or sexual orientation, for example, are included.” Source: Benesch, Susan. Defining and diminishing hate speech. 2014. 
+
  - Bullying:
    - “Cyberbullying is any behavior performed through electronic or digital media by individuals or groups that repeatedly communicates hostile or aggressive messages intended to inflict harm or discomfort on others. Additionally, the following addendum may be included with the definition.... In cyberbullying experiences, the identity of the bully may or may not be known. Cyberbullying can occur through electronically mediated communication at school; however, cyberbullying behaviors commonly occur outside of school as well." Tokunaga, Robert S. "Following you home from school: A critical review and synthesis of research on cyberbullying victimization." Computers in human behavior 26.3 (2010): 278.
    - Definitions of cyberbullying are derived from definitions of traditional bullying which generally include the 3 conditions of 1. Repeated behavior 2. Psychological torment 3. Carried out with intent.
@@ -14,6 +16,15 @@ authors: Jonathan Reeve, Colin Muller
 
  - Harassment and stalking
  - Dangerous speech
+   - “speech that can inspire or catalyze intergroup violence” Source: Counterspeech on Twitter: A Field Study https://dangerousspeech.org/counterspeech-on-twitter-a-field-study/ 
+   - Susan Benesch puts forward the following conditions that make the likelihood of speech resulting in group violence : 
+     - there is a “powerful speaker with a high degree of influence;”
+     - there is a receptive audience with “grievances and fear that the speaker can cultivate;”
+     - a speech act “that is clearly under-stood as a call to violence;”
+     - a social or historical context that is “propitious for violence, for any of a variety of reasons;”
+     - An “influential means of dissemination.”” 
+     - Source: http://www.worldpolicy.org/sites/default/files/Dangerous%20Speech%20Guidelines%20Benesch%20January%202012.pdf 
+
  - Abuse of journalists
    - "Gamergate"
  - Related language patterns that, while not strictly abusive language, could be useful to its detection
