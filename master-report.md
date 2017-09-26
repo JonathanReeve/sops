@@ -103,6 +103,17 @@ authors: Jonathan Reeve, Colin Muller
  - Detection of misinformation
 
 ## And the Law (Colin)
+### US Federal Law
+- section 230 of the Communications Decency Act
+- Civil Rights Law
+-[Elonis v United States](https://www.supremecourt.gov/opinions/14pdf/13-983_7l48.pdf)
+  - [menacing behavior online thrown out by supreme court](http://www.pewresearch.org/fact-tank/2015/06/01/the-darkest-side-of-online-harassment-menacing-behavior/) 
+### European Law
+- [Code of Conduct on Countering Illegal Hate Speech Online](ec.europa.eu/justice/fundamental-rights/files/hate_speech_code_of_conduct_en.pdf)
+- [Code of Conduct signed by Facebook, Microsoft, Twitter and YouTube](https://www.theguardian.com/technology/2016/may/31/facebook-youtube-twitter-microsoft-eu-hate-speech-code)
+### International Law
+- International Covenant on Civil and Political Rights (ICCPR)
+
 ## Counterspeech (Colin)
 
  - Kevin Munger article
