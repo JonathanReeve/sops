@@ -30,7 +30,14 @@ authors: Jonathan Reeve, Colin Muller
  - Related language patterns that, while not strictly abusive language, could be useful to its detection
    - Misinformation (e.g. Russian fake news)
    - Deceptive opinion spam (e.g. fake Amazon product reviews) 
+ - Implicit v. Explicit & Generalized v. Directed Abusive Language 
+   - Waseem et al. propose two primary factors for typologizing abusive language rather than attempting to define various terms such as abusive language, hate speech, cyberbullying, cyber harassment. They propose the following two factors: 
+     - Is the language directed towards a specific individual or entity or is it directed towards a generalized group?
+     - Is the abusive content explicit or implicit?     
+   - Typologizing based on these two factors is useful, as there can be a lot of overlap and ambiguity when relying on stricter defintions. One shortcoming of this typology is that by making the distinction between directed/generalized attacks, the research may downplay the fact that hate speech, even when verbally directed at an individual (ex: calling someone a racial slur) is a crime against an entire sub-group of people. 
+   - Source: [Waseem, Zeerak, et al. "Understanding Abuse: A Typology of Abusive Language Detection Subtasks." arXiv preprint arXiv:1705.09899 (2017).](http://www.aclweb.org/anthology/W17-3012)
 
+   
 ## Statistics 
 
  - General stats related to abusive langauge
