@@ -163,6 +163,18 @@ A useful method of typologizing harmful speech online is by distinguishing betwe
  - Many-to-one: many people deploying counterspeech against one person’s hate speech
  - Many-to-many: many people deploying counterspeech against many people’s hate speech
  
+## Inoculation 
+ Inoculation is a long-term method for fighting against hate speech that takes some time. It involves instilling values in a society that oppose hate speech, and deals especially with building the social-psychological tools necessary so that groups of people don't fall victim to the pressures of engaging in hate speech or being incited by it. 
+ - An example of a group that deals with Inoculation is Radio la Benevolencija (RLB) a dutch nonprofit that produces entertainment for countries in central africa that deals with the psychology underlying incitement to hate and violence.
+ - [Citron and Norton](http://web.a.ebscohost.com.ezproxy.cul.columbia.edu/ehost/pdfviewer/pdfviewer?vid=1&sid=1c840371-b7ff-4ba7-a74e-8848b5bae30a%40sessionmgr4008) suggest that internet intermediaries and society at large  (especially public schools) play a stronger role in fostering digital citizenship   
+
+ ## Calling out & doxxing
+ - Gettign racists fired
+ - Yes you’re racist/sexist
+ - Goodbye felipe
+
+
+ 
 # Future Directions
 
 ## Potential Applications of Related Fields (Jonathan)
