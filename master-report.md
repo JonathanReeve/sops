@@ -53,13 +53,13 @@ There is significant corpus of writing by scholars attempting to formulate a def
 
 Besides the approach of defining and taxonomizing different forms of hate speech, some have formulated other vectors for recognizing harmful speech online. 
 
- - Implicit v. Explicit & Generalized v. Directed Abusive Language 
+ #### Implicit v. Explicit & Generalized v. Directed Abusive Language 
    - Waseem et al. propose two primary factors for typologizing abusive language rather than attempting to define various terms such as abusive language, hate speech, cyberbullying, cyber harassment. They propose the following two factors: 
      - Is the language directed towards a specific individual or entity or is it directed towards a generalized group?
      - Is the abusive content explicit or implicit?     
    - Typologizing based on these two factors is useful, as there can be a lot of overlap and ambiguity when relying on stricter defintions. One shortcoming of this typology is that by making the distinction between directed/generalized attacks, the research may downplay the fact that hate speech, even when verbally directed at an individual (ex: calling someone a racial slur) is a crime against an entire sub-group of people. 
    - Source: [Waseem, Zeerak, et al. "Understanding Abuse: A Typology of Abusive Language Detection Subtasks." arXiv preprint arXiv:1705.09899 (2017).](http://www.aclweb.org/anthology/W17-3012)
-- Justice Stewart's rule: “I know it when I see it”
+#### Justice Stewart's rule: “I know it when I see it”
 Justice Stewart famously asserted that “I know it when I see it” when referring to identifying obscenity. It seems to be the consensus that this approach is not applicable to identifying hate speech due to the variety of forms of speech and contexts which one could identify as hate speech.
 
 There are instances where specific epithets or insults are used and an outsider or scholar may see hate speech but the speaker/recipient do not. Henry Louis Gates Jr. for this reason asserted that we should not “spend more time worrying about speech codes than coded speech.” Since a lot of hate speech can be coded or masked by symbols.
