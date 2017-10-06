@@ -19,6 +19,8 @@ There are many categories of speech that fall under the umbrella of harmful spee
 
 ## Taxonomies
 
+There is significant corpus of writing by scholars attempting to formulate a definition and taxonomy of harmful speech online. These classifications will often vary based on the purpose of the definition which varies from academic research, legal recommendations, or advocacy. These different purposes result in varying breadth and scope of definitions, and disagreement over definitions is one of the main challenges in compiling data from different sources on the frequency of harmful speech online (as the specific behavior being monitored in different studies varies widely). Despite these challenges, it is useful to outline the different categories of harmful online behavior, as these different types manifest themselves differently and will require different approaches for intervention.
+
  - Hate speech
    - “An expression that denigrates or stigmatizes a person or people based on their membership of a group that is usually but not always immutable, such as an ethnic or religious group. Sometimes other groups, defined by disability or sexual orientation, for example, are included.” Source: Benesch, Susan. Defining and diminishing hate speech. 2014. 
 
