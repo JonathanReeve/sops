@@ -27,6 +27,7 @@ There is significant corpus of writing by scholars attempting to formulate a def
  - Bullying:
    - “Cyberbullying is any behavior performed through electronic or digital media by individuals or groups that repeatedly communicates hostile or aggressive messages intended to inflict harm or discomfort on others. Additionally, the following addendum may be included with the definition.... In cyberbullying experiences, the identity of the bully may or may not be known. Cyberbullying can occur through electronically mediated communication at school; however, cyberbullying behaviors commonly occur outside of school as well." Tokunaga, Robert S. "Following you home from school: A critical review and synthesis of research on cyberbullying victimization." Computers in human behavior 26.3 (2010): 278.
    - Definitions of cyberbullying are derived from definitions of traditional bullying which generally include the 3 conditions of 1. Repeated behavior 2. Psychological torment 3. Carried out with intent.
+     - the question of the repetition of bullying behavior is complicated online since a single post on a social media site can have a repeated effect on its target with every ‘like’ or ‘share’ 
    - Cyberbullying is seen more as an “opportunistic offense” since individuals who don’t engage in traditional bullying will do so online since of the low threat of being caught and the lack of any clear disciplinary authority
 
  - Harassment and stalking
