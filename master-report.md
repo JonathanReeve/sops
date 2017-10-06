@@ -16,6 +16,8 @@ Some critics of attempts to filter out harmful speech online claim that it viola
 
 There are many categories of speech that fall under the umbrella of harmful speech (The main categories are harassment, bullying, hate speech, and dangerous speech), but the boundaries between these different categories are neither rigid nor clear. The ambiguity posed by these various categories has led some to abandon formal definitions and seek different approaches to classifying harmful speech (see section below). Beyond this issue of classifying speech, there remains the problem of what one subjectively perceives as harmful speech; one [study](https://pdfs.semanticscholar.org/db55/11e90b2f4d650067ebf934294617eff81eca.pdf) found only 33% overall agreement between students of different races asked to assess the degree to which tweets were racially offensive.
 
+### Statement of purpose of our preliminary report (to discuss at meeting)
+
 
 ## Taxonomies
 
@@ -32,7 +34,7 @@ There is significant corpus of writing by scholars attempting to formulate a def
 
  - Harassment and stalking
  - Dangerous speech
-   - “speech that can inspire or catalyze intergroup violence” Source: Counterspeech on Twitter: A Field Study https://dangerousspeech.org/counterspeech-on-twitter-a-field-study/ 
+   - “speech that can inspire or catalyze intergroup violence” Source: [Counterspeech on Twitter: A Field Study](https://dangerousspeech.org/counterspeech-on-twitter-a-field-study/) 
    - Susan Benesch puts forward the following conditions that make the likelihood of speech resulting in group violence : 
      - there is a “powerful speaker with a high degree of influence;”
      - there is a receptive audience with “grievances and fear that the speaker can cultivate;”
@@ -46,6 +48,11 @@ There is significant corpus of writing by scholars attempting to formulate a def
  - Related language patterns that, while not strictly abusive language, could be useful to its detection
    - Misinformation (e.g. Russian fake news)
    - Deceptive opinion spam (e.g. fake Amazon product reviews) 
+   
+   ### Alternative approaches to classifying harfmul speech:
+
+Besides the approach of defining and taxonomizing different forms of hate speech, some have formulated other vectors for recognizing harmful speech online. 
+
  - Implicit v. Explicit & Generalized v. Directed Abusive Language 
    - Waseem et al. propose two primary factors for typologizing abusive language rather than attempting to define various terms such as abusive language, hate speech, cyberbullying, cyber harassment. They propose the following two factors: 
      - Is the language directed towards a specific individual or entity or is it directed towards a generalized group?
@@ -60,7 +67,7 @@ There is significant corpus of writing by scholars attempting to formulate a def
  - Cyberbulling stats
  - Hate speech stats
 
-# Existing Approaches
+# Existing Approaches to Intervention
 ## Organizations 
 ### Advocacy Groups (Colin and Jonathan)
 
