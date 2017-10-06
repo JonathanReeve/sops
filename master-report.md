@@ -4,6 +4,16 @@ authors: Jonathan Reeve, Colin Muller
 ---
 
 # Problems
+
+## Introdution 
+
+Perhaps the most challenging step in developing social or technological tools for promoting a ‘safer online public square’ is defining what sort of speech constitutes a threat to the civility and safety of members of online communities.
+
+Where do we draw the line between off-color and offensive content and content that inflicts harm or hate upon an individual or group? Additionally, how can a third party moderator (or algorithm) gauge the context of the speech as well as the the subjective perception of the speech by both speaker and target of the speech? 
+
+Some critics of attempts to filter out harmful speech online claim that it violates first amendment free speech principles. These arguments vary, but generally point to the danger that   content moderation may silence dissenting voices or unpopular opinions. On the other hand, defenders of content moderation assert that  social media platforms have the right to remove content at their own discretion as they are not government agents who are held to first amendment standards. First amendment legal scholars have split the debate of free speech and content intermediaries between [the right to speak and the right to hear/be heard](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1205674) , with some arguing that the mere right to speak is insufficient if the media has the power to suppress any platform that this speech may have. Conversely, an individuals ability (or right?) to rapidly draft and publish a hateful tweet does necessitate that those targeted by the speech must view the harmful post.
+
+
 ## Taxonomies
 
  - Hate speech
