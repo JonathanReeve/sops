@@ -93,8 +93,17 @@ CLOSED: [2017-08-30 Wed 12:00] SCHEDULED: <2017-08-30 Wed>
 :LOGBOOK:
 CLOCK: [2017-08-30 Wed 12:39]--[2017-08-30 Wed 13:00] =>  0:21
 :END:
-*** TODO [#A] ask French dept about sending PAF back to the English Dept  
+*** DONE [#A] ask French dept about sending PAF back to the English Dept  
+CLOSED: [2017-09-27 Wed 11:59]
+:LOGBOOK:
+CLOCK: [2017-09-27 Wed 11:46]--[2017-09-27 Wed 11:59] =>  0:13
+:END:
   [[mu4e:msgid:cb16c372-6032-1fef-570e-4c1770b0e42d@columbia.edu][uwp-list Information Memo #3: What to do if you worked elsewhere on campus this summer or will during the year]]
+*** TODO [#A] fill out timesheet and submit to French department
+DEADLINE: <2017-09-28 Thu> SCHEDULED: <2017-09-27 Wed>
+:LOGBOOK:
+CLOCK: [2017-09-27 Wed 11:59]--[2017-09-27 Wed 12:24] =>  0:25
+:END:
 ** TODO organize GitHub repository into folders  
   [[mu4e:msgid:CAAobwCjeCaVxUtrTRsE89qFFSnVW0dE46bp0jtBwX+YEP=3Zgg@mail.gmail.com][Re: a time to meet this week?]]
 ** TODO explore hatebase.org dataset
@@ -111,17 +120,21 @@ CLOSED: [2017-09-14 Thu 13:12]
 :LOGBOOK:
 CLOCK: [2017-09-14 Thu 13:02]--[2017-09-14 Thu 14:03] =>  1:01
 :END:
-** TODO [#A] make outline of master report
-SCHEDULED: <2017-09-23 Sat>
+** DONE [#A] make outline of master report
+CLOSED: [2017-09-27 Wed 12:36] SCHEDULED: <2017-09-23 Sat>
 :LOGBOOK:
-CLOCK: [2017-09-25 Mon 14:33]
+CLOCK: [2017-09-25 Mon 14:33]--[2017-09-25 Mon 15:53] =>  1:20
+:END:
+** TODO [#A] set up Doodle poll for next meeting
+:LOGBOOK:
+CLOCK: [2017-09-25 Mon 18:00]--[2017-09-25 Mon 18:19] =>  0:19
 :END:
 ** TODO make master report
-- technical solutions
-- industry responses
-- psychology, psycholinguistics
-- legal frameworks
-- names of potential future collaborators
+DEADLINE: <2017-10-07 Sat> SCHEDULED: <2017-10-07 Sat>
+:LOGBOOK:
+CLOCK: [2017-10-07 Sat 14:44]
+CLOCK: [2017-10-07 Sat 12:20]--[2017-10-07 Sat 13:13] =>  0:53
+:END:
 * Links 
 ** News, Blogs, Mass Media
 *** DONE [[https://www.nytimes.com/2017/06/21/opinion/whatsapp-crowds-and-power-in-india.html][*New York Times* WhatsApp, Crowd, Power in India]]
@@ -279,8 +292,10 @@ CLOSED: [2017-09-03 Sun 18:50]
 - bad words list: "For the list of bad words, I used one that allegedly is also used by google. As this will include 'motherfucker' but not 'idiot' or 'moron' (two VERY important words in the training / leaderboard set), I extended the list with these and whatever the thesaurus said was 'stupid'." 
 ** Organizations
 *** Colin's doc: [[https://docs.google.com/document/d/1nMbD79FwAHny-9VEf2vLXZIk9hBdx8ttkcCFA5GFGyM/edit?ts=59a4686b#heading=h.iy6oqdld37n2][Organizations doing something - Google Docs]]
-*** TODO [[http://wmcspeechproject.com/][WMC Speech Project]]
-**** TODO [[http://wmcspeechproject.com/research-statistics/][WMC Speech Project » Research & Statistics]]
+*** DONE [[http://wmcspeechproject.com/][WMC Speech Project]]
+CLOSED: [2017-10-07 Sat 12:45]
+**** DONE [[http://wmcspeechproject.com/research-statistics/][WMC Speech Project » Research & Statistics]]
+CLOSED: [2017-10-07 Sat 12:45]
 *** DONE [[https://www.trolldor.com/][Trolldor: the global blacklist of twitter trolls]]
 CLOSED: [2017-08-13 Sun 14:17]
 
@@ -293,9 +308,9 @@ Trolldor works like a blacklist of Trolls, and is open to any user in the world 
 #+END_QUOTE
  
 - Needs three reports from different users to get listed. 
-- Maintain a list of top 10 worldwide trolls
-
-*** TODO [[https://www.nohatespeechmovement.org/][No Hate Speech Movement]]
+- Maintain a list of top 10 worldwide tr
+*** DONE [[https://www.nohatespeechmovement.org/][No Hate Speech Movement]]
+CLOSED: [2017-10-07 Sat 14:50]
  "A youth campaign of the Council of Europe for human rights online, to reduce the levels of acceptance of hate speech and develop online youth participation and citizenship, including in Internet governance processes."
 
 *** TODO [[https://www.splcenter.org/hate-map][Southern Poverty Law Center]]
@@ -309,7 +324,7 @@ Trolldor works like a blacklist of Trolls, and is open to any user in the world 
 *** TODO Anti-Defamation League Task Force on Harassment and Journalism
 **** Description of report: [[http://denver.adl.org/news/adl-task-force-issues-report-detailing-widespread-anti-semitic-harassment-of-journalists-on-twitter-during-2016-campaign/][Anti-Defamation League | ADL TASK FORCE ISSUES REPORT DETAILING WIDESPREAD ANTI-SEMITIC HARASSMENT OF JOURNALISTS ON TWITTER DURING 2016 CAMPAIGN | Denver]]
 cite:anti-defamation_league_adl_2016
-*** TODO [[http://haltabuse.org/][Working to Halt Online Abuse]]
+*** TODO [[http://haltabuse.org/][Working to Halt Online Abuse]] 
 *** TODO [[http://www.broadbandcommission.org/workinggroups/pages/bbandgender.aspx][UN Broadband Commission for Sustainable Development Working Group on Broadband and Gender]]
 **** TODO Report: [[http://www.unwomen.org/~/media/headquarters/attachments/sections/library/publications/2015/cyber_violence_gender%2520report.pdf?v=1&d=20150924T154259][Cyber Violence Against Women and Girls]]
 ***** TODO Response in NY Mag: [[http://nymag.com/scienceofus/2015/09/uns-cyberharassment-report-is-really-bad.html][The U.N.’s Cyberharassment Report Is Really Bad]]
@@ -332,11 +347,13 @@ Survey by:
  - Rad Campaign (Web Design Agency)
  - Lincoln Park Strategies (Data analytics)
  - Craig Newmark (Consultant?)
-*** [[http://www.pewinternet.org/2014/10/22/online-harassment/][Online Harassment | Pew Research Center]]
+*** DONE [[http://www.pewinternet.org/2014/10/22/online-harassment/][Online Harassment | Pew Research Center]]
+CLOSED: [2017-10-07 Sat 12:56]
 2014 Report
-*** TODO [[http://www.haltabuse.org/resources/stats/index.shtml][WHOA: Cyberstalking Statistics.]]
+*** DONE [[http://www.haltabuse.org/resources/stats/index.shtml][WHOA: Cyberstalking Statistics.]]
+CLOSED: [2017-10-07 Sat 12:57]
 *** [[http://www.iwmf.org/blog/2014/03/07/intimidation-threats-and-abuse/][Intimidation, Threats, and Abuse | International Women's Media Foundation (IWMF)]]
-*** TODO [[https://www.datasociety.net/pubs/oh/Online_Harassment_2016.pdf][Data and Society Report: Online Harassment, Digital Abuse, and Cyberstalking in America]] 
+*** TODO [[https://www.datasociety.net/pubs/oh/Online_Harassment_2016.pdf][Data and Society Report: Online Harassment, Digital Abuse, and Cyberstalking in America]
 **** DONE [[https://qz.com/844319/a-new-study-suggests-online-harassment-is-pressuring-women-and-minorities-to-self-censor/][A new study suggests online harassment is pressuring women and minorities to self-censor — Quartz]]
 CLOSED: [2017-08-16 Wed 15:22]
 - "Researchers consistently find that people self-censor online to avoid retaliation. This could be positive: For instance, people might be less likely to use a racial slur online if they think they’ll be condemned for it. But given the differences in people’s experience of harassment, this survey suggests that young people, especially young women and LGB people, are less likely to make online contributions at all because they’re worried about being attacked for it." 
@@ -408,9 +425,24 @@ Abstract: "This dissertation explores the rhetorical concept of ethos as it func
 *** TODO "What is a Flag for? Social Media Reporting Tools and the Vocabulary of Complaint" cite:crawford_what_2016
 *** TODO Reporting, Reviewing, and Responding to Harassment on Twitter. cite:matias_reporting_2015  
 *** TODO [[http://www.cpeterson.org/2013/07/22/a-brief-guide-to-user-generated-censorship/][A Brief Guide To User-Generated Censorship - Chris Peterson]]
-** Moderation
+** Counterspeech, Moderation
+*** DONE "Vectors for Counterspeech on Twitter" cite:wright_vectors_2017 
+CLOSED: [2017-08-28 Mon 10:30]
+- counterspeech :: "a direct response to hateful or harmful speech" 57
+
+Counterpseech "can exhibit a number of different communicative strategies including humor, emotional appeals, multi-stage dialog, and over verbal attack itself" 58
+ - "an empathetic and/or kind tone, use of images, and use of humor" 59
+ - "no indication that these forms are templated" 58 
+
+Identify one-to-one counterspeech, many-to-one, and many-to-many
+
+"The blog “Racists Getting Fired” made a practice of punishing people who posted racist content by contacting their employers and, similarly, demanding that they be fired (McDonald, 2014). Such responses are no doubt successful at changing the online speech of their targets, but may only harden the hateful convictions of those targets,
+and constitute online mob justice." 60
+***** [[https://www.washingtonpost.com/news/morning-mix/wp/2014/12/02/racists-getting-fired-exposes-weaknesses-of-internet-vigilantism-no-matter-how-well-intentioned/][‘Racists Getting Fired’ exposes weaknesses of Internet vigilantism, no matter how well-intentioned - The Washington Post]]
+
 *** TODO "The Virtues of Moderation" cite:grimmelmann_virtues_2015 
 *** TODO "Slash (dot) and burn: distributed moderation in a large online conversation space" cite:lampe_slash_2004 
+*** TODO [[https://link.springer.com/article/10.1007/s11109-016-9373-5][Tweetment Effects on the Tweeted: Experimentally Reducing Racist Harassment | SpringerLink]]
 ** Cross-cultural studies
 *** TODO "Rephrasing Profanity in Chinese Text" cite:su_rephrasing_2017 
 *** TODO "Legal Framework, Dataset and Annotation Schema for Socially Unacceptable Online Discourse Practices in Slovene" cite:fiser_legal_2017 
@@ -731,20 +763,6 @@ find that "bigrams and stems using a presence representation performed best," at
 Relevance + sentiment analysis: "Our approach combines relevance analysis for detecting off-topic comments with valence analysis methods for detecting negative comments." 
  - relevance: relevance is the sum of TF-IDF differences between words
 
-**** DONE "Vectors for Counterspeech on Twitter" cite:wright_vectors_2017 
-CLOSED: [2017-08-28 Mon 10:30]
-- counterspeech :: "a direct response to hateful or harmful speech" 57
-
-Counterpseech "can exhibit a number of different communicative strategies including humor, emotional appeals, multi-stage dialog, and over verbal attack itself" 58
- - "an empathetic and/or kind tone, use of images, and use of humor" 59
- - "no indication that these forms are templated" 58 
-
-Identify one-to-one counterspeech, many-to-one, and many-to-many
-
-"The blog “Racists Getting Fired” made a practice of punishing people who posted racist content by contacting their employers and, similarly, demanding that they be fired (McDonald, 2014). Such responses are no doubt successful at changing the online speech of their targets, but may only harden the hateful convictions of those targets,
-and constitute online mob justice." 60
-***** [[https://www.washingtonpost.com/news/morning-mix/wp/2014/12/02/racists-getting-fired-exposes-weaknesses-of-internet-vigilantism-no-matter-how-well-intentioned/][‘Racists Getting Fired’ exposes weaknesses of Internet vigilantism, no matter how well-intentioned - The Washington Post]]
-
 **** DONE "Using Convolutional Neural Networks to Classify Hate-Speech" cite:gamback_using_2017 
 CLOSED: [2017-08-28 Mon 11:30]
 "The classifier assigns each tweet to one of four predefined categories: racism, sexism, both (racism and sexism) and non-hate-speech. Four Convolutional Neural Network models were trained on resp. character 4-grams, word vectors based on semantic information built using word2vec, randomly generated word vectors, and word vectors combined with character n-grams. The feature set was down-sized in the networks by max- pooling, and a softmax function used to classify tweets. Tested by 10-fold cross-validation, the model based on word2vec embeddings performed best, with higher precision than recall, and a 78.3% F-score." 
@@ -1060,11 +1078,18 @@ Aggression, personal attacks as irrelevance.
 What power differentials are there between high-profile (lots of followers) figures and low-profile figures? 
 What applications of RST might there be?  
 ** Notes from meeting <2017-08-28 Mon> 
+:LOGBOOK:
+CLOCK: [2017-08-28 Mon 16:00]--[2017-08-28 Mon 17:00] =>  1:00
+:END:
 Google account suspension of School of Prof. Studies stats professor, tweeting about Clinton and the 2016 election
  - ML algorithm probably made a mistake in categorizing this as abusive
  - [[https://www.inc.com/sonya-mann/salil-mehta-free-speech.html][A Handful of Tech Companies Decide Who Has Free Speech Online. That's Not Good. | Inc.com]]
 *** Colin's week 1 summary: [[https://docs.google.com/document/d/1Hmk5KZxQ0ci_QZHlWFLDwX_Sr47fGgeSKS1qFFw17ok/edit?ts=59a45e96#heading=h.9eg2yefb1sbk][Summaries Week 1 - Google Docs]]
+
 ** Notes from meeting <2017-09-07 Thu> 
+:LOGBOOK:
+CLOCK: [2017-09-07 16:30]--[2017-09-07 Wed 17:30] =>  1:00
+:END:
 Colin: lack of theorizing re: cyberbullying
 techniques of counterspeech
 communities of abuse / trust propogation
