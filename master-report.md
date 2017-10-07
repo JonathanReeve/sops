@@ -66,7 +66,29 @@ There are instances where specific epithets or insults are used and an outsider 
 
 The discussion of Stewart’s “I know it when I see it” points to a central difficulty in defining hate speech since it requires assessing the subjectivity and intention of both the perpetrator and the victim. However, only some definitions include the component of intention on the part of the perpetrator, and definitions also vary on how they define harm to the victim.
 
+
+## Underlying Social-Psychological Causes of Harmful online behavior
+
+While theory building on the underlying causes of harmful speech online is generally underdeveloped and often not rigorously proven with empirical research, ([Tokunaga 2010](http://www.sciencedirect.com/science/article/pii/S074756320900185X)), existing social-psychological theories helps us better determine effective forms of intervention. This vein of research is particularly useful in emphasizing the impact that an individual’s harmful speech can have on their social group, since “cyberbystanders” witnessing of abusive language online impacts their  understanding of acceptable online norms. This research then reminds us that when intervening in the name of a safer online public sphere, it is not only the speaker and recipient that we must pay attention to, but also those bystanders and digital onlookers who may also happen to witness the encounter. 
+
+### Anonymity: online disinhibition, deindividuation, and depersonalization
+
+-Suler's theory of the online disinhibtion effect
+- Barlett and Gentile Model
+- deindividuation: loss of sence of self
+- depersonalization: prioritizing one's identity with the group over one's individualized identity
+### Mimicry Effect
+ - This theory holds that boosting positive content rather than deleting harmful content will foster an environment where other members of the website will contribute positive content
+ 
+ ### Backfire effect
+ - Political psychologists Nyhan and Reifler have researched the “backfire effect” where attempts at correcting misperceptions or misinformed beliefs results in firmer beliefs in the misperception or misinformation
+   - “individuals who receive unwelcome information may not simply resist challenges to their views. Instead they may come to support their original opinion even more strongly”  Nyhan, Brendan, and Jason Reifler. "When corrections fail: The persistence of political misperceptions." Political Behavior 32.2 (2010): 307.
+   - It is important to consider the backfire effect in looking at effective forms of intervention/counterspeech, since often presenting facts or engaging in logical/reasoned debate is not the most effective strategy
+   - A similar psychological phenomenon is “motivated reasoning” where people make a strong effort to support the conclusions they seek despite being exposed to contradictory facts
    
+   ### Temporal clustering of hate speech
+  - prejudicial crimes are strongly influenced in the short term due to publicized events such as murders committed by a minority, this amplification in hate speech usually lasts about 2 weeks.  King, R.D., and G.M. Sutton. 2013. “High Times for Hate Crime: Explaining the Temporal Clustering of Hate Motivated Offending.” Criminology 51 (4): 871–94
+  - Hashtags can be a good indicator of temporal clustering: ex: #killallmuslims #ferguson #charliehebdo #brussels #banislam #baltimore #mizzou
 ## Statistics 
 
  - General stats related to abusive langauge
