@@ -1,5 +1,5 @@
 # -*- org-ref-bibliography-notes: "~/Dropbox/Org/Projects/SOPS.org" -*-
-#+BIBLIOGRAPHY: ~/Code/SOPS/SOPS.bib
+#+BIBLIOGRAPHY: ~/Code/SOPS/Jonathan/SOPS.bib
 #+TITLE: A Safer Online Public Square: Research Notes
 
 * Todo
@@ -132,7 +132,8 @@ CLOCK: [2017-09-25 Mon 18:00]--[2017-09-25 Mon 18:19] =>  0:19
 ** TODO make master report
 DEADLINE: <2017-10-07 Sat> SCHEDULED: <2017-10-07 Sat>
 :LOGBOOK:
-CLOCK: [2017-10-07 Sat 14:44]
+CLOCK: [2017-10-07 Sat 16:24]--[2017-10-07 Sat 16:37] =>  0:13
+CLOCK: [2017-10-07 Sat 14:44]--[2017-10-07 Sat 16:23] =>  1:39
 CLOCK: [2017-10-07 Sat 12:20]--[2017-10-07 Sat 13:13] =>  0:53
 :END:
 * Links 
@@ -186,12 +187,16 @@ CLOSED: [2017-08-13 Sun 14:27]
 **** DONE News article: [[http://alldigitocracy.org/combating-hate-speech-against-women-on-twitter/][Team developing tool to combat online harassment of women journalists takes top prize at New York hack-a-thon | All Digitocracy]]
 CLOSED: [2017-08-13 Sun 14:26]
 "TrollBusters will use proprietary audience targeting software, designed by a team at Ferrier’s university, to identify communities of trolls around any given issue using natural language processing. The service will counter cyberattacks in real- time with online community support and positive messaging, Ferrier said in her pitch." 
-*** TODO [[http://www.perspectiveapi.com/][Perspective]] (Jigsaw, Google) 
+*** DONE [[http://www.perspectiveapi.com/][Perspective]] (Jigsaw, Google) 
+CLOSED: [2017-10-07 Sat 16:34]
 - Looks like much of their code is [[https://github.com/conversationai][on GitHub]]
 - NYT is working with them (Jigsaw) to aid moderation
-**** TODO [[https://motherboard.vice.com/en_us/article/qvvv3p/googles-anti-bullying-ai-mistakes-civility-for-decency][Google's Anti-Bullying AI Mistakes Civility for Decency - Motherboard]]
-**** TODO [[http://www.nytco.com/the-times-is-partnering-with-jigsaw-to-expand-comment-capabilities/][The Times is Partnering with Jigsaw to Expand Comment Capabilities | The New York Times Company]]
-**** TODO Jigsaw working with Wikipedia: [[https://meta.wikimedia.org/wiki/Research:Detox][Research:Detox - Meta]]
+**** DONE [[https://motherboard.vice.com/en_us/article/qvvv3p/googles-anti-bullying-ai-mistakes-civility-for-decency][Google's Anti-Bullying AI Mistakes Civility for Decency - Motherboard]]
+CLOSED: [2017-10-07 Sat 16:34]
+**** DONE [[http://www.nytco.com/the-times-is-partnering-with-jigsaw-to-expand-comment-capabilities/][The Times is Partnering with Jigsaw to Expand Comment Capabilities | The New York Times Company]]
+CLOSED: [2017-10-07 Sat 16:34]
+**** DONE Jigsaw working with Wikipedia: [[https://meta.wikimedia.org/wiki/Research:Detox][Research:Detox - Meta]]
+CLOSED: [2017-10-07 Sat 16:34]
 *** DONE [[https://coralproject.net/][The Coral Project]]
 CLOSED: [2017-08-22 Tue 14:46]
 - Mozilla, also in use by NYT
@@ -200,7 +205,8 @@ CLOSED: [2017-08-22 Tue 14:46]
 - [[https://blog.coralproject.net/talk-features/][Talk v1 features – The Coral Project]]
   - "Banned words are immediately rejected; suspect words are automatically flagged"
   - "Links and banned/suspect words are highlighted for easier moderation" 
-*** TODO [[https://tools.wmflabs.org/detox/%20%20][Wikipedia DeTox]] (also Jigsaw) 
+*** DONE [[https://tools.wmflabs.org/detox/%20%20][Wikipedia DeTox]] (also Jigsaw) 
+CLOSED: [2017-10-07 Sat 16:35]
 **** Test
 - Testing aggression model: 
   - "Be careful, you might find some white powder in an envelope come in the mail one day." 1% aggressive. 
@@ -412,13 +418,13 @@ CLOSED: [2017-08-16 Wed 15:13]
 Abstract: "This dissertation explores the rhetorical concept of ethos as it functions in contemporary online communities, via a case study of one successful online community, MetaFilter. com. A year-long virtual ethnography of MetaFilter demonstrates that understanding ethos as it functions online requires a multilayered definition that accounts for the traditional notion of ethos as vir bonus, the strict Aristotelian conception of ethos as ..." 
 ** People 
 ** Patents
-*** [[https://www-google-com.ezproxy.cul.columbia.edu/patents/US5796948][Patent US5796948 - Offensive message interceptor for computers - Google Patents]] 
-*** [[https://www-google-com.ezproxy.cul.columbia.edu/patents/US8868408][Patent US8868408 - Systems and methods for word offensiveness processing using aggregated ... - Google Patents]]
-*** [[https://www-google-com.ezproxy.cul.columbia.edu/patents/US8473443][Patent US8473443 - Inappropriate content detection method for senders - Google Patents]]
-*** [[https://www-google-com.ezproxy.cul.columbia.edu/patents/US7818764][Patent US7818764 - System and method for monitoring blocked content - Google Patents]]
-*** [[https://www-google-com.ezproxy.cul.columbia.edu/patents/US20080109214][Patent US20080109214 - System and method for computerized psychological content analysis of ... - Google Patents]]
+*** TODO [[https://www-google-com.ezproxy.cul.columbia.edu/patents/US5796948][Patent US5796948 - Offensive message interceptor for computers - Google Patents]] 
+*** TODO [[https://www-google-com.ezproxy.cul.columbia.edu/patents/US8868408][Patent US8868408 - Systems and methods for word offensiveness processing using aggregated ... - Google Patents]]
+*** TODO [[https://www-google-com.ezproxy.cul.columbia.edu/patents/US8473443][Patent US8473443 - Inappropriate content detection method for senders - Google Patents]]
+*** TODO [[https://www-google-com.ezproxy.cul.columbia.edu/patents/US7818764][Patent US7818764 - System and method for monitoring blocked content - Google Patents]]
+*** TODO [[https://www-google-com.ezproxy.cul.columbia.edu/patents/US20080109214][Patent US20080109214 - System and method for computerized psychological content analysis of ... - Google Patents]]
 
-*** [[https://www.google.com/patents/US20110191105][Patent US20110191105 - Systems and Methods for Word Offensiveness Detection and Processing Using ... - Google Patents]]
+*** TODO [[https://www.google.com/patents/US20110191105][Patent US20110191105 - Systems and Methods for Word Offensiveness Detection and Processing Using ... - Google Patents]]
 * Problems, Topics
 ** Censorship policies of social media companies
 ** Flagging
