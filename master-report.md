@@ -18,7 +18,6 @@ There are many categories of speech that fall under the umbrella of harmful spee
 
 ### Statement of purpose of our preliminary report (to discuss at meeting)
 
-
 ## Taxonomies
 
 There is significant corpus of writing by scholars attempting to formulate a definition and taxonomy of harmful speech online. These classifications will often vary based on the purpose of the definition which varies from academic research, legal recommendations, or advocacy. These different purposes result in varying breadth and scope of definitions, and disagreement over definitions is one of the main challenges in compiling data from different sources on the frequency of harmful speech online (as the specific behavior being monitored in different studies varies widely). Despite these challenges, it is useful to outline the different categories of harmful online behavior, as these different types manifest themselves differently and will require different approaches for intervention.
@@ -49,16 +48,17 @@ There is significant corpus of writing by scholars attempting to formulate a def
    - Misinformation (e.g. Russian fake news)
    - Deceptive opinion spam (e.g. fake Amazon product reviews) 
    
-   ### Alternative approaches to classifying harfmul speech:
+### Alternative approaches to classifying harfmul speech:
 
 Besides the approach of defining and taxonomizing different forms of hate speech, some have formulated other vectors for recognizing harmful speech online. 
 
- #### Implicit v. Explicit & Generalized v. Directed Abusive Language 
+#### Implicit v. Explicit & Generalized v. Directed Abusive Language 
    - Waseem et al. propose two primary factors for typologizing abusive language rather than attempting to define various terms such as abusive language, hate speech, cyberbullying, cyber harassment. They propose the following two factors: 
      - Is the language directed towards a specific individual or entity or is it directed towards a generalized group?
      - Is the abusive content explicit or implicit?     
    - Typologizing based on these two factors is useful, as there can be a lot of overlap and ambiguity when relying on stricter defintions. One shortcoming of this typology is that by making the distinction between directed/generalized attacks, the research may downplay the fact that hate speech, even when verbally directed at an individual (ex: calling someone a racial slur) is a crime against an entire sub-group of people. 
    - Source: [Waseem, Zeerak, et al. "Understanding Abuse: A Typology of Abusive Language Detection Subtasks." arXiv preprint arXiv:1705.09899 (2017).](http://www.aclweb.org/anthology/W17-3012)
+
 #### Justice Stewart's rule: “I know it when I see it”
 Justice Stewart famously asserted that “I know it when I see it” when referring to identifying obscenity. It seems to be the consensus that this approach is not applicable to identifying hate speech due to the variety of forms of speech and contexts which one could identify as hate speech.
 
@@ -66,8 +66,19 @@ There are instances where specific epithets or insults are used and an outsider 
 
 The discussion of Stewart’s “I know it when I see it” points to a central difficulty in defining hate speech since it requires assessing the subjectivity and intention of both the perpetrator and the victim. However, only some definitions include the component of intention on the part of the perpetrator, and definitions also vary on how they define harm to the victim.
 
+## Statistics 
 
-## Underlying Social-Psychological Causes of Harmful online behavior
+ - General stats related to abusive langauge
+ - Cyberbulling stats
+ - Hate speech stats
+
+[A 2014 Pew Research Center survey](http://www.pewinternet.org/2014/10/22/online-harassment/) found that 73% of adult Internet users have witnessed harassment online, and 40% have experienced it personally [@duggan_online_2014]. [A later 2016 report by the Data and Society Research Institute](https://www.datasociety.net/pubs/oh/Online_Harassment_2016.pdf) claims that, of American Internet users, 72% have witnessed harassment or abuse, and almost half (47%) have personally experienced it [@lenhart2016online]. 
+
+The types of harassment include calling of names (reported by 60% of witnesses)  purposeful embarrassment (53%), physical threats (25%), sexual harassment (19%), and stalking (18%) [@duggan_online_2014]. Of those who had personally experienced harassment, 8% had been physically threatened or stalked, and 6% had been sexually harassed. These typically took place on social media platforms, although also in comments sections or in multiplayer games. 
+
+The Pew report finds that young women, aged 18-24, are disproportionately targeted in all categories except for those of purposeful embarrassment and the calling of offensive names. [A 2013 report by the WHOA organization](http://www.haltabuse.org/resources/stats/index.shtml) (Working to Halt Online Abuse) echoes this finding. In their analysis of 4,043 self-reported cases of abuse in American from 2000-2013, they find that 70% of victims were female, with a 42% majority between the ages of 18 and 30. The abusers, they find, are more likely to be men (47%) than women (30%). LGB Internet users, as well, are more likely to experience harassment [@lenhart2016online 37]. 
+
+## Potential Causes 
 
 While theory building on the underlying causes of harmful speech online is generally underdeveloped and often not rigorously proven with empirical research, ([Tokunaga 2010](http://www.sciencedirect.com/science/article/pii/S074756320900185X)), existing social-psychological theories helps us better determine effective forms of intervention. This vein of research is particularly useful in emphasizing the impact that an individual’s harmful speech can have on their social group, since “cyberbystanders” witnessing of abusive language online impacts their  understanding of acceptable online norms. This research then reminds us that when intervening in the name of a safer online public sphere, it is not only the speaker and recipient that we must pay attention to, but also those bystanders and digital onlookers who may also happen to witness the encounter. 
 
@@ -84,29 +95,25 @@ While theory building on the underlying causes of harmful speech online is gener
 ### Mimicry Effect
  - This theory holds that boosting positive content rather than deleting harmful content will foster an environment where other members of the website will contribute positive content
  
- ### Backfire effect
+### Backfire effect
  - Political psychologists Nyhan and Reifler have researched the “backfire effect” where attempts at correcting misperceptions or misinformed beliefs results in firmer beliefs in the misperception or misinformation
    - “individuals who receive unwelcome information may not simply resist challenges to their views. Instead they may come to support their original opinion even more strongly”  Nyhan, Brendan, and Jason Reifler. "When corrections fail: The persistence of political misperceptions." Political Behavior 32.2 (2010): 307.
    - It is important to consider the backfire effect in looking at effective forms of intervention/counterspeech, since often presenting facts or engaging in logical/reasoned debate is not the most effective strategy
    - A similar psychological phenomenon is “motivated reasoning” where people make a strong effort to support the conclusions they seek despite being exposed to contradictory facts
    
-   ### Temporal clustering of hate speech
+### Temporal clustering of hate speech
   - prejudicial crimes are strongly influenced in the short term due to publicized events such as murders committed by a minority, this amplification in hate speech usually lasts about 2 weeks.  King, R.D., and G.M. Sutton. 2013. “High Times for Hate Crime: Explaining the Temporal Clustering of Hate Motivated Offending.” Criminology 51 (4): 871–94
   - Hashtags can be a good indicator of temporal clustering: ex: #killallmuslims #ferguson #charliehebdo #brussels #banislam #baltimore #mizzou
-## Statistics 
-
- - General stats related to abusive langauge
- - Cyberbulling stats
- - Hate speech stats
 
 # Existing Approaches to Intervention
 ## Organizations 
 ### Advocacy Groups (Colin and Jonathan)
 
- - [Women's Media Center Speech Project](http://wmcspeechproject.com/)
  - Working to Halt Online Abuse
  - No Hate Speech Movement
  - Etc...
+
+A number of organizations exist to study and combat harassment, hate speech, and related phenomena. The [Women's Media Center Speech Project](http://wmcspeechproject.com/) studies and reports on "the underrepresentation and misrepresentation of women in the media," including online harassment of women. 
 
 #### Legal Aid (Colin)
 #### Education (Colin)
@@ -121,10 +128,9 @@ While theory building on the underlying causes of harmful speech online is gener
 
 ### Databases and Datasets
 
- - Trolldor: "the global blacklist of twitter trolls"
- - Hatebase
- - Gamergate tweets
- - Public training data from Kaggle contest and other similar projects
+Some organizations maintain structured databases of abuse. The No Hate Speech Movement's [Hate Speech Watch database](https://www.nohatespeechmovement.org/hate-speech-watch/instructions) is a database for user-submitted reports of hate speech on the Internet. The database contains descriptions of websites containing hate speech, social media posts, and abusive users on social media. The website [Trolldor: the global blacklist of twitter trolls](https://www.trolldor.com/) similarly collects data on Twitter trolls, and maintains a "top 10 worldwide trolls" list.  [Hatebase.org](https://hatebase.org), which bills itself as the "world's largest online repository of structured, multilingual, usage-based hate speech," is a database of terms or phrases that its users report as hate speech. Although not all of these databases seem to have public APIs, if their data might nonetheless be used to train language or metadata categorizers. 
+
+Public datasets also exist which might be used as training data for categorizers. The 2012 Kaggle task provides [a CSV with hand-labeled abusive short messages](https://www.kaggle.com/c/detecting-insults-in-social-commentary). Many authors of papers in this area of computational linguistics also release their training data, much of which is manually labeled [@kolhatkar_constructive_2017, @ott_finding_2011, @samghabadi_detecting_2017, @waseem_hateful_2016, @wulczyn_ex_2017]. The dataset from [Phillip Polefrone's #Gamergate analysis](https://prpole.github.io/semantic-analysis-of-one-million-gamergate-tweets/) might also be useful.
 
 ### Organizations and Projects Employing Machine Learning 
 
@@ -194,7 +200,7 @@ A useful method of typologizing harmful speech online is by distinguishing betwe
  - An example of a group that deals with Inoculation is Radio la Benevolencija (RLB) a dutch nonprofit that produces entertainment for countries in central africa that deals with the psychology underlying incitement to hate and violence.
  - [Citron and Norton](http://web.a.ebscohost.com.ezproxy.cul.columbia.edu/ehost/pdfviewer/pdfviewer?vid=1&sid=1c840371-b7ff-4ba7-a74e-8848b5bae30a%40sessionmgr4008) suggest that internet intermediaries and society at large  (especially public schools) play a stronger role in fostering digital citizenship   
 
- ## Calling out & doxxing
+## Calling out & doxxing
  - Gettign racists fired
  - Yes you’re racist/sexist
  - Goodbye felipe
