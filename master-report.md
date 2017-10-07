@@ -73,8 +73,12 @@ While theory building on the underlying causes of harmful speech online is gener
 
 ### Anonymity: online disinhibition, deindividuation, and depersonalization
 
--Suler's theory of the online disinhibtion effect
-- Barlett and Gentile Model
+-Suler's theory of the [online disinhibtion effect](db19.linccweb.org/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=13621589&site=ehost-live)
+  - Suler’s theory of the “online disinhibition effect” argues that online users compartmentalize their “online self” and “real life self” and the normal cognitive processes that guide their “real life” behavior are suspended when they are online. Online disinhibition is  a result of anonymity, asynchronous communicaiton, and empathy deficit.
+- [Barlett and Gentile Model](http://www.apa.org/pubs/journals/features/ppm-ppm0000055.pdf)
+  - Similar to Suler’s theory, Barlett and Gentile Model argues that attitudes towards cyberbullying mediate the relationship between anonymity and likely cyberbullying behavior since users who realize their anonymity online will dissociate their online actions from their “real” self which will contribute to positive cyberbullying attitude and increased cyberbullying. The model hypothesizes that perceived anonymity gives potential cyberbullies a sense of impunity online as well as empowerment since they can attack individuals they would not be able to attack offline either because of differences in physical strength or because they do not actually know or live near that person offline. Perceived anonymity leads cyberbullies to distance themselves from their own actions and gain a more positive perception of cyberbullying thus creating a feedback loop that encourages further cyberbullying.
+  - Barlett and Gentile propose intervening against cyberbullying by informing “Internet users that they are not anonymous and show them evidence of IP address tracking and how History folders operate, then perhaps cyberbullying will decrease”  (178). However this form of intervention would not be effective in cases where users are actually able to be anonymous online (such as by using a mix network architecture).
+  - A limitaiton to theories that argue that anonymity contributes to harfmul online behavior (such as those by Suler, Barlett, and Gentile) is the ambiguous definition of anonymity that doesn’t distinguish between pseudonymity, perceived anonymity, or partial anonymity.
 - deindividuation: loss of sence of self
 - depersonalization: prioritizing one's identity with the group over one's individualized identity
 ### Mimicry Effect
