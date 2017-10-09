@@ -126,6 +126,20 @@ While theory building on the underlying causes of harmful speech online is gener
  - Etc...
 
 A number of organizations exist to study and combat harassment, hate speech, and related phenomena. The [Women's Media Center Speech Project](http://wmcspeechproject.com/) studies and reports on "the underrepresentation and misrepresentation of women in the media," including online harassment of women. 
+ #### Call out groups
+ - [Racists Getting Fired](http://racistsgettingfired.tumblr.com/)
+   - Blog that posts screenshots of racist posts made on social media along with the poster’s employer’s info so that people contact the company to get them fired
+   - [these](http://racistsgettingfired.tumblr.com/tagged/GOTTEN) are the posts that have resulted in successful firings
+   - The blog has been [criticized](https://www.washingtonpost.com/news/morning-mix/wp/2014/12/02/racists-getting-fired-exposes-weaknesses-of-internet-vigilantism-no-matter-how-well-intentioned/?utm_term=.77ffbcfddeae) by some for being a form of undiscerning internet vigilantism that on occasion has gotten innocent people fired 
+- [Yes You’re Racist](https://twitter.com/yesyoureracist)
+  - Twitter account that Identifies and retweets racist content (not a bot). A lot of the tweets they find start off with “I’m not racist but…”
+- [Yes You’re Sexist](https://twitter.com/YesYoureSexist)
+  - Twitter account that identifies and retweets sexist content (not a bot). A lot of the tweets they find start off with “I’m not sexist but…”. Inspired by @yesyoureracist
+- [EverydaySexism](https://twitter.com/EverydaySexism)
+  - “Documenting experiences of sexism,harassment and assault to show how bad the problem is &create solidarity.” 
+- [Bye Felipe](http://instagram.com/byefelipe)
+  - Alexandra Tweten started Bye Felipe on Instagram in October 2014. The idea came from a discussion between women in a private Facebook group about terrible messages women receive from men when they say they aren't interested. Dozens of women posted screenshots of messages they had received and Alexandra decided to gather them all and post them on Instagram.
+
 
 #### Legal Aid (Colin)
 #### Education (Colin)
