@@ -132,6 +132,12 @@ A number of organizations exist to study and combat harassment, hate speech, and
 
 ### Initiatives by Social Media Platforms
 
+Most social media sites have a bifurcated approach to presenting their policy on harmful speech to their users. On the one hand, their formal documents such as the terms of service tend to broadly prohibit harassment on the site, but  rarely elaborate on what constitutes harassment. On the other hand, the websites’ informal documentation such as their ‘community guidelines’ will go into more detail about what constitutes misconduct on the website, but falls short of formally defining harassment, giving the websites lee-way to determine what sort of content they remove. In both the formal and informal policy of social media platforms, harassment is usually lumped together with other prohibited activity such as spamming and hacking. 
+
+Source: [Pater, Jessica Annette, et al. "Characterizations of Online Harassment: Comparing Policies Across Social Media Platforms." GROUP. 2016.](http://jesspater.com/wp-content/uploads/2016/12/Pater-Characterizations-of-Online-Harassment-Comparing-Policies-Across-Social-Media-Platforms.pdf)
+
+Many have pointed to the gap between the publicly available policy on harfmul speech and the internal guidelines that websites provide to their content moderators (this is largely thanks to [leaked internal documents](https://www.theguardian.com/news/series/facebook-files)). Furthermore, there is a gap between the written rules (internal or public) and the [actual practices of content moderators](https://www.wired.com/2014/10/content-moderation/) who are often given only a few seconds to decide if a post should be removed.
+
  - Official policies of Facebook, Twitter
  - Twitter's "progress on addressing online abuse"
  - Implementations of Perspective API on Facebook, Reddit
