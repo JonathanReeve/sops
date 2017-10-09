@@ -187,6 +187,11 @@ Source: http://blog.instagram.com/post/162395020002/170629-comments & https://ww
  - Implementations of Perspective API on Facebook, Reddit
  - New social media outlets (Mastodon) created with these problems in mind
  - Moderation, flagging
+ 
+ #### [Gab.ai](https://gab.ai/): The far-right's new social media platform
+ - Gab.ai is a social media website founded with the purpose of creating “Free Speech for Everyone.” Their logo is a frog, reminiscent of the alt-right icon Pepe the frog, and they have primarily drawn in far right members with a good deal of racist, sexist, and xenophobic content. It has been described as the far right’s [“digital safe space”](https://www.nytimes.com/2016/11/30/arts/the-far-right-has-a-new-digital-safe-space.html)
+
+source: https://www.theguardian.com/media/2016/nov/17/gab-alt-right-social-media-twitter
 
 ### Databases and Datasets
 
