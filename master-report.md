@@ -68,6 +68,13 @@ There are instances where specific epithets or insults are used and an outsider 
 
 The discussion of Stewart’s “I know it when I see it” points to a central difficulty in defining hate speech since it requires assessing the subjectivity and intention of both the perpetrator and the victim. However, only some definitions include the component of intention on the part of the perpetrator, and definitions also vary on how they define harm to the victim.
 
+#### What is left out of definitions
+
+- Harmful speech directed at one's self
+  - this includes online posts that depict eating disorders or suggest self-harm. It is infrequently included in discussion of harmful online behavior, but it is a serious issue that needs to be dealt with in a different way than outward oriented harmful speech. 
+- Harmful speech between a group that does not include the target of the speech
+  - An example of this could be a private message channel where racists exchange racist messages about a group of people who are not a part of the message channel. Upon first consideration this speech may seem more like thought than it does speech in the public realm, but such conversation can have real life consequences on the well being of those discussed such as in private [message forums where doxxing information is collected](https://theintercept.com/2017/09/06/how-right-wing-extremists-stalk-dox-and-harass-their-enemies/) 
+
 ## Statistics 
 
  - General stats related to abusive langauge
