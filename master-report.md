@@ -181,7 +181,7 @@ Many have pointed to the gap between the publicly available policy on harfmul sp
 Instagram (along with Tumblr) seem to be the most proactive in fostering a safe and kind environment on their social media websites. While other websites emphasize their commitment to free expression, instagram instead emphasizes their desire for the platform to be safe, kind, and inclusive. On Instagram you can anonymously report live videos and the person live-streaming will receive a notification with resources to mental health hot-lines and other resources. They also have an option in the application for users to “Hide Offensive Comments” which uses a filter to “automatically hide comments on your posts that may be offensive,” and users can also “Hide comments on your posts that contain specific words or phrases.”  Instagram and Tumblr are the most proactive about connecting their users with mental health and anti-bullying resources. Instagram recently launched a #KindComments campaign where they are encouraging users to generate kind content. 
 
 
-Source: http://blog.instagram.com/post/162395020002/170629-comments 
+Source: http://blog.instagram.com/post/162395020002/170629-comments & https://www.wired.com/2017/08/instagram-kevin-systrom-wants-to-clean-up-the-internet/ 
  - Official policies of Facebook, Twitter
  - Twitter's "progress on addressing online abuse"
  - Implementations of Perspective API on Facebook, Reddit
