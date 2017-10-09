@@ -151,13 +151,22 @@ A number of organizations exist to study and combat harassment, hate speech, and
   - founded by lawyer and human rights activist [Nighat Dad](https://twitter.com/nighatdad) 
   - They have a cyberharassment helpline and between december 1 2016 and may 31 2017 they received 763 complaints in the form of calls emails and facebook messages. This [report](https://digitalrightsfoundation.pk/wp-content/uploads/2017/07/Cyber-Harassment-Helpline-Six-Month-Report.pdf) goes through nature of all these complaints, 
   
-- [Without My Consent]((http://www.withoutmyconsent.org)
+- [Without My Consent](http://www.withoutmyconsent.org)
   - WMC provides legal and psychological resources for people who want to fight back against online harassment and privacy violations
   - Founded by lawyer [Erica Johnstone](https://twitter.com/ericajstone)
   - Their twitter page links to good weekly roundup of legal and social news related to non consensual pornography https://twitter.com/withoutconsent 
   - They surveyed 359 people about their experience with online Stalking, Harassment and Violations of Privacy http://www.withoutmyconsent.org/blog/weve-got-data
   
 #### Education (Colin)
+
+- [Radio La Benevolencija](www.labenevolencija.org)
+  - Radio La Benevolencija Humanitarian Tools Foundation (La Benevolencija) is a Dutch NGO that empowers groups and individuals who are the target of hate speech and ensuing acts. It broadcasts radio soaps, discussions and educational programmes, in combination with grass roots activities that provide citizens in vulnerable societies with knowledge on how to recognise and resist manipulation to violence and how to heal trauma, encouraging them to be active bystanders against incitement and violence. 
+  - Uses entertainment that deals with the psychology of incitement to hate and violence in order to inoculate against hate speech and mass conflict
+- [HackBlossom](https://hackblossom.org/)
+  - Hack Blossom provides educational resources and training for DIY feminist cybersecuirty with a focus on how to secure one's devices and digital identity to prevent and limit domestic abuse and harassment online
+  - [DIY Cybersecurity for Domestic Violence](https://hackblossom.org/domestic-violence/)
+  - [A DIY Guide to Feminist Cybersecurity](https://hackblossom.org/cybersecurity/)
+    
 
 ### Initiatives by Social Media Platforms
 
