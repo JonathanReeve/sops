@@ -176,6 +176,12 @@ Source: [Pater, Jessica Annette, et al. "Characterizations of Online Harassment:
 
 Many have pointed to the gap between the publicly available policy on harfmul speech and the internal guidelines that websites provide to their content moderators (this is largely thanks to [leaked internal documents](https://www.theguardian.com/news/series/facebook-files)). Furthermore, there is a gap between the written rules (internal or public) and the [actual practices of content moderators](https://www.wired.com/2014/10/content-moderation/) who are often given only a few seconds to decide if a post should be removed.
 
+#### Instagram #KindComments
+
+Instagram (along with Tumblr) seem to be the most proactive in fostering a safe and kind environment on their social media websites. While other websites emphasize their commitment to free expression, instagram instead emphasizes their desire for the platform to be safe, kind, and inclusive. On Instagram you can anonymously report live videos and the person live-streaming will receive a notification with resources to mental health hot-lines and other resources. They also have an option in the application for users to “Hide Offensive Comments” which uses a filter to “automatically hide comments on your posts that may be offensive,” and users can also “Hide comments on your posts that contain specific words or phrases.”  Instagram and Tumblr are the most proactive about connecting their users with mental health and anti-bullying resources. Instagram recently launched a #KindComments campaign where they are encouraging users to generate kind content. 
+
+
+Source: http://blog.instagram.com/post/162395020002/170629-comments 
  - Official policies of Facebook, Twitter
  - Twitter's "progress on addressing online abuse"
  - Implementations of Perspective API on Facebook, Reddit
