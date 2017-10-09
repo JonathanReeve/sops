@@ -202,8 +202,53 @@ More proprietary systems also exist. A number of US patents---US5796948, US88684
 
 ## Counterspeech (Colin)
 
- - Kevin Munger article
+Counter Speech can address the perpetrator of hate speech or the cyber bystanders whose discourse norms are shaped by seeing hate speech go uncontested. For hateful speakers with deeply ingrained hate, counter speech is less effective, but it can still alter their discourse to be less overtly hateful which in itself can also positively affect the cyber bystanders.
 
+The guiding principle of counterspeech is the liberal ideal that more speech is the best remedy to harmful speech. This is partially informed by the idea that if you delete hateful content from one platform that there is always somewhere else to go (I’m not sure this is totally convincing).
+
+### Recommended Strategies
+- Warning of consequences
+  - Remind speaker of harm done by speech
+  - Remind of offline consequences and the permanence of online communication
+  - Remind of online consequences (blocking, reporting, suspended account)
+  - Mainly effective at getting hate speech deleted and doesn't necessarily change speakers POV
+- Shaming and Labeling
+  - Labeling the speech (not speaker) as bigoted, misogynist, etc
+  - Helpful to cyberbystanders
+  - Speaker ‘may not have known’ so it is better not to make a personal attack and to only to label the speech has harmful
+- Empathy and Affiliation
+  - Change the tone to friendly, empathetic or peaceful
+  - Affiliate with speaker and establish a connection (ex: I am also a conservative, but…)
+  - Affiliate with targeted group (ex: what you said hurt me as an asian…)
+  - Changing the tone is more effective when the speaker affiliates with counterspeaker
+- Humor
+  - Neutralize hateful speech that is seen as dangerous and intimidating
+  - Attract larger audience to the counterspeech’s message
+  - Use humor to soften the message of counterspeech that could otherwise come off as hostile or aggressive (ex: [it’s time to stop posting cat](http://images.wikia.com/glee/images/c/c7/Imgur_gallery_hZSfl_It%27s_Time_to_Stop_Posting.jpg))
+- Images
+  - Can make counterspeech more viral
+  - Counterspeech is generally more effective when it is emotive rather than rational/logical so images can be a good way to “send people along emotive pathways”
+
+### Discouraged Strategies
+- Hostile or aggressive tone and insults
+  - Can cause backfire or speaker to dig in their heels
+- Fact-checking
+  - Fact checking may sway cyber bystanders, but it is unlikely to influence original speaker
+  - Speaker will find a way to fit the new facts presented to the conclusions they are already committed to
+    - Social psychologists call this the backfire effect where challenging someone’s views with facts leads them to hold those views even more firmly
+  - Pointing out hypocrisy can be good for bystanders but usually not for speaker 
+- Harassment and Silencing
+
+### Successful counterspeech is indicated by: 
+- Speaker shifts their discourse if not also their beliefs 
+- Speaker apologizes, recants, or deletes original hate speech
+- Discourse norms of the cyberbystanders are positively affected
+- Hate speech narratives delegitimized (even if speaker is not swayed)
+- More counter speech is elicited from the audience (this is good until it turns into harassment/dogpiling) 
+
+Source: 
+- [Counterspeech on Twitter: A Field Study, by Susan Benesch, Derek Ruths, Kelly Dillon, Haji Mohammad Saleem, and Lucas Wright](https://dangerousspeech.org/counterspeech-on-twitter-a-field-study/)
+- [Considerations for Successful Counterspeech,  by Susan Benesch, Derek Ruths, Kelly Dillon, Haji Mohammad Saleem, and Lucas Wright](https://dangerousspeech.org/considerations-for-successful-counterspeech/)
 ### Types
 
 A useful method of typologizing harmful speech online is by distinguishing between the types of exchanges (vectors). (This is based on the models put forward in Counterspeech on Twitter: A Field Study)
@@ -212,6 +257,8 @@ A useful method of typologizing harmful speech online is by distinguishing betwe
  - One-to-many: one person deploying counterspeech against many people’s hate speech
  - Many-to-one: many people deploying counterspeech against one person’s hate speech
  - Many-to-many: many people deploying counterspeech against many people’s hate speech
+ 
+ ###  Kevin Munger's Study
  
 ## Inoculation 
  Inoculation is a long-term method for fighting against hate speech that takes some time. It involves instilling values in a society that oppose hate speech, and deals especially with building the social-psychological tools necessary so that groups of people don't fall victim to the pressures of engaging in hate speech or being incited by it. 
