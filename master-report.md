@@ -141,7 +141,22 @@ A number of organizations exist to study and combat harassment, hate speech, and
   - Alexandra Tweten started Bye Felipe on Instagram in October 2014. The idea came from a discussion between women in a private Facebook group about terrible messages women receive from men when they say they aren't interested. Dozens of women posted screenshots of messages they had received and Alexandra decided to gather them all and post them on Instagram.
 
 
-#### Legal Aid (Colin)
+#### Legal Aid
+
+- [Cyber Civil Rights Initiative](https://www.cybercivilrights.org/welcome/)
+  - Founded by Holly Jacobs, CCRI serves serving thousands of victims of Non Consensual Porn (NCP) and advocates for technological, social, and legal innovation to fight online abuse.
+  
+- [Digital Rights Foundation](https://digitalrightsfoundation.pk) 
+  - based in Pakistan, aims to strengthen protections for human rights defenders (HRDs), with a focus on women’s rights, in digital spaces through policy advocacy & digital security awareness-raising.
+  - founded by lawyer and human rights activist [Nighat Dad](https://twitter.com/nighatdad) 
+  - They have a cyberharassment helpline and between december 1 2016 and may 31 2017 they received 763 complaints in the form of calls emails and facebook messages. This [report](https://digitalrightsfoundation.pk/wp-content/uploads/2017/07/Cyber-Harassment-Helpline-Six-Month-Report.pdf) goes through nature of all these complaints, 
+  
+- [Without My Consent]((http://www.withoutmyconsent.org)
+  - WMC provides legal and psychological resources for people who want to fight back against online harassment and privacy violations
+  - Founded by lawyer [Erica Johnstone](https://twitter.com/ericajstone)
+  - Their twitter page links to good weekly roundup of legal and social news related to non consensual pornography https://twitter.com/withoutconsent 
+  - They surveyed 359 people about their experience with online Stalking, Harassment and Violations of Privacy http://www.withoutmyconsent.org/blog/weve-got-data
+  
 #### Education (Colin)
 
 ### Initiatives by Social Media Platforms
