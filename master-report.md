@@ -266,7 +266,12 @@ Source:
 - [Considerations for Successful Counterspeech,  by Susan Benesch, Derek Ruths, Kelly Dillon, Haji Mohammad Saleem, and Lucas Wright](https://dangerousspeech.org/considerations-for-successful-counterspeech/)
 
  
- ###  Kevin Munger's Study
+ ###  Kevin Munger's Study: [Tweetment Effects on the Tweeted: Experimentally Reducing Racist Harassment](https://link.springer.com/article/10.1007/s11109-016-9373-5)
+ 
+ Kevin Munger conducted a study where he identified 231 twitter accounts operated by white men that regularly used racial slurs against black twitter accounts. Munger created a variety of twitter ‘bots’ with different amounts of followers, and some with a white male avatar and others with a black male avatar. The bots would send the following tweet in response to  detected racist tweets by the identified twitter accounts: "@[subject] Hey man, just remember that there are real people who are hurt when you harass them with that kind of language.”
+
+Munger found that accounts confronted by the white male twitter bot with a lot of followers were most likely to alter their language in future posts. Around 27% of users stopped using the n-word in their posts the following weeks. Munger’s findings corroborate existing theories on counterspeech that tell us that counterspeech is most effective when done by someone with whom the harmful speaker identifies (in this case white males identify with other white men). On the other hand, Munger’s findings cut against existing theories about how anonymity affects online behavior; the study found that accounts with personal information (name, photo, location, etc.) that used the n-word were significantly less likely to change their behavior after being rebuked by the bot, and in some cases would increase their usage. It was primarily accounts with little or no personal information that would redress their behavior. This goes against the theory that anonymity contributes to online hate speech, since those that were most anonymous were the most likely to alter their behavior. 
+
  
 ## Inoculation 
  Inoculation is a long-term method for fighting against hate speech that takes some time. It involves instilling values in a society that oppose hate speech, and deals especially with building the social-psychological tools necessary so that groups of people don't fall victim to the pressures of engaging in hate speech or being incited by it. 
