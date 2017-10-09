@@ -246,9 +246,6 @@ The guiding principle of counterspeech is the liberal ideal that more speech is 
 - Hate speech narratives delegitimized (even if speaker is not swayed)
 - More counter speech is elicited from the audience (this is good until it turns into harassment/dogpiling) 
 
-Source: 
-- [Counterspeech on Twitter: A Field Study, by Susan Benesch, Derek Ruths, Kelly Dillon, Haji Mohammad Saleem, and Lucas Wright](https://dangerousspeech.org/counterspeech-on-twitter-a-field-study/)
-- [Considerations for Successful Counterspeech,  by Susan Benesch, Derek Ruths, Kelly Dillon, Haji Mohammad Saleem, and Lucas Wright](https://dangerousspeech.org/considerations-for-successful-counterspeech/)
 ### Types
 
 A useful method of typologizing harmful speech online is by distinguishing between the types of exchanges (vectors). (This is based on the models put forward in Counterspeech on Twitter: A Field Study)
@@ -257,6 +254,11 @@ A useful method of typologizing harmful speech online is by distinguishing betwe
  - One-to-many: one person deploying counterspeech against many people’s hate speech
  - Many-to-one: many people deploying counterspeech against one person’s hate speech
  - Many-to-many: many people deploying counterspeech against many people’s hate speech
+ 
+Source: 
+- [Counterspeech on Twitter: A Field Study, by Susan Benesch, Derek Ruths, Kelly Dillon, Haji Mohammad Saleem, and Lucas Wright](https://dangerousspeech.org/counterspeech-on-twitter-a-field-study/)
+- [Considerations for Successful Counterspeech,  by Susan Benesch, Derek Ruths, Kelly Dillon, Haji Mohammad Saleem, and Lucas Wright](https://dangerousspeech.org/considerations-for-successful-counterspeech/)
+
  
  ###  Kevin Munger's Study
  
