@@ -23,3 +23,83 @@ Archived entries from file /home/jon/Code/SOPS/SOPS.org
   :ARCHIVE_CATEGORY: SOPS
   :ARCHIVE_TODO: DONE
   :END:
+
+* DONE write report 3
+CLOSED: [2017-09-14 Thu 14:30]
+:PROPERTIES:
+:ARCHIVE_TIME: 2017-10-09 Mon 10:48
+:ARCHIVE_FILE: ~/Code/SOPS/Jonathan/SOPS.org
+:ARCHIVE_OLPATH: Todo
+:ARCHIVE_CATEGORY: SOPS
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+CLOCK: [2017-09-14 Thu 13:02]--[2017-09-14 Thu 14:03] =>  1:01
+:END:
+
+* DONE clean up, read short articles
+CLOSED: [2017-08-28 Mon 15:38]
+:PROPERTIES:
+:ARCHIVE_TIME: 2017-10-09 Mon 10:49
+:ARCHIVE_FILE: ~/Code/SOPS/Jonathan/SOPS.org
+:ARCHIVE_OLPATH: Todo
+:ARCHIVE_CATEGORY: SOPS
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+CLOCK: [2017-08-22 Tue 14:46]--[2017-08-22 Tue 14:54] =>  0:08
+:END:
+
+* DONE write second report
+CLOSED: [2017-08-28 Mon 15:38]
+:PROPERTIES:
+:ARCHIVE_TIME: 2017-10-09 Mon 10:49
+:ARCHIVE_FILE: ~/Code/SOPS/Jonathan/SOPS.org
+:ARCHIVE_OLPATH: Todo
+:ARCHIVE_CATEGORY: SOPS
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE write first report
+CLOSED: [2017-08-22 Tue 11:31]
+:PROPERTIES:
+:ARCHIVE_TIME: 2017-10-09 Mon 10:49
+:ARCHIVE_FILE: ~/Code/SOPS/Jonathan/SOPS.org
+:ARCHIVE_OLPATH: Todo
+:ARCHIVE_CATEGORY: SOPS
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+CLOCK: [2017-08-22 Tue 09:23]--[2017-08-22 Tue 11:11] =>  1:48
+:END:
+
+* DONE [#A] start exploratory research
+CLOSED: [2017-08-24 Thu 16:32]
+:PROPERTIES:
+:ARCHIVE_TIME: 2017-10-09 Mon 10:49
+:ARCHIVE_FILE: ~/Code/SOPS/Jonathan/SOPS.org
+:ARCHIVE_OLPATH: Todo
+:ARCHIVE_CATEGORY: SOPS
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+#+BEGIN: clocktable :maxlevel 2 :scope subtree
+#+CAPTION: Clock summary at [2017-08-30 Wed 12:40]
+| Headline                       | Time   |      |
+|--------------------------------+--------+------|
+| *Total time*                   | *7:19* |      |
+|--------------------------------+--------+------|
+| \_  start exploratory research |        | 7:19 |
+#+END:
+
+CLOCK: [2017-08-18 Fri 14:28]--[2017-08-18 Fri 15:06] =>  0:38
+CLOCK: [2017-08-18 Fri 11:30]--[2017-08-18 Fri 12:11] =>  0:41
+CLOCK: [2017-08-17 Thu 20:02]--[2017-08-17 Thu 20:29] =>  0:27
+CLOCK: [2017-08-17 Thu 17:41]--[2017-08-17 Thu 18:36] =>  0:55
+CLOCK: [2017-08-16 Wed 13:28]--[2017-08-16 Wed 15:26] =>  1:58
+CLOCK: [2017-08-13 Sun 17:51]--[2017-08-13 Sun 17:57] =>  0:06
+CLOCK: [2017-08-13 Sun 17:17]--[2017-08-13 Sun 17:51] =>  0:34
+CLOCK: [2017-08-13 Sun 16:14]--[2017-08-13 Sun 16:38] =>  0:24
+CLOCK: [2017-08-13 Sun 15:42]--[2017-08-13 Sun 16:08] =>  0:26
+CLOCK: [2017-08-13 Sun 13:17]--[2017-08-13 Sun 14:27] =>  1:10
+:END:

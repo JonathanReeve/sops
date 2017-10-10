@@ -92,6 +92,7 @@ While theory building on the underlying causes of harmful speech online is gener
   - A limitaiton to theories that argue that anonymity contributes to harfmul online behavior (such as those by Suler, Barlett, and Gentile) is the ambiguous definition of anonymity that doesn’t distinguish between pseudonymity, perceived anonymity, or partial anonymity.
 - deindividuation: loss of sence of self
 - depersonalization: prioritizing one's identity with the group over one's individualized identity
+
 ### Mimicry Effect
  - This theory holds that boosting positive content rather than deleting harmful content will foster an environment where other members of the website will contribute positive content
  
@@ -149,10 +150,20 @@ More proprietary systems also exist. A number of US patents---US5796948, US88684
 
 ### General Classification Studies
 
- - Tokenization and pre-processing
+Most computer science and computational linguistics studies in the detection of abusive language treat the problem as one of document categorization. This is a very common pattern of machine learning analysis in which an algorithm decides whether to place documents in one of two or more categories. These categories are almost never identically defined across studies, but are variously termed "abusive / non-abusive," "hate speech / non-hate speech," "high-quality / low-quality," and so on. 
+
+Almost all of the categorization experiments we examined employ some form of supervised machine learning. Supervised learning approaches involve training a machine learning algorithm on a set of pre-labeled training data, such as tweets or comments that human annotators have labeled as "abusive" or "non-abusive."  The algorithm learns which textual or metatextual features best correlate with their categories, and then uses these weighted features to predict the probability of an unlabeled document falling into a category. The studies we examined vary greatly in their approaches: the features they choose, the classification algorithms they use, and the categories themselves. 
+
+There are two main categories of features used in these studies: textual and metatextual features. Textual features are properties of the abusive language itself, without reference to their context; metatextual features are contextual: users' self-descriptions, IP addresses, and operating systems, just to name a few. Some document categorization studies employ only textual features (which, in rare cases, are the only features available), but most employ a mix of both. 
+
+Textual features are either words, characters, or groupings of words or characters known as n-grams, where n refers to the number of words or characters. Character 4-grams, for instance, refers to groupings of four characters, and word trigrams refers to groups of three words. Skip-trigrams refers to groups of words representing every other, or every third word in a series.  
+
+Choosing what constitutes a word, and defining its boundaries, is an important first step in the creation of textual features called tokenization. This may seem like an inconsequential first step in text analysis, and is for this reason often considered _pre_-processing, but careful tokenization, informed by domain-specific knowledge and familiarity with the textual corpus, can make significant differences in the outcomes of the categorization experiment. A related task, termed normalization, involves transforming words into their canonical morphologies, either through lemmatization (collapsing words into their dictionary forms, i.e. "went" to "ran"), or stemming (transforming word variants into their stems, i.e. collapsing "translate" and "translation" into "translat"). Normalization often has to be 
+
  - Features used
  - Classifiers used
  - Meta-classification
+
 
 ### Detection of Quality, Formality
 

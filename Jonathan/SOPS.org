@@ -3,29 +3,6 @@
 #+TITLE: A Safer Online Public Square: Research Notes
 
 * Todo
-** DONE [#A] start exploratory research
-CLOSED: [2017-08-24 Thu 16:32]
-:LOGBOOK:
-#+BEGIN: clocktable :maxlevel 2 :scope subtree
-#+CAPTION: Clock summary at [2017-08-30 Wed 12:40]
-| Headline                       | Time   |      |
-|--------------------------------+--------+------|
-| *Total time*                   | *7:19* |      |
-|--------------------------------+--------+------|
-| \_  start exploratory research |        | 7:19 |
-#+END:
-
-CLOCK: [2017-08-18 Fri 14:28]--[2017-08-18 Fri 15:06] =>  0:38
-CLOCK: [2017-08-18 Fri 11:30]--[2017-08-18 Fri 12:11] =>  0:41
-CLOCK: [2017-08-17 Thu 20:02]--[2017-08-17 Thu 20:29] =>  0:27
-CLOCK: [2017-08-17 Thu 17:41]--[2017-08-17 Thu 18:36] =>  0:55
-CLOCK: [2017-08-16 Wed 13:28]--[2017-08-16 Wed 15:26] =>  1:58
-CLOCK: [2017-08-13 Sun 17:51]--[2017-08-13 Sun 17:57] =>  0:06
-CLOCK: [2017-08-13 Sun 17:17]--[2017-08-13 Sun 17:51] =>  0:34
-CLOCK: [2017-08-13 Sun 16:14]--[2017-08-13 Sun 16:38] =>  0:24
-CLOCK: [2017-08-13 Sun 15:42]--[2017-08-13 Sun 16:08] =>  0:26
-CLOCK: [2017-08-13 Sun 13:17]--[2017-08-13 Sun 14:27] =>  1:10
-:END:
 ** TODO read ACL workshop papers
 #+BEGIN: clocktable :maxlevel 2 :scope subtree
 #+CAPTION: Clock summary at [2017-08-30 Wed 12:41]
@@ -58,18 +35,6 @@ CLOCK: [2017-08-18 Fri 15:54]--[2017-08-18 Fri 16:08] =>  0:14
 CLOCK: [2017-08-18 Fri 15:23]--[2017-08-18 Fri 15:51] =>  0:28
 :END:
 
-** DONE write first report
-CLOSED: [2017-08-22 Tue 11:31]
-:LOGBOOK:
-CLOCK: [2017-08-22 Tue 09:23]--[2017-08-22 Tue 11:11] =>  1:48
-:END:
-** DONE write second report
-CLOSED: [2017-08-28 Mon 15:38]
-** DONE clean up, read short articles
-CLOSED: [2017-08-28 Mon 15:38]
-:LOGBOOK:
-CLOCK: [2017-08-22 Tue 14:46]--[2017-08-22 Tue 14:54] =>  0:08
-:END:
 ** TODO prepare a list of NLP journals to search
 ** TODO search NLP journals for keywords 
 ** TODO reach out to Phil for Gamergate tweets
@@ -100,7 +65,7 @@ CLOCK: [2017-09-27 Wed 11:46]--[2017-09-27 Wed 11:59] =>  0:13
 :END:
   [[mu4e:msgid:cb16c372-6032-1fef-570e-4c1770b0e42d@columbia.edu][uwp-list Information Memo #3: What to do if you worked elsewhere on campus this summer or will during the year]]
 *** TODO [#A] fill out timesheet and submit to French department
-DEADLINE: <2017-09-28 Thu> SCHEDULED: <2017-09-27 Wed>
+SCHEDULED: <2017-10-08 Sun> DEADLINE: <2017-10-08 Sun>
 :LOGBOOK:
 CLOCK: [2017-09-27 Wed 11:59]--[2017-09-27 Wed 12:24] =>  0:25
 :END:
@@ -116,10 +81,6 @@ CLOCK: [2017-09-13 Wed 11:44]--[2017-09-13 Wed 12:17] =>  0:33
 :END:
 *** DONE Journal of Psycholinguistic Research
 CLOSED: [2017-09-14 Thu 13:12]
-** TODO write report 3
-:LOGBOOK:
-CLOCK: [2017-09-14 Thu 13:02]--[2017-09-14 Thu 14:03] =>  1:01
-:END:
 ** DONE [#A] make outline of master report
 CLOSED: [2017-09-27 Wed 12:36] SCHEDULED: <2017-09-23 Sat>
 :LOGBOOK:
@@ -130,8 +91,12 @@ CLOCK: [2017-09-25 Mon 14:33]--[2017-09-25 Mon 15:53] =>  1:20
 CLOCK: [2017-09-25 Mon 18:00]--[2017-09-25 Mon 18:19] =>  0:19
 :END:
 ** TODO make master report
-DEADLINE: <2017-10-07 Sat> SCHEDULED: <2017-10-07 Sat>
+DEADLINE: <2017-10-08 Sun> SCHEDULED: <2017-10-07 Sat>
 :LOGBOOK:
+CLOCK: [2017-10-09 Mon 11:56]--[2017-10-09 Mon 12:06] =>  0:10
+CLOCK: [2017-10-09 Mon 11:40]--[2017-10-09 Mon 11:55] =>  0:15
+CLOCK: [2017-10-09 Mon 10:49]--[2017-10-09 Mon 11:08] =>  0:19
+CLOCK: [2017-10-09 Mon 10:30]--[2017-10-09 Mon 10:30] =>  0:00
 CLOCK: [2017-10-07 Sat 16:24]--[2017-10-07 Sat 16:37] =>  0:13
 CLOCK: [2017-10-07 Sat 14:44]--[2017-10-07 Sat 16:23] =>  1:39
 CLOCK: [2017-10-07 Sat 12:20]--[2017-10-07 Sat 13:13] =>  0:53
@@ -714,6 +679,20 @@ Find that content-based features outperform quality-based features in predicting
  - "The quality-based features are, however, better suited for predicting the engagement a comment will receive from users in a comment thread" 55
 
 *** Of potentially abusive behavior
+**** Bullying
+***** TODO "Improved cyberbullying detection using gender information"  cite:dadvar_improved_2012 
+***** TODO "Towards understanding cyberbullying behavior in a semi-anonymous social network" cite:hosseinmardi_towards_2014 
+***** TODO "Let's gang up on cyberbullying" cite:lieberman_lets_2011 
+***** TODO "A framework for cyberbullying detection in social network" cite:kansara_framework_2015  
+***** TODO "Script-based story matching for cyberbullying prevention" cite:macbeth_script-based_2013  
+***** TODO "Fast Learning for Sentiment Analysis on Bullying" cite:xu_fast_2012 
+***** TODO "An examination of regret in bullying tweets" cite:xu_examination_2013 
+***** TODO "Detection and fine-grained classification of cyberbullying events"  cite:van_hee_detection_2015 
+***** TODO "Learning from bullying traces in social media" cite:xu_learning_2012 
+***** TODO "Cyberbullying detection: a step toward a safer internet yard" cite:dadvar_cyberbullying_2012 
+***** TODO "Modeling the detection of Textual Cyberbullying" cite:dinakar_modeling_2011 
+***** TODO "Detecting offensive language in social media to protect adolescent online safety." cite:chen_detecting_2012  
+***** TODO "An effective approach for cyberbullying detection"  cite:nahar_effective_2013 
 **** DONE "Finding Deceptive Opinion Spam by Any Stretch of the Imagination" cite:ott_finding_2011 :hasCorpus:
 CLOSED: [2017-08-27 Sun 19:26]
 "ultimately develop a classifier that is nearly 90% accurate on our gold-standard opinion spam dataset." 
@@ -824,24 +803,11 @@ Poor performance with ask.fm, since they use shorter texts
 **** TODO "Hateful Symbols or Hateful People: Predictive features for hate speech detection on twitter" cite:waseem_hateful_2016 :hasCorpus:
 **** TODO "Abusive language detection in online user content" cite:nobata_abusive_2016 
 **** TODO "Detection of harassment on web 2.0" cite:yin_detection_2009   
-**** TODO "Improved cyberbullying detection using gender information"  cite:dadvar_improved_2012 
 **** TODO "Impact of content features for automatic online abuse detection." cite:papegnies_impact_2017 
 **** TODO "Ex machina: Personal attacks seen at scale." cite:wulczyn_ex_2017 :hasCorpus:
-**** TODO "Script-based story matching for cyberbullying prevention" cite:macbeth_script-based_2013  
-**** TODO "Let's gang up on cyberbullying" cite:lieberman_lets_2011 
 **** TODO "Smokey: Automatic recognition of hostile messages" cite:spertus_smokey:_1997   
 **** TODO "Measuring the reliability of hate speech annotations: The case of the European refugee crisis." cite:ross_measuring_2017 
 **** TODO "Detecting offensive tweets via topical feature discovery over a large scale twitter corpus" cite:xiang_detecting_2012  
-**** TODO "Towards understanding cyberbullying behavior in a semi-anonymous social network" cite:hosseinmardi_towards_2014 
-**** TODO "Learning from bullying traces in social media" cite:xu_learning_2012 
-**** TODO "A framework for cyberbullying detection in social network" cite:kansara_framework_2015  
-**** TODO "Fast Learning for Sentiment Analysis on Bullying" cite:xu_fast_2012 
-**** TODO "An examination of regret in bullying tweets" cite:xu_examination_2013 
-**** TODO "Detection and fine-grained classification of cyberbullying events"  cite:van_hee_detection_2015 
-**** TODO "Detecting offensive language in social media to protect adolescent online safety." cite:chen_detecting_2012  
-**** TODO "Cyberbullying detection: a step toward a safer internet yard" cite:dadvar_cyberbullying_2012 
-**** TODO "An effective approach for cyberbullying detection"  cite:nahar_effective_2013 
-**** TODO "Modeling the detection of Textual Cyberbullying" cite:dinakar_modeling_2011 
 **** TODO "Cross-Language Learning from Bots and Users to Detect Vandalism on Wikipedia" cite:tran_cross-language_2015 
 **** TODO "Mining for gold farmers: Automatic detection of deviant players in mmogs." cite:ahmad_mining_2009  
 **** TODO "Don’t hate the player, hate the game: The racialization of labor in World of Warcraft." cite:nakamura_dont_2009 
