@@ -141,6 +141,7 @@ A number of organizations exist to study and combat harassment, hate speech, and
 - [Online SOS](http://onlinesosnetwork.org/)
     - Online SOS is a nonprofit providing confidential, professional support to individuals experiencing online harassment. They  provide Crisis coaching which includes helping targets of harrasment document their experince and Referral to experts (legal and psychological)
 -[Tactical Tech](http://www.tacticaltech.org/)
+    - "Founded in 2003, Tactical Tech is a non-profit that has been working worldwide to demystify and promote technology in the context of activism for over a decade. Working at the intersection of tech, activism and politics, Tactical Tech reaches more than three million people worldwide annually through events, training, online resources and exhibitions. We are an international group of technologists, activists, designers and practitioners based in Berlin, who work with citizens, journalists and activists to raise awareness about personal data, privacy and digital security."
 
 
  
