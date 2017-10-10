@@ -126,6 +126,23 @@ While theory building on the underlying causes of harmful speech online is gener
  - Etc...
 
 A number of organizations exist to study and combat harassment, hate speech, and related phenomena. The [Women's Media Center Speech Project](http://wmcspeechproject.com/) studies and reports on "the underrepresentation and misrepresentation of women in the media," including online harassment of women. 
+- [Crash Override Network](http://www.crashoverridenetwork.com/)
+   - Crash Override Network provides a hotline for crisis support and assistance to the targets of online harassment. They also engage in community outreach and education. It was founded by Zoe Quinn, a game developer who was one of the first targets of GamerGate. They also work with tech companies and government officials to better protect against online harassment.   
+- [Trollbusters](www.troll-busters.com)
+   - TrollBusters is a global, collaborative campaign project dedicated to helping journalists that are under attack. It calls itself "Online Pest Control for Women Writers.” Someone being harassed can send a message to TrollBusters who will respond by flooding their feed with positive, supportive messages to serve as a counternarrative to the harassment. They also provide resources that give some legal and psychological guidance to women authors.They are also developing software to identify and ‘out’ trolls. In 2015 it won a top prize at the International Women’s Media Foundation hackathon.
+   - learn more [here](https://yoursosteam.wordpress.com/) and [here](https://www.cjr.org/analysis/the_invaluable_service_of_trollbuster.php)
+- [Take Back the Tech](https://www.takebackthetech.net/about) 
+    - “a global, collaborative campaign project that highlights the problem of tech-related violence against women, together with research and solutions from different parts of the world. The campaign offers safety roadmaps and information and provides an avenue for taking action. Take Back the Tech! leads several campaigns at various points in the year, but our biggest annual campaign takes place during 16 Days of Activism Against Gender-Based Violence (25 Nov - 10 Dec).”
+    - play on Take back the night
+- [Cybersmile](https://www.cybersmile.org/)
+    - anti cyberbullying group that provides 24/7 trained support for people who were cyberbullied. They also have educational resources.
+- [Digital-Trust](http://www.digital-trust.org/)
+    - “Digital-Trust brings together technologists and professionals working with victims and vulnerable people to understand evolving risks and address digital abuse. We provide technical expertise to victims, charities, support groups and organisations working within the criminal justice system as well as directly to people experience digital abuse.”
+-[Online SOS](http://onlinesosnetwork.org/)
+    - Online SOS is a nonprofit providing confidential, professional support to individuals experiencing online harassment. They  provide Crisis coaching which includes helping targets of harrasment document their experince and Referral to experts (legal and psychological)
+    
+    
+    
  #### Call out groups
  - [Racists Getting Fired](http://racistsgettingfired.tumblr.com/)
    - Blog that posts screenshots of racist posts made on social media along with the poster’s employer’s info so that people contact the company to get them fired
@@ -166,6 +183,8 @@ A number of organizations exist to study and combat harassment, hate speech, and
   - Hack Blossom provides educational resources and training for DIY feminist cybersecuirty with a focus on how to secure one's devices and digital identity to prevent and limit domestic abuse and harassment online
   - [DIY Cybersecurity for Domestic Violence](https://hackblossom.org/domestic-violence/)
   - [A DIY Guide to Feminist Cybersecurity](https://hackblossom.org/cybersecurity/)
+- [Diverse Gaming Coalition](http://diversegaming.co/)
+    - a non profit fighting against online harassment in gaming. Their advocacy includes talks, workshops, streaming, gaming, and partner projects.  
     
 
 ### Initiatives by Social Media Platforms
