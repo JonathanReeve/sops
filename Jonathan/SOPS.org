@@ -49,21 +49,6 @@ CLOCK: [2017-09-03 Sun 17:16]--[2017-09-03 Sun 18:52] =>  1:36
 :END:
 ** TODO identify good researchers to invite to Columbia
 ** Administrative
-*** DONE send Susan a copy of my UW syllabus
-CLOSED: [2017-09-01 Fri 15:51]
-*** DONE send Susan a copy of my calendar
-CLOSED: [2017-09-01 Fri 15:51]
-*** DONE [#A] fill out timesheet and submit to French department
-CLOSED: [2017-08-30 Wed 12:00] SCHEDULED: <2017-08-30 Wed>
-:LOGBOOK:
-CLOCK: [2017-08-30 Wed 12:39]--[2017-08-30 Wed 13:00] =>  0:21
-:END:
-*** DONE [#A] ask French dept about sending PAF back to the English Dept  
-CLOSED: [2017-09-27 Wed 11:59]
-:LOGBOOK:
-CLOCK: [2017-09-27 Wed 11:46]--[2017-09-27 Wed 11:59] =>  0:13
-:END:
-  [[mu4e:msgid:cb16c372-6032-1fef-570e-4c1770b0e42d@columbia.edu][uwp-list Information Memo #3: What to do if you worked elsewhere on campus this summer or will during the year]]
 *** TODO [#A] fill out timesheet and submit to French department
 SCHEDULED: <2017-10-08 Sun> DEADLINE: <2017-10-08 Sun>
 :LOGBOOK:
@@ -81,11 +66,6 @@ CLOCK: [2017-09-13 Wed 11:44]--[2017-09-13 Wed 12:17] =>  0:33
 :END:
 *** DONE Journal of Psycholinguistic Research
 CLOSED: [2017-09-14 Thu 13:12]
-** DONE [#A] make outline of master report
-CLOSED: [2017-09-27 Wed 12:36] SCHEDULED: <2017-09-23 Sat>
-:LOGBOOK:
-CLOCK: [2017-09-25 Mon 14:33]--[2017-09-25 Mon 15:53] =>  1:20
-:END:
 ** TODO [#A] set up Doodle poll for next meeting
 :LOGBOOK:
 CLOCK: [2017-09-25 Mon 18:00]--[2017-09-25 Mon 18:19] =>  0:19
