@@ -138,9 +138,13 @@ A number of organizations exist to study and combat harassment, hate speech, and
     - anti cyberbullying group that provides 24/7 trained support for people who were cyberbullied. They also have educational resources.
 - [Digital-Trust](http://www.digital-trust.org/)
     - “Digital-Trust brings together technologists and professionals working with victims and vulnerable people to understand evolving risks and address digital abuse. We provide technical expertise to victims, charities, support groups and organisations working within the criminal justice system as well as directly to people experience digital abuse.”
+    
 -[Online SOS](http://onlinesosnetwork.org/)
     - Online SOS is a nonprofit providing confidential, professional support to individuals experiencing online harassment. They  provide Crisis coaching which includes helping targets of harrasment document their experince and Referral to experts (legal and psychological)
-    
+-[Tactical Tech](http://www.tacticaltech.org/)
+
+
+ 
     
     
  #### Call out groups
@@ -186,7 +190,8 @@ A number of organizations exist to study and combat harassment, hate speech, and
 - [Diverse Gaming Coalition](http://diversegaming.co/)
     - a non profit fighting against online harassment in gaming. Their advocacy includes talks, workshops, streaming, gaming, and partner projects.  
     
-
+- [WomensLaw](womenslaw.org)
+    - Website with legal resources about a variety of laws related to women, especially related to domestic violence and other gender-based violence. They have information about cyberstalking and links to ways to stay safe while using technology.
 ### Initiatives by Social Media Platforms
 
 Most social media sites have a bifurcated approach to presenting their policy on harmful speech to their users. On the one hand, their formal documents such as the terms of service tend to broadly prohibit harassment on the site, but  rarely elaborate on what constitutes harassment. On the other hand, the websites’ informal documentation such as their ‘community guidelines’ will go into more detail about what constitutes misconduct on the website, but falls short of formally defining harassment, giving the websites lee-way to determine what sort of content they remove. In both the formal and informal policy of social media platforms, harassment is usually lumped together with other prohibited activity such as spamming and hacking. 
