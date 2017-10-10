@@ -137,9 +137,8 @@ A number of organizations exist to study and combat harassment, hate speech, and
 - [Cybersmile](https://www.cybersmile.org/)
     - anti cyberbullying group that provides 24/7 trained support for people who were cyberbullied. They also have educational resources.
 - [Digital-Trust](http://www.digital-trust.org/)
-    - “Digital-Trust brings together technologists and professionals working with victims and vulnerable people to understand evolving risks and address digital abuse. We provide technical expertise to victims, charities, support groups and organisations working within the criminal justice system as well as directly to people experience digital abuse.”
-    
--[Online SOS](http://onlinesosnetwork.org/)
+    - “Digital-Trust brings together technologists and professionals working with victims and vulnerable people to understand evolving risks and address digital abuse. We provide technical expertise to victims, charities, support groups and organisations working within the criminal justice system as well as directly to people experience digital abuse.”   
+- [Online SOS](http://onlinesosnetwork.org/)
     - Online SOS is a nonprofit providing confidential, professional support to individuals experiencing online harassment. They  provide Crisis coaching which includes helping targets of harrasment document their experince and Referral to experts (legal and psychological)
 -[Tactical Tech](http://www.tacticaltech.org/)
 
