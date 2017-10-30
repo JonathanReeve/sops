@@ -21,3 +21,19 @@ For the most part the protocol is to delete the post with little explantion even
 
 On some social media sites you are prompted by a message warning that this content (usually a comment or a tweet) has been marked as offensive/harmful 
 Examples of this include twitter 
+
+### bystander intervention
+ - //insert stats from studies that outline how many people tend to comment on posts reporting/encouraging/discouraging the harfmul content versus what percent does nothing
+ - examples of offline bystander intervention
+    - best practices for intervening in street harassment
+    
+ ### Restorative Justice
+ 
+ - define--metion that it is used in schools
+ 
+ - the importance of community building
+   - community building is a central pillar to making restorative justice work. THe fact that the entire community (not just those involved in confrontational behavior) will be involved in mediating and restoring situations means that there needs to be a certain level of comfort with conveining in restorative circles. FOr this reason schools employing restorative justice will have daily or weekly meetings/circles/discussions with students and faculty in order to foster comfort and standards for when there needs to be a restorative session
+   - restorative sessions allow for those who are affected by a harfmul interaction (beyond just the prepetrator and target) to discuss what was wrong with the behavior and gain a more thorough understanding of how this event should impact their understanding of acceptable norms and behaviors. 
+   
+   ### parallels between restorative justice community building and Kelty's 'recursive publics'
+   - the importance of not only speaking but also speaking about the techniques and conditions with which we speak
