@@ -49,9 +49,11 @@ CLOCK: [2017-09-03 Sun 17:16]--[2017-09-03 Sun 18:52] =>  1:36
 :END:
 ** TODO identify good researchers to invite to Columbia
 ** Administrative
-*** TODO [#A] fill out timesheet and submit to French department
-SCHEDULED: <2017-10-08 Sun> DEADLINE: <2017-10-08 Sun>
+*** DONE [#A] fill out timesheet and submit to French department
+CLOSED: [2017-11-08 Wed 11:14] SCHEDULED: <2017-10-08 Sun> DEADLINE: <2017-10-08 Sun>
 :LOGBOOK:
+CLOCK: [2017-11-07 Tue 13:21]--[2017-11-07 Tue 13:36] =>  0:15
+CLOCK: [2017-11-06 Mon 15:41]--[2017-11-06 Mon 15:41] =>  0:00
 CLOCK: [2017-09-27 Wed 11:59]--[2017-09-27 Wed 12:24] =>  0:25
 :END:
 ** TODO organize GitHub repository into folders  
@@ -66,14 +68,15 @@ CLOCK: [2017-09-13 Wed 11:44]--[2017-09-13 Wed 12:17] =>  0:33
 :END:
 *** DONE Journal of Psycholinguistic Research
 CLOSED: [2017-09-14 Thu 13:12]
-** TODO [#A] set up Doodle poll for next meeting
+** DONE [#A] set up Doodle poll for next meeting
+CLOSED: [2017-11-03 Fri 14:57]
 :LOGBOOK:
 CLOCK: [2017-09-25 Mon 18:00]--[2017-09-25 Mon 18:19] =>  0:19
 :END:
 ** TODO make master report
 DEADLINE: <2017-10-08 Sun> SCHEDULED: <2017-10-07 Sat>
 :LOGBOOK:
-CLOCK: [2017-10-10 Tue 11:23]
+CLOCK: [2017-10-10 Tue 11:23]--[2017-10-10 Tue 12:02] =>  0:39
 CLOCK: [2017-10-10 Tue 11:12]--[2017-10-10 Tue 11:22] =>  0:10
 CLOCK: [2017-10-10 Tue 10:45]--[2017-10-10 Tue 11:12] =>  0:27
 CLOCK: [2017-10-09 Mon 11:56]--[2017-10-09 Mon 12:06] =>  0:10
@@ -84,6 +87,9 @@ CLOCK: [2017-10-07 Sat 16:24]--[2017-10-07 Sat 16:37] =>  0:13
 CLOCK: [2017-10-07 Sat 14:44]--[2017-10-07 Sat 16:23] =>  1:39
 CLOCK: [2017-10-07 Sat 12:20]--[2017-10-07 Sat 13:13] =>  0:53
 :END:
+** TODO reach out to Adam Obeng, creater of Chirp 
+[[mu4e:msgid:CAAobwCgF9dgiXvt0kVyNUGYaqd4aN9eTF=eW9D3PQsxEL3ooYw@mail.gmail.com][Adam Obeng]]
+[[https://github.com/adamobeng/chirp][adamobeng/chirp: chirp]]
 * Links 
 ** News, Blogs, Mass Media
 *** DONE [[https://www.nytimes.com/2017/06/21/opinion/whatsapp-crowds-and-power-in-india.html][*New York Times* WhatsApp, Crowd, Power in India]]
@@ -244,6 +250,7 @@ CLOSED: [2017-09-03 Sun 18:50]
 - uses a combination of four language models, incl. char n-grams, word n-grams (performed better than chars), custom features
 - all params cross-validated
 - bad words list: "For the list of bad words, I used one that allegedly is also used by google. As this will include 'motherfucker' but not 'idiot' or 'moron' (two VERY important words in the training / leaderboard set), I extended the list with these and whatever the thesaurus said was 'stupid'." 
+**** TODO [[https://competitions.codalab.org/competitions/17333][SemEval-2018 Task 1: Affect in Tweets]]
 ** Organizations
 *** Colin's doc: [[https://docs.google.com/document/d/1nMbD79FwAHny-9VEf2vLXZIk9hBdx8ttkcCFA5GFGyM/edit?ts=59a4686b#heading=h.iy6oqdld37n2][Organizations doing something - Google Docs]]
 *** DONE [[http://wmcspeechproject.com/][WMC Speech Project]]
@@ -371,7 +378,6 @@ Abstract: "This dissertation explores the rhetorical concept of ethos as it func
 *** TODO [[https://www-google-com.ezproxy.cul.columbia.edu/patents/US8473443][Patent US8473443 - Inappropriate content detection method for senders - Google Patents]]
 *** TODO [[https://www-google-com.ezproxy.cul.columbia.edu/patents/US7818764][Patent US7818764 - System and method for monitoring blocked content - Google Patents]]
 *** TODO [[https://www-google-com.ezproxy.cul.columbia.edu/patents/US20080109214][Patent US20080109214 - System and method for computerized psychological content analysis of ... - Google Patents]]
-
 *** TODO [[https://www.google.com/patents/US20110191105][Patent US20110191105 - Systems and Methods for Word Offensiveness Detection and Processing Using ... - Google Patents]]
 * Problems, Topics
 ** Censorship policies of social media companies
@@ -784,6 +790,7 @@ Poor performance with ask.fm, since they use shorter texts
 
 **** TODO "Automated hate speech detection and the problem of offensive language." cite:davidson_automated_2017   
 **** TODO "Hateful Symbols or Hateful People: Predictive features for hate speech detection on twitter" cite:waseem_hateful_2016 :hasCorpus:
+Data available on GitHub here: [[https:/github.com/zeerakw/hatespeech][zeerakw/hatespeech]]
 **** TODO "Abusive language detection in online user content" cite:nobata_abusive_2016 
 **** TODO "Detection of harassment on web 2.0" cite:yin_detection_2009   
 **** TODO "Impact of content features for automatic online abuse detection." cite:papegnies_impact_2017 
@@ -1053,3 +1060,10 @@ social network studies have been done, and formality studies, but not yet formal
  - deixis
 ** Notes from meeting <2017-09-14 Thu>
 *** NYU twitter bots: [[https://cds.nyu.edu/using-data-science-moderate-online-harrassment/][Using Data Science to Moderate Online Harrassment - NYU Center for Data Science]]
+** Notes from meeting <2017-10-10 Tue> 
+:LOGBOOK:
+CLOCK: [2017-10-10 Tue 12:02]--[2017-10-10 Tue 13:03] =>  1:01
+:END:
+Workshop: internal to Columbia at first? 
+*** [['https:/en.wikipedia.org/wiki/Microaggression']['Microaggression - Wikipedia']]
+
