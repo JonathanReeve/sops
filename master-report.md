@@ -256,6 +256,8 @@ The results of this tokenization and normalization are language features in the 
 
 Other vectorization techniques take into account the meanings or functions of the words. Word embeddings, for instance, transform words into high-dimensional vectors that encode the probabilities of their co-occuring with other words in a large corpus. Embeddings from the [Stanford GloVe vectors](https://nlp.stanford.edu/projects/glove), for instance, encode semantic information 
 
+ - POS representations (and in detection of quality, detection of psycholinguistics)
+ 
 To this collection of token vectors, often other language measurements are added. General measurements such as document length are usually among these features. More specific measurements may include ratios of capital letters (a proxy for all-caps emphasis) and ratios of punctuation marks such as exclamation points. (The features used by [the 2014 Stanford Literary Lab Pamphlet 7](https://litlab.stanford.edu/LiteraryLabPamphlet7.pdf), "Loudness in the Novel", are similar, and are used as proxies for what they term "loudness.")
 
  - Features used
