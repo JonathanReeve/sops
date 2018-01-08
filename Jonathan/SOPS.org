@@ -1066,4 +1066,188 @@ CLOCK: [2017-10-10 Tue 12:02]--[2017-10-10 Tue 13:03] =>  1:01
 :END:
 Workshop: internal to Columbia at first? 
 *** [['https:/en.wikipedia.org/wiki/Microaggression']['Microaggression - Wikipedia']]
+** Workshop <2017-12-05 Tue> 
+:LOGBOOK:
+CLOCK: [2017-12-05 Tue 08:45]--[2017-12-05 Tue 11:03] =>  2:18
+:END:
+*** Introductions
+Susan: online harassment as a censorship issue
+Dan Jurafsky: linguistics, Stanford
+ - "Social meaning from text and speech" 
+Julia Hirschberg: chair, Comp. Sci.
+ - has worked on a project with Jewish Theolog. Sem. project on identifying hate speech
+Tian Zheng: prof. Physics, 
+Bruce Shapiro: Center for Journalism and Trauma
+ - impact of traumatic work on journalists
+Elana Newman: psychologist, trauma researcher at Dart Center
+ - what does it mean to be a bystander? To be a target?
+ - combine psychological and computer modeling
+Joel Ttreoult: Grammerly
+ - formerly of Yahoo Labs
+ - "uptick in hatefulness of comments ~2013"
+Destiny Monta..: Vice Media
+Lydia Liu: dir. ICLS
+ - rel. betw. psych. behavior and cybernetics,
+ - narcissism and technology
+ - philosophical approaches to concepts of public and provate
+David Park: Columbia
+ - machine learning
+William Frey: SAFElab 
+ - working on social media and gang violence
+Isabelle Zagg: communication
+ - language diversity in digital sphere
+ - interested in global contexts for this problem
+Madeline Dobie: French dept. 
+ - contemp. public sphere in Algeria
+Alex Abdo: Knight First Amendment Institute
+ - free speech and social media
+Kathy McKeweon: Comp. Sci
+ - working on persuasion, influence
+ - systems to detect aggression
+*** Conversation 
+Dan: 
+ - Research: looking at body camera data, racial bias
+ - Paper: studying attacks between subreddits
+   - who does these attacks, who initiates them 
+     - initiated by senior members, carried out by junior
+ - Corpus: response to gender
+   - comments on TED talks about gender
+   - congress Facebook posts (M, F)
+   - notes that "you" most often refers to men; women referred to as "she"
+   - initially wanted to write a comment rewriter
+   
+Joel: 
+Yahoo Labs uptick in abusive language circa 2013
+ - More comments than could be moderated by humans
+ML, deep learning approaches to filter abusive comments
+ - Initial approaches were regex patterns of bad language
+ - ranking "good comments"
+ - identifies high-quality, constructive comments, highlights them in an effort to encourage better comments
+Coordinated first workshop in abusive language online
+ - needed interdisciplinary approach
+ - brought in a mother whose late daughter had been a bullying victim, and whose response to being bullied was "killing her attackers with kindness" 
+   
+Susan: difficulty of keyword-based abusive language detection within controversial topics where keywords may be also used by non-toxic comments
 
+Bruce: differentiating between "genuine threat" and toxic speech
+ - and differentiating between "choreographed" and bot-driven abuse
+ - counterspeech approach to hate mail: "thank you for replying so vigorously" works most of the time
+ - identification of those involved in attempts at intimidation of investigative reporters in Phillipines reporting on drug 
+
+Elana: 
+ - phenomenology of harassment: personalities that may lead to harassment
+
+Susan: what have you observed in your field(s)?  
+
+Destiny: Perspective API
+ - Susan: reception "lukewarm"
+ - Joel: Perspective is an ML approach, not good at subtle language 
+
+Elana: higher risk of mental health issues for journalists covering traumatic or controversial events
+ - potential for self-censorship
+ - distinguishing between gendered, sexual harassment 
+
+William: 
+ - studies how grief, loss tweets precede aggression tweets
+ - studies "root causes of violence"
+ - Paper: uses former gang members as experts
+   - trains former gang members to see their knowledge as expertise
+ - "block-specific emoji use" 
+
+Kathy: 
+ - uses William's annotations to build an ML system
+ - difficulties: vocabulary often isn't used in other contexts, so existing NLP tools haven't been trained on this
+   - performs translation from lexical features to common words
+   - uses [[https://www.god-helmet.com/wp/whissel-dictionary-of-affect/index.htm][dictionary of affect and language]]
+ - classification of speech in patterns of conversation, within social network
+
+Alex: 
+ - problems with privatization of public sphere is redefinition of free speech principles
+ - can the government order companies to filter the content on their sites?
+ - Supreme Court has never said that hate speech could be restricted in the public sphere
+ - CEO of CloudFlare supporter of free speech 
+   - Daily Stormer would no longer be protected from DDOS attacks
+
+Susan: 
+ - problem of accountability online: same actions that, if they happened in the street, would be able to have police response, don't have one online 
+
+Alex: 
+ - Communications Decency Act sec.230
+   - "immunizes publishers of third-party content"
+ - no litigation about whether results removed from, say, google.fr should also be removed from google.com
+
+Susan: 
+ - WSJ comments show high emotional valence according to topic. Some topics seem to be immune to toxicity: gardening, cooking
+
+Dan, Joel: 
+ - percentage of women in an online community probably correlates negatively with toxicity
+
+Susan: Colin notes that bullying is a "chain reaction"
+ - Guardian counterspeech intervention much more effective if enacted early
+  - other particpants realize they're being watched
+
+Madeline: what has motivated some media outlets to shut down commenting entirely? 
+ - Destiny: Vice has turned off commenting. Users have turned to Twitter
+
+Susan: shadowbanning one of the most effective ways of handling abuse
+ - original poster unaware that their post is invisible to others
+
+Tian: Twitter working on a grading system to allow a user to select the grade they want to see
+
+Susan: 
+ - What does mitigation look like in your space? What has been successful for reducing harm? 
+ - What are other challenges? (Resources)
+
+Elana: "flood them with kindness"  
+
+Joel: patent for "nicebot" that tries to add nice comments in an attempt to pivot the conversation back to a positive direction
+
+David to William: how do you adapt real-world knowledge to the digital realm? 
+ - William: first acknowledge personal bias
+
+William: some activists experiencing PTSD 
+ - Elana: easy to identify high-level threats, but medium-level threats can be problematic, as well
+
+Lydia: what is unique about social media? 
+ - Does it mirror offline activities, or is it something new?
+
+Dan: 
+ - in NLP, words are the baseline
+ - yet consider the phrase: "that was very smart for a woman" 
+
+Kathy: 
+ - differences between news corpora and social media corpora
+ - properties of social networks used for categorization
+ - 
+Julia: potential for anonymity online
+
+Bruce: online discussions exhibit "learned political behavior" 
+ - is there a public education campaign that can marginalize trolls and their sense of shame? In the way that Mothers Against Drunk Driving has affected drunk driving behavior
+ - Ways of changing the lexicon?
+ - What would happen if you could curate what you see? 
+ - NEVA labs, Mark Little
+
+Dan: 
+ - Paper: Justin Cheng on trolls and trolling comments
+ - Maybe https://arxiv.org/abs/1702.01119
+
+Susan: 
+ - community feel behind participating in a hacking, trolling attempt
+ - who is creating and defining the tones of these communities?
+ - what are opportunities for finding (positive) communities and participations online? 
+   - who is doing the "public health" alternative?
+
+Lydia: 
+ - Enlightenment French philosopher who asks: what guilt from deaths thousands of miles away? 
+   - Is it a crime in France to kill someone thousands of miles away, e.g. in China?
+   - Is it possible to form a community from anonymous people?
+
+Bruce: what happens when you take anonymity away? 
+ - Isabelle: Facebook requiring real names
+   - traveler murdered using couchsurfing.com (which lacks ratings) v. traveler using AirBNB (with ratings, reviews of hosts)
+   - ways of registering trustworthiness of commenters
+
+Susan: toxicity from anonymity really uneven
+ - pseudonyms that accrue reputation in other contexts
+
+Destiny: stackexchange reputation as a prerequisite for commenting, interaction 
