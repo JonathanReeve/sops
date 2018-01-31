@@ -102,6 +102,8 @@ The discussion of Stewart’s “I know it when I see it” points to a central 
 
 #### What is left out of definitions
 
+There are two forms of harmful speech that are often left out of discussions of harmful speech. The first is self-directed harmful speech and the second is harmful speech expressed privately between a group of like-minded people where the target of the harmful speech is not a party to the discussion. Neither is easily categorized with other forms of harmful speech and they therefore need separate attention.
+
 - Harmful speech directed at one's self
   - this includes online posts that depict eating disorders or suggest self-harm. It is infrequently included in discussion of harmful online behavior, but it is a serious issue that needs to be dealt with in a different way than outward oriented harmful speech. 
 - Harmful speech between a group that does not include the target of the speech
