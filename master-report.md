@@ -24,7 +24,31 @@ There are many categories of speech that fall under the umbrella of harmful spee
 There is significant corpus of writing which attempts to formulate a definition and taxonomy of harmful speech online. These classifications will often vary based on the purpose of the definition which varies from academic research, legal recommendations, or advocacy. These different purposes result in varying breadth and scope of definitions, and disagreement over definitions is one of the main challenges in compiling data from different sources on the frequency of harmful speech online (as the specific behavior being monitored in different studies varies widely). Despite these challenges, it is useful to outline the different categories of harmful online behavior, as these different types manifest themselves differently and will require different approaches for intervention.
 
  - Hate speech
+ 
+Andrew Sellars conducted an [overview](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2882244) of various attempts to define hate speech by academics, legal experts, and online platforms. In lieu of defining hate speech he identifies 8 emerging themes and common traits that are used in defining hate speech:
+
+1. Targeting of a group, or individuals as a member of a group
+2. Content in the message that expresses hatred
+3. The speech causes a harm
+4. The speaker intends harm or bad activity
+5. The speech incites bad actions beyond the speech itself
+6. The speech is either public or directed at a member of a the group
+7. The context makes violent response possible
+8. The speech has no redeeming purpose
+
+Sellars points out that there are two divergent theoretical fields that deal with hate speech: free speech theory and critical race theory, and there is little overlap between the two. 
+
+Academic definitions often vary based on whether the goal is to apply the indention to legal sanctions or to simply understand the social phenomenon of hate speech. Some definitions focus more on the content of the speech, whereas others place more emphasis on intent of speech, and a third approach ignores the intention of the speaker and instead focuses on the outcome and effects of speech. Alice Marwick and Ross Miller have synthesized these varying approaches, and proposed the following three general elements used to define hate speech: 
+
+1. Content-based elementary
+2. Intent-based elementary
+3. Harms-based element
+
+Perhaps the clearest definition of hate speech is Susan Benesch’s: 
    - “An expression that denigrates or stigmatizes a person or people based on their membership of a group that is usually but not always immutable, such as an ethnic or religious group. Sometimes other groups, defined by disability or sexual orientation, for example, are included.” Source: Benesch, Susan. Defining and diminishing hate speech. 2014. 
+
+The important difference between hate speech and other forms of harmful behavior online, is that hate speech is targeted at a group of people; even when it takes the form of hate speech against an individual it is targeting them for their belonging to a specific group
+ 
 
  - Bullying:
  
