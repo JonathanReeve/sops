@@ -74,8 +74,13 @@ CLOSED: [2017-11-03 Fri 14:57]
 CLOCK: [2017-09-25 Mon 18:00]--[2017-09-25 Mon 18:19] =>  0:19
 :END:
 ** TODO make master report
-DEADLINE: <2017-10-08 Sun> SCHEDULED: <2017-10-07 Sat>
+DEADLINE: <2018-01-30 Tue> SCHEDULED: <2018-01-30 Tue>
 :LOGBOOK:
+CLOCK: [2018-01-30 Tue 23:30]--[2018-01-31 Wed 00:12] =>  0:42
+CLOCK: [2018-01-30 Tue 19:48]--[2018-01-30 Tue 20:00] =>  0:12
+CLOCK: [2018-01-29 Mon 12:10]--[2018-01-29 Mon 12:28] =>  0:18
+CLOCK: [2018-01-29 Mon 11:59]--[2018-01-29 Mon 12:07] =>  0:08
+CLOCK: [2018-01-29 Mon 11:26]--[2018-01-29 Mon 11:34] =>  0:08
 CLOCK: [2017-10-10 Tue 11:23]--[2017-10-10 Tue 12:02] =>  0:39
 CLOCK: [2017-10-10 Tue 11:12]--[2017-10-10 Tue 11:22] =>  0:10
 CLOCK: [2017-10-10 Tue 10:45]--[2017-10-10 Tue 11:12] =>  0:27
@@ -90,6 +95,8 @@ CLOCK: [2017-10-07 Sat 12:20]--[2017-10-07 Sat 13:13] =>  0:53
 ** TODO reach out to Adam Obeng, creater of Chirp 
 [[mu4e:msgid:CAAobwCgF9dgiXvt0kVyNUGYaqd4aN9eTF=eW9D3PQsxEL3ooYw@mail.gmail.com][Adam Obeng]]
 [[https://github.com/adamobeng/chirp][adamobeng/chirp: chirp]]
+** TODO read Susan's synopsis of event  
+  [[mu4e:msgid:CAKMsVTa7HMa6o1AFxZq9B10V7PhX0P+Kyx6o2+aHzMsqpMBmDg@mail.gmail.com][Follow up from 12/5 Harassment Roundtable]]
 * Links 
 ** News, Blogs, Mass Media
 *** DONE [[https://www.nytimes.com/2017/06/21/opinion/whatsapp-crowds-and-power-in-india.html][*New York Times* WhatsApp, Crowd, Power in India]]

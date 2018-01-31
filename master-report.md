@@ -104,6 +104,7 @@ While theory building on the underlying causes of harmful speech online is gener
   -  By understanding how anonymity online can lead to greater group conformity, we can see how this dynamic can be used to combat (as well as contribute to) harmful speech online. If an individual is part of an online community where harmful speech is perceived as unacceptable and uncommon, then they are less likely themselves to engage in harfmul speech.
     - A clear example of depersonalizaiton or ‘mob mentality’ being mobilized to combat harfmul speech online is the website [HeartMob](https://iheartmob.org/about) which allows for online bystander intervention and provides an immediate support group for people who have faced online harassment. 
  - depersonalization: prioritizing one's identity with the group over one's individualized identity
+
 ### Mimicry Effect
  - This theory holds that boosting positive content rather than deleting harmful content will foster an environment where other members of the website will contribute positive content
  
@@ -146,7 +147,7 @@ A number of organizations exist to study and combat harassment, hate speech, and
 
     
     
- #### Call out groups
+#### Call out groups
  - [Racists Getting Fired](http://racistsgettingfired.tumblr.com/)
    - Blog that posts screenshots of racist posts made on social media along with the poster’s employer’s info so that people contact the company to get them fired
    - [these](http://racistsgettingfired.tumblr.com/tagged/GOTTEN) are the posts that have resulted in successful firings
@@ -191,6 +192,7 @@ A number of organizations exist to study and combat harassment, hate speech, and
     
 - [WomensLaw](womenslaw.org)
     - Website with legal resources about a variety of laws related to women, especially related to domestic violence and other gender-based violence. They have information about cyberstalking and links to ways to stay safe while using technology.
+
 ### Initiatives by Social Media Platforms
 
 Most social media sites have a bifurcated approach to presenting their policy on harmful speech to their users. On the one hand, their formal documents such as the terms of service tend to broadly prohibit harassment on the site, but  rarely elaborate on what constitutes harassment. On the other hand, the websites’ informal documentation such as their ‘community guidelines’ will go into more detail about what constitutes misconduct on the website, but falls short of formally defining harassment, giving the websites lee-way to determine what sort of content they remove. In both the formal and informal policy of social media platforms, harassment is usually lumped together with other prohibited activity such as spamming and hacking. 
@@ -203,7 +205,6 @@ Many have pointed to the gap between the publicly available policy on harfmul sp
 
 Instagram (along with Tumblr) seem to be the most proactive in fostering a safe and kind environment on their social media websites. While other websites emphasize their commitment to free expression, instagram instead emphasizes their desire for the platform to be safe, kind, and inclusive. On Instagram you can anonymously report live videos and the person live-streaming will receive a notification with resources to mental health hot-lines and other resources. They also have an option in the application for users to “Hide Offensive Comments” which uses a filter to “automatically hide comments on your posts that may be offensive,” and users can also “Hide comments on your posts that contain specific words or phrases.”  Instagram and Tumblr are the most proactive about connecting their users with mental health and anti-bullying resources. Instagram recently launched a #KindComments campaign where they are encouraging users to generate kind content. 
 
-
 Source: http://blog.instagram.com/post/162395020002/170629-comments & https://www.wired.com/2017/08/instagram-kevin-systrom-wants-to-clean-up-the-internet/ 
  - Official policies of Facebook, Twitter
  - Twitter's "progress on addressing online abuse"
@@ -211,14 +212,14 @@ Source: http://blog.instagram.com/post/162395020002/170629-comments & https://ww
  - New social media outlets (Mastodon) created with these problems in mind
  - Moderation, flagging
  
- #### [Gab.ai](https://gab.ai/): The far-right's new social media platform
+#### [Gab.ai](https://gab.ai/): The far-right's new social media platform
  - Gab.ai is a social media website founded with the purpose of creating “Free Speech for Everyone.” Their logo is a frog, reminiscent of the alt-right icon Pepe the frog, and they have primarily drawn in far right members with a good deal of racist, sexist, and xenophobic content. It has been described as the far right’s [“digital safe space”](https://www.nytimes.com/2016/11/30/arts/the-far-right-has-a-new-digital-safe-space.html)
 
 source: https://www.theguardian.com/media/2016/nov/17/gab-alt-right-social-media-twitter
 
 ### Databases and Datasets
 
-Some organizations maintain structured databases of abuse. The No Hate Speech Movement's [Hate Speech Watch database](https://www.nohatespeechmovement.org/hate-speech-watch/instructions) is a database for user-submitted reports of hate speech on the Internet. The database contains descriptions of websites containing hate speech, social media posts, and abusive users on social media. The website [Trolldor: the global blacklist of twitter trolls](https://www.trolldor.com/) similarly collects data on Twitter trolls, and maintains a "top 10 worldwide trolls" list.  [Hatebase.org](https://hatebase.org), which bills itself as the "world's largest online repository of structured, multilingual, usage-based hate speech," is a database of terms or phrases that its users report as hate speech. Although not all of these databases seem to have public APIs, if their data might nonetheless be used to train language or metadata categorizers. 
+Some organizations maintain structured databases of abuse. The No Hate Speech Movement's [Hate Speech Watch database](https://www.nohatespeechmovement.org/hate-speech-watch/instructions) is a database for user-submitted reports of hate speech on the Internet. The database contains descriptions of websites containing hate speech, social media posts, and abusive users on social media. The website [Trolldor: the global blacklist of twitter trolls](https://www.trolldor.com/) similarly collects data on Twitter trolls, and maintains a "top 10 worldwide trolls" list. [Hatebase.org](https://hatebase.org), which bills itself as the "world's largest online repository of structured, multilingual, usage-based hate speech," is a database of terms or phrases that its users report as hate speech. Although not all of these databases seem to have public APIs, if their data might nonetheless be used to train language or metadata categorizers. 
 
 Public datasets also exist which might be used as training data for categorizers.  Many authors of papers in this area of computational linguistics also release their training data, much of which is manually labeled [@kolhatkar_constructive_2017, @ott_finding_2011, @samghabadi_detecting_2017, @waseem_hateful_2016, @wulczyn_ex_2017]. For [an analysis of the Gamergate controversy](https://prpole.github.io/semantic-analysis-of-one-million-gamergate-tweets/), Phillip Polefrone collected a dataset of roughly one million tweets. The 2012 Kaggle task provides [a CSV with hand-labeled abusive short messages](https://www.kaggle.com/c/detecting-insults-in-social-commentary).The Wiki DeTox project of the Wikimedia Foundation provides language from their [Wikipedia Talk Pages](https://figshare.com/articles/Wikipedia_Talk_Labels_Toxicity/4563973), human-annotated for "toxicity" and "aggression." A separate dataset of theirs provides [personal attack annotations](https://figshare.com/articles/Wikipedia_Detox_Data/4054689) of over 100K Wikipedia comments, manually annotated by about 4,000 annotators. 
 
@@ -253,35 +254,37 @@ Normalization often also involves domain- or platform-specific transformations. 
 
 The results of this tokenization and normalization are language features in the form of n-grams. These features are then vectorized and weighted using a variety of techniques. In some cases, binary representations of words are used (either 1 or 0 for the presence or absence of a word in a document, see [@sood_automatic_2012]), but more frequently, term frequencies are used (ratios of the words in each document), and even more frequently, TF-IDF, or term frequencies adjusted for inverse document frequencies (see [@samghabadi_detecting_2017, @diakopoulos_editors]). These vectorizations are often used in statistical studies of linguistic style (stylometry) and are sometimes considered proxies for the stylistic fingerprints of individual or authorial voices. However, the limitation of these vectors is that they require a critical mass of text (>500 words) for term frequencies to be statistically practical. 
 
-Other vectorization techniques take into account the meanings or functions of the words. Word embeddings, for instance, transform words into high-dimensional vectors that encode the probabilities of their co-occuring with other words in a large corpus. Embeddings from the [Stanford GloVe vectors](https://nlp.stanford.edu/projects/glove), for instance, encode semantic information 
+Other vectorization techniques take into account the meanings or functions of the words. Word embeddings, for instance, transform words into high-dimensional vectors that encode the probabilities of their co-occuring with other words in a large corpus. Embeddings from the [Stanford GloVe vectors](https://nlp.stanford.edu/projects/glove), for instance, encode semantic information into high-dimensional vectors. 
 
  - POS representations (and in detection of quality, detection of psycholinguistics)
  
 To this collection of token vectors, often other language measurements are added. General measurements such as document length are usually among these features. More specific measurements may include ratios of capital letters (a proxy for all-caps emphasis) and ratios of punctuation marks such as exclamation points. (The features used by [the 2014 Stanford Literary Lab Pamphlet 7](https://litlab.stanford.edu/LiteraryLabPamphlet7.pdf), "Loudness in the Novel", are similar, and are used as proxies for what they term "loudness.")
 
- - Features used
+ - Features used 
  - Classifiers used
  - Meta-classification
 
-
 ### Detection of Quality, Formality
 
- - Formality scores
- - Grammatical quality
- 
-### Detection and Analysis of Swearing
+Some related content-based approaches to language categorization include the identification of language quality. "Quality" can refer to the subjective usefulness of speech towards the goals of a particular website or online community, grammatical quality (correctness), credibility, or formality, among other definitions. [@siersdorfer_how_2010] define quality as YouTube comments with good feedback (high numbers of user upvotes), and construct a categorization experiment where 6.1M training comments are vectorized using the most distinctive words of each category (TF-IDF), their SentiWordNet sentiment synonyms, and then classified using support vector machine classifiers. [@agichtein_finding_2008] also define quality based on user-reported and metadata-based reputation scores, like PageRank and ExpertiseRank, in an experiment categorizing Yahoo Answers conteng. They test a number of features of each answer, including n-grams of length 1-5, their POS representations, and metadata such as number of clicks, and categorize these using stochastic gradient boosted trees.
 
- - Disambiguation of friendly and abusive swearing
+A related metric is language formality. [@heylighen_variation_2002] propose a formality-score based on proportions of parts of speech. Based on the anthropologist Edward T. Hall's concept of "high-context" and "low-context" speech, and on the linguistic concept of deixis, they divide their lexicon into deictic words, such as pronouns, adjectives, and interjections, and non-deictic words, such as nouns and adjectives. The formality score is then proportional to the sum of deictic word frequencies subtracted from the sum of non-deictic word frequencies. This score is used, though not successfully, in a categorization experiment in [@agichtein_finding_2008], who also use a variety of other language quality metrics, like grammatical correctness. Similar measurements, like spelling, uppercase frequency, and lexical entropy, are used for comment classification in [@brand_comment_2014]. 
+
+The presence of profanity has also been shown to correlate with abusive language, as in [@brand_comment_2014]. Many of the top entries in the Kaggle contest, for instance use a "bad words list" as a seed feature set. [@samghabadi_detecting_2017] uses Google's bad words dictionary, and combines it with a list from another researcher. "Bad" words themseles, though, are of course never unambiguously bad. [@kapoor_swears_2016], for instance, describes an attempt to differentiate between "casual" and abusive swearing. They find that the high-severity swears are likely to occur in abusive contexts. 
 
 ### Sentiment Analysis
 
 ### Metadata Analysis
+
+While many of the computational approaches described thus far have been concerned with detection of abusive speech through content analysis, metadata provides, in many cases, an even more useful feature set for categorization. [@castillo_predicting_2013], for instance, find that the presence of a Twitter user's self-description ("bio") correlates strongly with the likelihood of their authoring abusive tweets. [@agichtein_finding_2008], in their analysis of Yahoo answers social relations, find social network analysis and trust propogation to be useful in predicting the quality of an answer.  
 
  - Detection of bots, trolls
  - Social network theory
  - Trust propogation
 
 ### Related Fields
+
+Credibility is a similar index. Using a training corpus of tweets labeled by volunteers as likely or unlikely to be true, [@castillo_predicting_2003] test a variety of features and methods for classification. 
 
  - Detection of deceptive opinion spam 
  - Detection of misinformation
@@ -358,7 +361,7 @@ Source:
 - [Considerations for Successful Counterspeech,  by Susan Benesch, Derek Ruths, Kelly Dillon, Haji Mohammad Saleem, and Lucas Wright](https://dangerousspeech.org/considerations-for-successful-counterspeech/)
 
  
- ###  Kevin Munger's Study: [Tweetment Effects on the Tweeted: Experimentally Reducing Racist Harassment](https://link.springer.com/article/10.1007/s11109-016-9373-5)
+###  Kevin Munger's Study: [Tweetment Effects on the Tweeted: Experimentally Reducing Racist Harassment](https://link.springer.com/article/10.1007/s11109-016-9373-5)
  
  Kevin Munger conducted a study where he identified 231 twitter accounts operated by white men that regularly used racial slurs against black twitter accounts. Munger created a variety of twitter ‘bots’ with different amounts of followers, and some with a white male avatar and others with a black male avatar. The bots would send the following tweet in response to  detected racist tweets by the identified twitter accounts: "@[subject] Hey man, just remember that there are real people who are hurt when you harass them with that kind of language.”
 
@@ -374,11 +377,7 @@ Munger found that accounts confronted by the white male twitter bot with a lot o
  - Gettign racists fired
  - Yes you’re racist/sexist
  - Goodbye felipe
-
-
- 
 # Future Directions
-
 ## Potential Applications of Related Fields (Jonathan)
 
 ### Psycholinguistics
