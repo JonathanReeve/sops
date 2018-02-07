@@ -64,7 +64,8 @@ Tokunaga, Robert S. "Following you home from school: A critical review and synth
 
 
  - Harassment and stalking
-   - "Online harassment includes a wide range of targeted behaviors including: threats, continued hateful messages, doxxing, DDoS attacks, swatting, defamation, and more. Online harassment can target (or come from) a group or individual and often has the expressed purpose of having the individual or group leave the internet, take down their content, or to dissuade them from publically having a point of view. While there is space for debate and discussion online (as well as conflicting ideas!), what separates online harassment from healthy discourse is the focus on harm: including publishing personal information, sending threats with the intention to scare or harm, using discriminatory language against an individual, and even directly promoting harm against a person or organization."
+ 
+ Online harassment is a term used to describe a variety of online behaviors that target an individual or group with the intention of harming them, getting them to remove content, or discouraging from expressing themselves online. Behaviors that constitute online harassment include “threats, continued hateful messages, doxxing, DDoS attacks, swatting, defamation, and more.” According to HeartMob “what separates online harassment from healthy discourse is the focus on harm: including publishing personal information, sending threats with the intention to scare or harm, using discriminatory language against an individual, and even directly promoting harm against a person or organization." 
 Source: [HeartMob](https://iheartmob.org/pages/faqs#online-harassment)
  - Dangerous speech
    - “speech that can inspire or catalyze intergroup violence” Source: [Counterspeech on Twitter: A Field Study](https://dangerousspeech.org/counterspeech-on-twitter-a-field-study/) 
