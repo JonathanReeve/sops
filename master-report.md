@@ -68,14 +68,10 @@ Tokunaga, Robert S. "Following you home from school: A critical review and synth
  Online harassment is a term used to describe a variety of online behaviors that target an individual or group with the intention of harming them, getting them to remove content, or discouraging from expressing themselves online. Behaviors that constitute online harassment include “threats, continued hateful messages, doxxing, DDoS attacks, swatting, defamation, and more.” According to HeartMob “what separates online harassment from healthy discourse is the focus on harm: including publishing personal information, sending threats with the intention to scare or harm, using discriminatory language against an individual, and even directly promoting harm against a person or organization." 
 Source: [HeartMob](https://iheartmob.org/pages/faqs#online-harassment)
  - Dangerous speech
-   - “speech that can inspire or catalyze intergroup violence” Source: [Counterspeech on Twitter: A Field Study](https://dangerousspeech.org/counterspeech-on-twitter-a-field-study/) 
-   - Susan Benesch puts forward the following conditions that make the likelihood of speech resulting in group violence : 
-     - there is a “powerful speaker with a high degree of influence;”
-     - there is a receptive audience with “grievances and fear that the speaker can cultivate;”
-     - a speech act “that is clearly under-stood as a call to violence;”
-     - a social or historical context that is “propitious for violence, for any of a variety of reasons;”
-     - An “influential means of dissemination.”” 
-     - Source: http://www.worldpolicy.org/sites/default/files/Dangerous%20Speech%20Guidelines%20Benesch%20January%202012.pdf 
+   
+   Dangerous speech is a form of online abuse that has high stakes. Susan Benesch characterizes it as ““speech that can inspire or catalyze intergroup violence.” The speaker of dangerous speech often hold positions of power with influence over a large base. The audience dangerous speech is addressed to often hold “grievances and fear that the speaker can cultivate,” and the speech plays on this in order to call on that group to act violently. Dangerous speech is most likely to occur in social or historical contexts that are already marked by or susceptible to violence, such as situations of civil war. 
+   
+   Source: [Counterspeech on Twitter: A Field Study](https://dangerousspeech.org/counterspeech-on-twitter-a-field-study/) & http://www.worldpolicy.org/sites/default/files/Dangerous%20Speech%20Guidelines%20Benesch%20January%202012.pdf 
 
  - Abuse of journalists
    - "Gamergate"
