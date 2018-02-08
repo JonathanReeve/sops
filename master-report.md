@@ -84,10 +84,13 @@ Source: [HeartMob](https://iheartmob.org/pages/faqs#online-harassment)
 Besides the approach of defining and taxonomizing different forms of hate speech, some have formulated other vectors for recognizing harmful speech online. 
 
 #### Implicit v. Explicit & Generalized v. Directed Abusive Language 
-   - Waseem et al. propose two primary factors for typologizing abusive language rather than attempting to define various terms such as abusive language, hate speech, cyberbullying, cyber harassment. They propose the following two factors: 
-     - Is the language directed towards a specific individual or entity or is it directed towards a generalized group?
-     - Is the abusive content explicit or implicit?     
-   - Typologizing based on these two factors is useful, as there can be a lot of overlap and ambiguity when relying on stricter defintions. One shortcoming of this typology is that by making the distinction between directed/generalized attacks, the research may downplay the fact that hate speech, even when verbally directed at an individual (ex: calling someone a racial slur) is an offense against an entire sub-group of people. 
+
+Besides the approach of defining and taxonomizing different forms of hate speech, some have formulated other vectors for recognizing harmful speech online. One particularly useful approach is that developed by Waseem et al. 
+Rather than attempting to define various terms such as hate speech, cyberbullying, and cyber harassment, they propose two primary vectors for typologizing abusive language—Implicit vs. Explicit and Generalized vs. Directed abusive language. To classify abusive speech they recommend asking the following questions:
+Is the language directed towards a specific individual or entity or is it directed towards a generalized group? 
+Is the abusive content explicit or implicit?
+	Typologizing based on these two factors is useful as there can be a lot of overlap and ambiguity when relying on stricter definitions. However, one shortcoming of this typology is that by making the distinction between directed/generalized attacks, the research may downplay the fact that hate speech, even when verbally directed at an individual (ex: calling someone a racial slur) is an offense against an entire sub-group of people.
+
    - Source: [Waseem, Zeerak, et al. "Understanding Abuse: A Typology of Abusive Language Detection Subtasks." arXiv preprint arXiv:1705.09899 (2017).](http://www.aclweb.org/anthology/W17-3012)
 
 #### Justice Stewart's rule: “I know it when I see it”
