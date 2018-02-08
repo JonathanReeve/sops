@@ -80,9 +80,6 @@ Source: [HeartMob](https://iheartmob.org/pages/faqs#online-harassment)
    - Deceptive opinion spam (e.g. fake Amazon product reviews) 
    
 ### Alternative approaches to classifying harfmul speech:
-
-Besides the approach of defining and taxonomizing different forms of hate speech, some have formulated other vectors for recognizing harmful speech online. 
-
 #### Implicit v. Explicit & Generalized v. Directed Abusive Language 
 
 Besides the approach of defining and taxonomizing different forms of hate speech, some have formulated other vectors for recognizing harmful speech online. One particularly useful approach is that developed by Waseem et al. 
