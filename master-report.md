@@ -97,6 +97,21 @@ There are instances where specific epithets or insults are used and an outsider 
 
 The discussion of Stewart’s “I know it when I see it” points to a central difficulty in defining hate speech since it requires assessing the subjectivity and intention of both the perpetrator and the victim. However, only some definitions include the component of intention on the part of the perpetrator, and definitions also vary on how they define harm to the victim.
 
+#### Brandenburg test
+
+The 1969 supreme court case Brandenburg vs. Ohio narrowed the scope of unprotected speech under the first amendment. The court found that speech advocating illegal action is only prohibited when it is “directed to inciting or producing imminent lawless action and is likely to incite or produce such action.” Prior to this ruling the wording was applicable to vaguer, more generalized advocacy of illegal action. 
+The case revolved around whether or not a KKK leader saying “it's possible that there might have to be some revengeance [sic] taken” in a speech full of racist epithets constituted speech that intended to advocate violent illegal action. The Supreme court ended up deciding that the statement was protected by the first amendment since it was abstract advocacy of violence or illegal action. The court set higher standards for prohibiting speech that advocates for illegal action, requiring that it be likely that the illegal action actually occur in the near future.  
+What emerged from this case is the “Brandenburg test” which requires three elements for speech to be considered unprotected by the first amendment: intent, imminence, and likelihood. The court established that speech may be prohibited if it is: 
+1. “directed to inciting or producing imminent lawless action”
+2. “likely to incite or produce such action” 
+source: https://www.law.cornell.edu/wex/brandenburg_test 
+
+#### Elons v US
+
+In 2015 the supreme court ruled on a case about Anthony Elonis who had posted rap lyrics on his facebook that violently threatened his ex-wife in graphic detail. In lower courts Elonis had been convicted of threatening  a person over interstate lines, but the supreme court reversed this ruling.  Their decision revolved around whether or not the standard of a “reasonable person” feeling threatened by the post was sufficient evidence to sentence Elonis. The supreme court found that there was also the necessary element of a “guilty mind” or “mens rea” on the part of the speaker which they said was absent because Elonis had consistently held that he posted the threatening lyrics for therapeutic purposes.
+While this was the first time the Supreme Court heard a case related to speech on social media, the court largely avoided discussing first amendment related questions in the majority opinion. The judgment was only narrowly about whether or not mens rea was a requisite component of threatening a person.  
+In Samuel Alito’s concurrence there is more discussion of First Amendment on social media. Alito distinguishes between rap lyrics and social media posts saying: "lyrics in songs that are performed for an audience or sold in recorded form are unlikely to be interpreted as a real threat to a real person." Whereas "Statements on social media that are pointedly directed at their victims, by contrast, are much more likely to be taken seriously."
+
 #### What is left out of definitions
 
 There are two forms of harmful speech that are often left out of discussions of harmful speech. The first is self-directed harmful speech and the second is harmful speech expressed privately between a group of like-minded people where the target of the harmful speech is not a party to the discussion. Neither is easily categorized with other forms of harmful speech and they therefore need separate attention.
