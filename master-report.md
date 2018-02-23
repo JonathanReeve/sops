@@ -331,8 +331,7 @@ A related vectorization technique is syntactic representation. Using the grammar
 
 To this collection of token vectors, often other language measurements are added. General measurements such as document length are usually among these features. More specific measurements may include ratios of capital letters (a proxy for all-caps emphasis), normalized counts of emoji, and ratios of punctuation marks such as exclamation points. (The features used by [the 2014 Stanford Literary Lab Pamphlet 7](https://litlab.stanford.edu/LiteraryLabPamphlet7.pdf), "Loudness in the Novel," are similar, and are used as proxies for what they term "loudness.") Comparative features are also used: the relative entropy of a comment within its thread, for instance [@brand_comment_2014]. 
 
- - Classifiers used
- - Meta-classification
+Once these features are constructed, the classification task itself may begin, which will infer categories (abusive/non-abusive, high/low quality, and so on) using the features. A wide variety of classification algorithms are used in these experiments. In many, Support Vector Machines (SVM) are used, as in [@siersdorfer_how_2010, samghabadi_detecting_2017] and many of the entries of the 2012 Kaggle task. In others, Long Short-Term Memory (LSTM) categorizers are used, as in [@kolhatkar_constructive_2017], or Convolutional Neural Networks, as in [@gamback_using_2017]. Importantly, the categorizers that perform best in these experiments seem to vary greatly according to the data set and domain. It is for this reason that some of the most successful experiments in the Kaggle task used meta-categorizers. Meta-categorizers test the efficacy of a number of categorization algorithms, making the choice of categorization algorithm one of the tasks of the categorization experiment. Many of the Kaggle entrants, for example, used cross-validation grid searches (used also for parameter tuning), Random Forest regressors, or other stack-regressors. 
 
 ### Language Analysis: Quality, Formality
 
@@ -344,7 +343,11 @@ The presence of profanity has also been shown to correlate with abusive language
 
 ### Sentiment Analysis
 
+Another useful language analysis, and one which often provides an additional categorization feature, is sentiment analysis. Now a veritable subfield of computational linguistics, and digital humanities more generally, sentiment analysis has its roots in industry NLP applications, where it is used, for example, to predict stock prices based on sentiments conveyed about companies in news media. Traditional approaches to sentiment analysis use lexical approaches: words with negative or positive valence (like "awful" or "amazing") are encoded as such in a lexicon such as SentiWordNet, , and this lexicon is then used to compute the overall sentiment for a given text. This sentiment is usually expressed numerically as two measurements: "PN-polarity" and "SO-polarity," for positive-negative sentiment, and subjective-objective [@baccianella2010sentiwordnet]. A word with very high positive sentiment associations might be, and which is highly subjective, might be encoded as (0.8, 0.8), for instance, and a negative-objective word might be encoded as (-0.8, -0.8). 
 
+Sentiment analysis has seen some success in categorization experiments. [@siersdorfer_how_2010] find that sentiment scores, computed using the SentiWordNet, correlate with user ratings of comments on YouTube. [@castillo_predicting_2013] find sentiment scores to be among the best features that distinguish between "credible" and "non-credible" tweets. There are limits to lexical sentiment analysis, however, even among those studies that distinguish between homographs using word sense disambiguation. [@brand_comment_2014] test a number of features, including sentiment scores, and find that content- and quality-based features perform much better at categorization than sentiment. It has often been noted, as [@sood_automatic_2012] note, that "sentiment analysis is, in addition to being author, context, and community-specific, a domain-specific problem" (3). Futhermore, in psycholinguistics, an 1994 literature review of the "language of psychopathy" finds that one of the linguistic features of these patients is the lack of emotional markers [@rieber_language_1994]. This would suggest that sentiment analysis might not be effective in detecting abusive language from speakers with mental illness.  
+
+More recent approaches to sentiment analysis attempt to mitigate the domain problem of lexical approaches by using probabilistic methods, and training domain-specific models. After annotating a corpus by sentiment—this could be the traditional positive/negative scale, but also a set of sentiments, such as anger, happiness, disappointment, and so on—researchers train a categorizer such as a Recursive Neural Network on this corpus, before using the trained model to predict sentiment categories for unannotated text. For more on sentiment analysis, see [@liu_survey_2012]. 
 
 ### Metadata Analysis
 
@@ -356,12 +359,9 @@ A related subfield to these deals with the detection of paid malicious opinion m
 
 Some sites, like Twitter, maintain hidden tweet metadata, such as data about their users' operating systems, that could help to identify automated trolls. At least 10% of the #Gamergate tweets were written by accounts running bot operating systems, for instance. These could be used to easily identify malicious bots. For more on troll detection, see [@mihaylov_finding_2015, @ortega_propagation_2012, and @kumar_accurately_2014]. 
 
-### Related Fields
+Another related subfield is credibility detection. Motivated by a desire to create a filter for "fake news" or politically motivated misinformation, credibility detection uses machine-learning models trained on manually-annotated corpora do distinguish between credible and discreditable information. Using a training corpus of tweets labeled by volunteers as likely or unlikely to be true, [@castillo_predicting_2003] test a variety of features and methods for classification. They find that the features which best predict credible tweet threads include: the average number of tweets posted by authors of tweets in that topic in the past, the average number of followers of the authors, the sentiment scores of the tweets, and whether the tweets contain a URL, emoticons, punctuation, or first-person pronouns (575).  
 
-Credibility is a similar index. Using a training corpus of tweets labeled by volunteers as likely or unlikely to be true, [@castillo_predicting_2003] test a variety of features and methods for classification. 
-
- - Detection of deceptive opinion spam 
- - Detection of misinformation
+Similarly, the subfield of deceptive opinion spam detection attempts to identify fraudulent product reviews on online shopping sites like amazon.com, reviews which are usually funded by the product's creators. [@ott_finding_2011], for instance, construct a "gold-standard" dataset by commissioning fraudulent opinion spam from freelance writers using Amazon Turk, and training a model on that dataset. The resulting classifier is roughly 90% accurate at detecting deceptive opinion spam, while human judges detect it only at around 50%. Some of these techniques (commissioning gold-standard data, for instance) might be applied to the detection of abusive language, as well.
 
 ## And the Law (Colin)
 ### US Federal Law
@@ -452,7 +452,11 @@ Munger found that accounts confronted by the white male twitter bot with a lot o
  - Yes you’re racist/sexist
  - Goodbye felipe
 # Future Directions
+
+The authors of this paper recommend 
+
 ## Potential Applications of Related Fields (Jonathan)
+
 
 ### Psycholinguistics
 
