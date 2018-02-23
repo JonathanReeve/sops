@@ -151,6 +151,15 @@ While this was the first time the Supreme Court heard a case related to speech o
 In Samuel Alito’s concurrence there is more discussion of First Amendment on social media. Alito distinguishes between rap lyrics and social media posts saying: "lyrics in songs that are performed for an audience or sold in recorded form are unlikely to be interpreted as a real threat to a real person." Whereas "Statements on social media that are pointedly directed at their victims, by contrast, are much more likely to be taken seriously."
 
 ### 	iii. Industry approaches
+
+
+Most social media sites have a bifurcated approach to presenting their policy on harmful speech to their users. On the one hand, their formal documents such as the terms of service tend to broadly prohibit harassment on the site, but these formal documents rarely elaborate on what constitutes harassment. On the other hand, the websites’ informal documentation such as ‘community guidelines’ will go into more detail about what constitutes misconduct on the website, but falls short of formally defining harassment, giving the websites lee-way to determine what sort of content they remove. In both the formal and informal policy of social media platforms, harassment is usually lumped together with other prohibited activity such as spamming and hacking. 
+
+Source: [Pater, Jessica Annette, et al. "Characterizations of Online Harassment: Comparing Policies Across Social Media Platforms." GROUP. 2016.](http://jesspater.com/wp-content/uploads/2016/12/Pater-Characterizations-of-Online-Harassment-Comparing-Policies-Across-Social-Media-Platforms.pdf)
+
+Many have pointed to the gap between the publicly available policy on harfmul speech and the internal guidelines that websites provide to their content moderators (this is largely thanks to [leaked internal documents](https://www.theguardian.com/news/series/facebook-files)).These internal guidelines are often very detailed, but they are considered arbitrary by critics who argue that the strict criteria results in instances of harmless speech getting removed while some actually harmful speech is left unmoderated. An [often cited example](https://www.propublica.org/article/facebook-hate-speech-censorship-internal-documents-algorithms) of this is Facebook's leaked rules which classified white men as a protected category but not black children. These rules allowed offensive posts targeting black children to stay online and also resulted in the removing of posts by anti-racist activists that addressed white men. Additionally, there is a gap between the written rules (internal or public) and the [actual practices of content moderators](https://www.wired.com/2014/10/content-moderation/) who are often given only a few seconds to decide if a post should be removed.
+
+See appendex 2 for more details. 
 ### 	iv. Computational approaches to identification, classification, & detection
 
 
@@ -268,12 +277,6 @@ A number of organizations exist to study and combat harassment, hate speech, and
     - Website with legal resources about a variety of laws related to women, especially related to domestic violence and other gender-based violence. They have information about cyberstalking and links to ways to stay safe while using technology.
 
 ### Initiatives by Social Media Platforms
-
-Most social media sites have a bifurcated approach to presenting their policy on harmful speech to their users. On the one hand, their formal documents such as the terms of service tend to broadly prohibit harassment on the site, but these formal documents rarely elaborate on what constitutes harassment. On the other hand, the websites’ informal documentation such as ‘community guidelines’ will go into more detail about what constitutes misconduct on the website, but falls short of formally defining harassment, giving the websites lee-way to determine what sort of content they remove. In both the formal and informal policy of social media platforms, harassment is usually lumped together with other prohibited activity such as spamming and hacking. 
-
-Source: [Pater, Jessica Annette, et al. "Characterizations of Online Harassment: Comparing Policies Across Social Media Platforms." GROUP. 2016.](http://jesspater.com/wp-content/uploads/2016/12/Pater-Characterizations-of-Online-Harassment-Comparing-Policies-Across-Social-Media-Platforms.pdf)
-
-Many have pointed to the gap between the publicly available policy on harfmul speech and the internal guidelines that websites provide to their content moderators (this is largely thanks to [leaked internal documents](https://www.theguardian.com/news/series/facebook-files)).These internal guidelines are often very detailed, but they are considered arbitrary by critics who argue that the strict criteria results in instances of harmless speech getting removed while some actually harmful speech is left unmoderated. An [often cited example](https://www.propublica.org/article/facebook-hate-speech-censorship-internal-documents-algorithms) of this is Facebook's leaked rules which classified white men as a protected category but not black children. These rules allowed offensive posts targeting black children to stay online and also resulted in the removing of posts by anti-racist activists that addressed white men. Additionally, there is a gap between the written rules (internal or public) and the [actual practices of content moderators](https://www.wired.com/2014/10/content-moderation/) who are often given only a few seconds to decide if a post should be removed.
 
 #### Instagram #KindComments
 
