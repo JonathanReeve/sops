@@ -76,6 +76,9 @@ CLOCK: [2017-09-25 Mon 18:00]--[2017-09-25 Mon 18:19] =>  0:19
 ** TODO [#A] make master report
 SCHEDULED: <2018-02-18 Sun 18:00-20:00> DEADLINE: <2018-02-23 Fri>
 :LOGBOOK:
+CLOCK: [2018-02-23 Fri 13:32]
+CLOCK: [2018-02-23 Fri 13:14]--[2018-02-23 Fri 13:32] =>  0:18
+CLOCK: [2018-02-23 Fri 09:53]--[2018-02-23 Fri 11:30] =>  1:37
 CLOCK: [2018-02-18 Sun 19:47]--[2018-02-18 Sun 21:15] =>  1:28
 CLOCK: [2018-01-30 Tue 23:30]--[2018-01-31 Wed 00:12] =>  0:42
 CLOCK: [2018-01-30 Tue 19:48]--[2018-01-30 Tue 20:00] =>  0:12
@@ -423,7 +426,8 @@ CLOSED: [2017-08-25 Fri 19:01]
 CLOSED: [2017-08-25 Fri 19:01]
 - Service that tries to detect whether your followers are real people. 
 - How does it work? 
-*** TODO [#B] "Exposing Paid Opinion Manipulation Trolls" cite:mihaylov_exposing_2015  
+*** DONE [#B] "Exposing Paid Opinion Manipulation Trolls" cite:mihaylov_exposing_2015  
+CLOSED: [2018-02-23 Fri 14:02]
 Abstract: "We solve the training data problem by assuming that a user who is called a /troll/ by several different people is likely to be such" 
 
 Data: 
@@ -439,7 +443,6 @@ Results:
  - "Overall, paid trolls looked roughly like the 'mentioned' trolls, except that they were posting most of their comments on working days and during working hours."
  - Paid trolls are more successful at upsetting people (negative votes from other users were correlated) 
 
-*** TODO [#B] "Finding Opinion Manipulation Trolls in News Community Forums" cite:mihaylov_finding_2015
 *** TODO [#C] "Propagation of trust and distrust for the detection of trolls in a social network" cite:ortega_propagation_2012 
 *** TODO [#C] "Accurately detecting trolls in slashdot zoo via decluttering" cite:kumar_accurately_2014 
 *** TODO [#C] "Assessing trust: contextual accountability" cite:rowe_assessing_2009 
