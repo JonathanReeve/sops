@@ -7,7 +7,7 @@ authors: Jonathan Reeve, Colin Muller
 ## I. Introduction 
 
 ## II. Approaches to identification
-	 i. Taxonomies and definitions
+	i. Taxonomies and definitions
 	ii. Legal approaches
 	iii. Industry approaches
 	iv. Computational identification/classification/detection
@@ -26,9 +26,7 @@ authors: Jonathan Reeve, Colin Muller
 ## Appendix 3: Patents
 
 
-# Problems
-
-## Introdution 
+## I. Introdution 
 
 Perhaps the most challenging step in developing social or technological tools for promoting a ‘safer online public square’ is defining what sort of speech constitutes a threat to the civility and safety of members of online communities.
 
@@ -42,7 +40,9 @@ There are many categories of speech that fall under the umbrella of harmful spee
 
 ### Statement of purpose of our preliminary report (to discuss at meeting)
 
-## Taxonomies
+## II. Approaches to identification
+
+### i. Taxonomies and definitions
 
 There is significant corpus of writing which attempts to formulate a definition and taxonomy of harmful speech online. These classifications will often vary based on the purpose of the definition which varies from academic research, legal recommendations, or advocacy. These different purposes result in varying breadth and scope of definitions, and disagreement over definitions is one of the main challenges in compiling data from different sources on the frequency of harmful speech online (as the specific behavior being monitored in different studies varies widely). Despite these challenges, it is useful to outline the different categories of harmful online behavior, as these different types manifest themselves differently and will require different approaches for intervention.
 
@@ -102,8 +102,8 @@ Source: [HeartMob](https://iheartmob.org/pages/faqs#online-harassment)
    - Misinformation (e.g. Russian fake news)
    - Deceptive opinion spam (e.g. fake Amazon product reviews) 
    
-### Alternative approaches to classifying harfmul speech:
-#### Implicit v. Explicit & Generalized v. Directed Abusive Language 
+#### Alternative approaches to classifying harfmul speech:
+##### Implicit v. Explicit & Generalized v. Directed Abusive Language 
 
 Besides the approach of defining and taxonomizing different forms of hate speech, some have formulated other vectors for recognizing harmful speech online. One particularly useful approach is that developed by Waseem et al. 
 Rather than attempting to define various terms such as hate speech, cyberbullying, and cyber harassment, they propose two primary vectors for typologizing abusive language—Implicit vs. Explicit and Generalized vs. Directed abusive language. To classify abusive speech they recommend asking the following questions:
@@ -112,6 +112,21 @@ Is the abusive content explicit or implicit?
 	Typologizing based on these two factors is useful as there can be a lot of overlap and ambiguity when relying on stricter definitions. However, one shortcoming of this typology is that by making the distinction between directed/generalized attacks, the research may downplay the fact that hate speech, even when verbally directed at an individual (ex: calling someone a racial slur) is an offense against an entire sub-group of people.
 
    - Source: [Waseem, Zeerak, et al. "Understanding Abuse: A Typology of Abusive Language Detection Subtasks." arXiv preprint arXiv:1705.09899 (2017).](http://www.aclweb.org/anthology/W17-3012)
+   
+   
+#### What is left out of definitions
+
+There are two forms of harmful speech that are often left out of discussions of harmful speech. The first is self-directed harmful speech and the second is harmful speech expressed privately between a group of like-minded people where the target of the harmful speech is not a party to the discussion. Neither is easily categorized with other forms of harmful speech and they therefore need separate attention.
+
+- Harmful speech directed at one's self
+  - this includes online posts that depict eating disorders or suggest self-harm. It is infrequently included in discussion of harmful online behavior, but it is a serious issue that needs to be dealt with in a different way than outward oriented harmful speech. 
+- Harmful speech between a group that does not include the target of the speech
+  - An example of this could be a private message channel where racists exchange racist messages about a group of people who are not a part of the message channel. Upon first consideration this speech may seem more like thought than it does speech in the public realm, but such conversation can have real life consequences on the well being of those discussed such as in private [message forums where doxxing information is collected](https://theintercept.com/2017/09/06/how-right-wing-extremists-stalk-dox-and-harass-their-enemies/) 
+   
+   
+
+### ii. Legal approaches
+
 
 #### Justice Stewart's rule: “I know it when I see it”
 Supreme Court Justice Stewart famously asserted “I know it when I see it” when referring to identifying obscenity. It seems to be the consensus that this approach is not applicable to identifying hate speech due to the variety of forms of speech and contexts which one could identify as hate speech.
@@ -135,14 +150,9 @@ In 2015 the supreme court ruled on a case about Anthony Elonis who had posted ra
 While this was the first time the Supreme Court heard a case related to speech on social media, the court largely avoided discussing first amendment related questions in the majority opinion. The judgment was only narrowly about whether or not mens rea was a requisite component of threatening a person.  
 In Samuel Alito’s concurrence there is more discussion of First Amendment on social media. Alito distinguishes between rap lyrics and social media posts saying: "lyrics in songs that are performed for an audience or sold in recorded form are unlikely to be interpreted as a real threat to a real person." Whereas "Statements on social media that are pointedly directed at their victims, by contrast, are much more likely to be taken seriously."
 
-#### What is left out of definitions
+### 	iii. Industry approaches
+### 	iv. Computational approaches to identification, classification, & detection
 
-There are two forms of harmful speech that are often left out of discussions of harmful speech. The first is self-directed harmful speech and the second is harmful speech expressed privately between a group of like-minded people where the target of the harmful speech is not a party to the discussion. Neither is easily categorized with other forms of harmful speech and they therefore need separate attention.
-
-- Harmful speech directed at one's self
-  - this includes online posts that depict eating disorders or suggest self-harm. It is infrequently included in discussion of harmful online behavior, but it is a serious issue that needs to be dealt with in a different way than outward oriented harmful speech. 
-- Harmful speech between a group that does not include the target of the speech
-  - An example of this could be a private message channel where racists exchange racist messages about a group of people who are not a part of the message channel. Upon first consideration this speech may seem more like thought than it does speech in the public realm, but such conversation can have real life consequences on the well being of those discussed such as in private [message forums where doxxing information is collected](https://theintercept.com/2017/09/06/how-right-wing-extremists-stalk-dox-and-harass-their-enemies/) 
 
 ## Statistics 
 
@@ -156,37 +166,32 @@ The types of harassment include calling of names (reported by 60% of witnesses) 
 
 The Pew report finds that young women, aged 18-24, are disproportionately targeted in all categories except for those of purposeful embarrassment and the calling of offensive names. [A 2013 report by the WHOA organization](http://www.haltabuse.org/resources/stats/index.shtml) (Working to Halt Online Abuse) echoes this finding. In their analysis of 4,043 self-reported cases of abuse in American from 2000-2013, they find that 70% of victims were female, with a 42% majority between the ages of 18 and 30. The abusers, they find, are more likely to be men (47%) than women (30%). LGB Internet users, as well, are more likely to experience harassment [@lenhart2016online 37]. 
 
-## Potential Causes 
+## III. Possible causes of harmful behavior online
 
-While theory building on the underlying causes of harmful speech online is generally underdeveloped and often not rigorously proven with empirical research, ([Tokunaga 2010](http://www.sciencedirect.com/science/article/pii/S074756320900185X)), existing social-psychological theories helps us better determine effective forms of intervention. This vein of research is particularly useful in emphasizing the impact that an individual’s harmful speech can have on their social group, since “cyberbystanders” witnessing of abusive language online impacts their  understanding of acceptable online norms. This research then reminds us that when intervening in the name of a safer online public sphere, it is not only the speaker and recipient that we must pay attention to, but also those bystanders and digital onlookers who may also happen to witness the encounter. 
+While theory building on the underlying causes of harmful speech online is generally underdeveloped and often not rigorously proven with empirical research, [@tokunaga2010following], existing social-psychological theories helps us better determine effective forms of intervention. This vein of research is particularly useful in emphasizing the impact that an individual’s harmful speech can have on their social group (including those not directly targeted by the speech), since “cyberbystanders” witnessing of abusive language online impacts their understanding of acceptable online norms. This research then reminds us that when intervening in the name of a safer online public sphere, it is not only the speaker and recipient that we must pay attention to, but also those bystanders and digital onlookers who may also happen to witness the encounter.
+	
+John Suler has theorized the “online disinhibition effect” whereby online users compartmentalize their “online self” and “real life self,” and the normal cognitive processes that guide their “real life” behavior are suspended when they are online. Online disinhibition is a result of anonymity, asynchronous communication, and empathy deficit [@suler2004online]. 
+	
+Similar to Suler’s theory, the Barlett and Gentile Model argues that individuals’ likelihood of engaging in bullying is a product of their attitudes towards cyberbullying and their perceived anonymity [@barlett2012attacking].  Users who realize that they have anonymity online will dissociate their online actions from their “real” self which will contribute to positive cyberbullying attitude and increased cyberbullying. The model hypothesizes that perceived anonymity gives potential cyberbullies a sense of impunity online as well as empowerment since they can attack individuals they would not be able to attack offline (either because of differences in physical strength or because they do not actually know that person offline). Perceived anonymity leads cyberbullies to distance themselves from their own actions and feeds a more positive perception of cyberbullying thus creating a feedback loop that encourages further cyberbullying. 
 
-### Anonymity: online disinhibition, deindividuation, and depersonalization
+Barlett and Gentile propose intervening against cyberbullying by informing “Internet users that they are not anonymous” through techniques such as showing “them evidence of IP address tracking and how History folders operate, then perhaps cyberbullying will decrease” (178) [@barlett2016predicting]. However this form of intervention would not be effective in cases where users are actually able to be anonymous online (such as by using a mix network architecture) and could even embolden them. This points to a limitability to Suler, Barlett and Gentile’s theories that argue that anonymity contributes to harmful online behavior. Both theories have ambiguous definitions of anonymity that do not distinguish between pseudonymity, perceived anonymity, or partial anonymity.
 
-- Suler's theory of the [online disinhibtion effect](db19.linccweb.org/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=13621589&site=ehost-live)
-  - Suler’s theory of the “online disinhibition effect” argues that online users compartmentalize their “online self” and “real life self” and the normal cognitive processes that guide their “real life” behavior are suspended when they are online. Online disinhibition is  a result of anonymity, asynchronous communicaiton, and empathy deficit.
-- [Barlett and Gentile Model](http://www.apa.org/pubs/journals/features/ppm-ppm0000055.pdf)
-  - Similar to Suler’s theory, Barlett and Gentile Model argues that attitudes towards cyberbullying mediate the relationship between anonymity and likely cyberbullying behavior since users who realize their anonymity online will dissociate their online actions from their “real” self which will contribute to positive cyberbullying attitude and increased cyberbullying. The model hypothesizes that perceived anonymity gives potential cyberbullies a sense of impunity online as well as empowerment since they can attack individuals they would not be able to attack offline either because of differences in physical strength or because they do not actually know or live near that person offline. Perceived anonymity leads cyberbullies to distance themselves from their own actions and gain a more positive perception of cyberbullying thus creating a feedback loop that encourages further cyberbullying.
-  - Barlett and Gentile propose intervening against cyberbullying by informing “Internet users that they are not anonymous and show them evidence of IP address tracking and how History folders operate, then perhaps cyberbullying will decrease”  (178). However this form of intervention would not be effective in cases where users are actually able to be anonymous online (such as by using a mix network architecture).
-  - A limitaiton to theories that argue that anonymity contributes to harfmul online behavior (such as those by Suler, Barlett, and Gentile) is the ambiguous definition of anonymity that doesn’t distinguish between pseudonymity, perceived anonymity, or partial anonymity.
-- deindividuation V. Depersonalization 
-  - Suler and Barlett and Gentile's theories suggest that a user online undergoes a sort of deindividuation, where they experience a loss of their sense of self. Other researchers have pushed back against the idea that online activity leads to deinidivuation and instead have put forward the notion of depersonalization as a better explanation. Depersonalization is defined as a “process through which individuals perceive that their certain group identity is more salient than other identities in a particular context, termed as ‘the emergence of group in the self’ (Huang 399). The principle difference is that deindividuation implies a loss of rationality that leads to necessarily harmful results whereas depersonalization is stripped of some of the value judgments and provides an explanation for both positive and negative group behavior online. Huang et al in their study ["The effect of anonymity on conformity to group norms in online contexts: a meta-analysis”](http://ijoc.org/index.php/ijoc/article/view/4037) put forward an argument for depersonalization online as they demonstrate that perceived anonymity results in group conformity online. 
-  -  By understanding how anonymity online can lead to greater group conformity, we can see how this dynamic can be used to combat (as well as contribute to) harmful speech online. If an individual is part of an online community where harmful speech is perceived as unacceptable and uncommon, then they are less likely themselves to engage in harfmul speech.
-    - A clear example of depersonalizaiton or ‘mob mentality’ being mobilized to combat harfmul speech online is the website [HeartMob](https://iheartmob.org/about) which allows for online bystander intervention and provides an immediate support group for people who have faced online harassment. 
- - depersonalization: prioritizing one's identity with the group over one's individualized identity
+Suler, Barlett and Gentile's theories suggest that a user online undergoes a sort of deindividuation, where they experience a loss of their sense of individuality or sense of self. Other researchers have pushed back against the idea that online activity leads to deinidivuation and instead have put forward the notion of depersonalization as a better explanation that does not pathologize all online behavior as decidedly negative. Depersonalization is defined as a “process through which individuals perceive that their certain group identity is more salient than other identities in a particular context, termed as ‘the emergence of group in the self’ (Huang 399) [@huang2016effect]. The principle difference is that deindividuation implies a loss of rationality that leads to necessarily harmful results whereas depersonalization is stripped of some of the value judgments and provides an explanation for both positive and negative group behavior online. Huang et al in their study ("The effect of anonymity on conformity to group norms in online contexts: a meta-analysis”)[http://ijoc.org/index.php/ijoc/article/view/4037] put forward an argument that online anonymity results in depersonalization and group conformity online [@huang2016effect]. 
 
-### Mimicry Effect
- - This theory holds that boosting positive content rather than deleting harmful content will foster an environment where other members of the website will contribute positive content
- 
-### Backfire effect
- - Political psychologists Nyhan and Reifler have researched the “backfire effect” where attempts at correcting misperceptions or misinformed beliefs results in firmer beliefs in the misperception or misinformation
-   - “individuals who receive unwelcome information may not simply resist challenges to their views. Instead they may come to support their original opinion even more strongly”  Nyhan, Brendan, and Jason Reifler. "When corrections fail: The persistence of political misperceptions." Political Behavior 32.2 (2010): 307.
-   - It is important to consider the backfire effect in looking at effective forms of intervention/counterspeech, since often presenting facts or engaging in logical/reasoned debate is not the most effective strategy
-   - A similar psychological phenomenon is “motivated reasoning” where people make a strong effort to support the conclusions they seek despite being exposed to contradictory facts
-   
-### Temporal clustering of hate speech
-  - prejudicial crimes are strongly influenced in the short term due to publicized events such as murders committed by a minority, this amplification in hate speech usually lasts about 2 weeks.  
-  - Hashtags can be a good indicator of temporal clustering: ex: #killallmuslims #ferguson #charliehebdo #brussels #banislam #baltimore #mizzou
-  - Source: King, R.D., and G.M. Sutton. 2013. “High Times for Hate Crime: Explaining the Temporal Clustering of Hate Motivated Offending.” Criminology 51 (4): 871–94
+The deindividuation v. depersonalization debate can be traced to debates over crowd psychology that date as far back as Gustave Le Bon’s 1895 The Crowd: A Study of the Popular Mind. Le Bon’s work was followed by a corpus of discussions about a variety of factors including agency, control, reasoning, and emotional manipulation of (crowds)[https://logicmag.io/01-the-madness-of-the-crowd/].
+
+By understanding how anonymity online can lead to greater group conformity, we can see how this dynamic can be used to both combat and contribute to harmful speech online. If an individual is part of an online community where harmful speech is perceived as unacceptable and uncommon, then they are less likely themselves to engage in harmful speech. This is referred to as a mimicry effect, and the theory holds that boosting positive content will foster an environment where other members of the website will contribute positive content
+
+A clear example of depersonalizaiton and mimicry effect being mobilized to combat harmful speech online is the website (HeartMob)[https://iheartmob.org/about] which allows for online bystander intervention and provides an immediate support group for people who have faced online harassment. Another example is Instagram’s “kind comments” where the company has encouraged users to write kind comments on posts to foster an environment that encourages conformity to positive norms
+
+Studies in temporal clustering demonstrate the role of peer-influence on harmful speech. Studies have shown that online abuse is often clustered around the time of a certain event, such as in reaction to a heavily mediatized crime. They are especially likely to snowball in instances where there is a viral hashtag. Hashtags that have been associated with prejudicial crimes include #killallmuslims #ferguson #charliehebdo #brussels #banislam #baltimore #mizzou. Temporal clustering research also teaches us that some efforts to mitigate harmful speech are very time sensitive/specific [@king2013high]. 
+
+Political psychologists Nyhan and Reifler have researched the “backfire effect” where attempts at correcting misconceptions or misinformed beliefs results in firmer beliefs in the misconception [@nyhan2010corrections]. It is important to consider the backfire effect in looking at effective forms of intervention/counterspeech, since often presenting facts or engaging in logical/reasoned debate is not the most effective strategy. Rather than being swayed be reasoned fact-based challenges to their views, individuals will become further entrenched in their views and even incorporate the contrary speech into their world view. A similar psychological phenomenon is “motivated reasoning” where people make a strong effort to support the conclusions they seek despite being exposed to contradictory facts
+
+## IV. Approaches to Intervention and Reporting
+### i. Organizations 
+### ii. Initiatives by Social Media Platforms  
+### iii. Counterspeech 
 
 # Existing Approaches to Intervention
 ## Organizations 
@@ -321,20 +326,19 @@ Choosing what constitutes a word, and defining its boundaries, is an important f
 
 Normalization often also involves domain- or platform-specific transformations. Treating emoji as words, for instance, or transforming them into words with sentiment valence, often greatly influences the outcomes of sentiment analysis. (See, for example, [@castillo_predicting_2013, samghabadi_detecting_2017]). Collapsing obfuscated words, like transforming "w o r d" into "word," and "ta$k into "task," also proved to be useful to participants in the Kaggle contest, [Detecting Insults in Social Commentary](https://www.kaggle.com/c/detecting-insults-in-social-commentary). Related normalization techniques involve expanding abbreviations such as "r u" into "are you," and collapsing long vowel representations, transforming "coooooool" into "cool." 
 
-The results of this tokenization and normalization are language features in the form of n-grams: sequences of one or more tokens. The number of features vary greatly by corpus and domain. [@sood_automatic_2012] find that word bigrams (sequences of two words) are the best-performing for their categorization experiment, while [@samhabadi_detecting_2017] find character 4-grams (sequences of four characters) to perform better. In other cases, skip-grams are used, as in [@samhabadi_detecting_2017]: sequences of every other, every third, or every fourth word. These sequences are meant to capture co-occurrences of non-contiguous words.
+The results of this tokenization and normalization are language features in the form of n-grams. These features are then vectorized and weighted using a variety of techniques. In some cases, binary representations of words are used (either 1 or 0 for the presence or absence of a word in a document, see [@sood_automatic_2012]), but more frequently, term frequencies are used (ratios of the words in each document), and even more frequently, TF-IDF, or term frequencies adjusted for inverse document frequencies (see [@samghabadi_detecting_2017, @diakopoulos_editors]). These vectorizations are often used in statistical studies of linguistic style (stylometry) and are sometimes considered proxies for the stylistic fingerprints of individual or authorial voices. However, the limitation of these vectors is that they require a critical mass of text (>500 words) for term frequencies to be statistically practical. 
 
-These features are then vectorized and weighted using a variety of techniques. In some cases, binary representations of words are used (either 1 or 0 for the presence or absence of a word in a document, see [@sood_automatic_2012]), but more frequently, term frequencies are used (ratios of the words in each document), and even more frequently, TF-IDF, or term frequencies adjusted for inverse document frequencies (see [@samghabadi_detecting_2017, @diakopoulos_editors]). These vectorizations are often used in statistical studies of linguistic style (stylometry) and are sometimes considered proxies for the stylistic fingerprints of individual or authorial voices. However, the limitation of these vectors is that they require a critical mass of text (>500 words) for term frequencies to be statistically practical. 
+Other vectorization techniques take into account the meanings or functions of the words. Word embeddings, for instance, transform words into high-dimensional vectors that encode the probabilities of their co-occuring with other words in a large corpus. Embeddings from the [Stanford GloVe vectors](https://nlp.stanford.edu/projects/glove), for instance, encode semantic information into high-dimensional vectors. 
 
-Other vectorization techniques take into account the meanings or functions of the words. Word embeddings, for instance, transform words into high-dimensional vectors that encode the probabilities of their co-occuring with other words in a large corpus. Embeddings from the [Stanford GloVe vectors](https://nlp.stanford.edu/projects/glove), for instance, encode semantic information into high-dimensional (e.g. 300-D) vectors. One advantage of this approach is that the meanings of potentially offensive words need not be known, and the words themselves need not appear in bad words lists. Rather, the probability of their occurrihg in the semantic cohorts of potentially offensive words is enough to flag them. 
+ - POS representations (and in detection of quality, detection of psycholinguistics)
+ 
+To this collection of token vectors, often other language measurements are added. General measurements such as document length are usually among these features. More specific measurements may include ratios of capital letters (a proxy for all-caps emphasis) and ratios of punctuation marks such as exclamation points. (The features used by [the 2014 Stanford Literary Lab Pamphlet 7](https://litlab.stanford.edu/LiteraryLabPamphlet7.pdf), "Loudness in the Novel", are similar, and are used as proxies for what they term "loudness.")
 
-A related vectorization technique is syntactic representation. Using the grammar of an utterance, typically inferred by a probabilistic parser like Google's "Parsey McParseface" parser, distributed with SyntaxNet, words may be represented by their parts-of-speech (POS). These are used by language quality detection experiments, in quantitative psycholinguistics, and other related subfields. The second-place entrant in the 2012 Kaggle task, for instance, constructed one language model from word stems and POS representations. [@samghabadi_detecting_2017], too, used a "combination of lexical forms and POS tags." [@agichtein_finding_2008] use POS representations of n-grams for their study of a Yahoo Answers corpus, and find that more "correctly" formed POS patterns, as in "how to identify..." correlate with low-quality questions, whereas "correctly-formed" POS patterns, such as "how do I remove..." correlate with higher-quality questions. 
-
-To this collection of token vectors, often other language measurements are added. General measurements such as document length are usually among these features. More specific measurements may include ratios of capital letters (a proxy for all-caps emphasis), normalized counts of emoji, and ratios of punctuation marks such as exclamation points. (The features used by [the 2014 Stanford Literary Lab Pamphlet 7](https://litlab.stanford.edu/LiteraryLabPamphlet7.pdf), "Loudness in the Novel," are similar, and are used as proxies for what they term "loudness.") Comparative features are also used: the relative entropy of a comment within its thread, for instance [@brand_comment_2014]. 
-
+ - Features used 
  - Classifiers used
  - Meta-classification
 
-### Language Analysis: Quality, Formality
+### Detection of Quality, Formality
 
 Some related content-based approaches to language categorization include the identification of language quality. "Quality" can refer to the subjective usefulness of speech towards the goals of a particular website or online community, grammatical quality (correctness), credibility, or formality, among other definitions. [@siersdorfer_how_2010] define quality as YouTube comments with good feedback (high numbers of user upvotes), and construct a categorization experiment where 6.1M training comments are vectorized using the most distinctive words of each category (TF-IDF), their SentiWordNet sentiment synonyms, and then classified using support vector machine classifiers. [@agichtein_finding_2008] also define quality based on user-reported and metadata-based reputation scores, like PageRank and ExpertiseRank, in an experiment categorizing Yahoo Answers conteng. They test a number of features of each answer, including n-grams of length 1-5, their POS representations, and metadata such as number of clicks, and categorize these using stochastic gradient boosted trees.
 
@@ -344,17 +348,13 @@ The presence of profanity has also been shown to correlate with abusive language
 
 ### Sentiment Analysis
 
-
-
 ### Metadata Analysis
 
-While many of the computational approaches described thus far have been concerned with detection of abusive speech through content analysis, metadata provides, in many cases, an even more useful feature set for categorization. Of course, the number and availability of these features is entirely dependent on the platform. Sites like Reddit provide comment upvote/downvote data, which sites like Twitter lack. Similarly, sites like Twitter provide data on the social networks of its users, which are missing on sites like Reddit. Metatextual features from a corpus of online news comments include the response times of comments to the news story and the "engagement" provoked by comments (i.e., the number of child comments) [@brand_comment_2014]. [@castillo_predicting_2013], for instance, find that the presence of a Twitter user's self-description ("bio") correlates strongly with the likelihood of their authoring abusive tweets.
+While many of the computational approaches described thus far have been concerned with detection of abusive speech through content analysis, metadata provides, in many cases, an even more useful feature set for categorization. [@castillo_predicting_2013], for instance, find that the presence of a Twitter user's self-description ("bio") correlates strongly with the likelihood of their authoring abusive tweets. [@agichtein_finding_2008], in their analysis of Yahoo answers social relations, find social network analysis and trust propogation to be useful in predicting the quality of an answer.  
 
-For those sites that provide public data about the social networks of its users, social network analysis is a useful tool in these categorization experiments. [@agichtein_finding_2008], for instance, in their analysis of Yahoo answers social relations, find social network analysis and trust propogation to be useful in predicting the quality of an answer. For more on trust propogation, see [@ortega_propogation_2012] and [@rowe_assessing_2009]. 
-
-A related subfield to these deals with the detection of paid malicious opinion manipulation "trolls." In this area, metatextual data is very predictive of trolls: as employees, their posts happened from 9-5, Monday through Friday [@mihaylov_exposing_2015]. The reply status of potential trolls, and the time of their replies were also strongly predictive factors. In cases where trolling is automated, [some Twitter users](https://twitter.com/conspirator0/status/900158823515770880) have pointed out that malicious Twitter accounts are likely to be named with similar patterns, for example, eight random digits. These patterns are so widespread that the service [Twitter Audit](https://www.twitteraudit.com/) offers to tell you the proportion of your followers that are real and fake. 
-
-Some sites, like Twitter, maintain hidden tweet metadata, such as data about their users' operating systems, that could help to identify automated trolls. At least 10% of the #Gamergate tweets were written by accounts running bot operating systems, for instance. These could be used to easily identify malicious bots. For more on troll detection, see [@mihaylov_finding_2015, @ortega_propagation_2012, and @kumar_accurately_2014]. 
+ - Detection of bots, trolls
+ - Social network theory
+ - Trust propogation
 
 ### Related Fields
 
@@ -446,7 +446,7 @@ Munger found that accounts confronted by the white male twitter bot with a lot o
  Inoculation is a long-term method for fighting against hate speech that takes some time. It involves instilling values in a society that oppose hate speech, and deals especially with building the social-psychological tools necessary so that groups of people don't fall victim to the pressures of engaging in hate speech or being incited by it. 
  - An example of a group that deals with Inoculation is Radio la Benevolencija (RLB) a dutch nonprofit that produces entertainment for countries in central africa that deals with the psychology underlying incitement to hate and violence.
  - [Citron and Norton](http://web.a.ebscohost.com.ezproxy.cul.columbia.edu/ehost/pdfviewer/pdfviewer?vid=1&sid=1c840371-b7ff-4ba7-a74e-8848b5bae30a%40sessionmgr4008) suggest that internet intermediaries and society at large  (especially public schools) play a stronger role in fostering digital citizenship   
- 
+
 ## Calling out & doxxing
  - Gettign racists fired
  - Yes you’re racist/sexist
@@ -465,3 +465,11 @@ Munger found that accounts confronted by the white male twitter bot with a lot o
  - Quality ranking
 
 ## Automated Counterspeech 
+
+## V. Future Directions
+
+## Bibliography 
+## Appendix 1: Advocacy Groups
+## Appendix 2: Platforms' Community Standards
+## Appendix 3: Patents
+
