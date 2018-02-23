@@ -2,6 +2,29 @@
 title: A Safer Online Public Square
 authors: Jonathan Reeve, Colin Muller
 ---
+# Outline
+
+## I. Introduction 
+
+## II. Approaches to identification
+	 i. Taxonomies and definitions
+	ii. Legal approaches
+	iii. Industry approaches
+	iv. Computational identification/classification/detection
+	
+## III. Possible causes of harmful behavior online
+
+## IV. Approaches to Intervention and Reporting
+	i. Organizations 
+	ii. Initiatives by Social Media Platforms  
+	iii. Counterspeech 
+## V. Future Directions
+
+## Bibliography 
+## Appendix 1: Advocacy Groups
+## Appendix 2: Platforms' Community Standards
+## Appendix 3: Patents
+
 
 # Problems
 
