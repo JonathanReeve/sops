@@ -208,75 +208,17 @@ Political psychologists Nyhan and Reifler have researched the “backfire effect
 ## Organizations 
 ### Advocacy Groups (Colin and Jonathan)
 
- - Working to Halt Online Abuse
- - No Hate Speech Movement
- - Etc...
+A number of organizations exist to study and combat harassment, hate speech, and related phenomena. There are a number of approaches taken by these group including education, legal or psychological resources, group support, legal aid, and direct action. Most organizations employ a variety of these approaches. 
 
-A number of organizations exist to study and combat harassment, hate speech, and related phenomena. The [Women's Media Center Speech Project](http://wmcspeechproject.com/) studies and reports on "the underrepresentation and misrepresentation of women in the media," including online harassment of women. 
-- [Crash Override Network](http://www.crashoverridenetwork.com/)
-   - Crash Override Network provides a hotline for crisis support and assistance to the targets of online harassment. They also engage in community outreach and education. It was founded by Zoe Quinn, a game developer who was one of the first targets of GamerGate. They also work with tech companies and government officials to better protect against online harassment.   
-- [Trollbusters](www.troll-busters.com)
-   - TrollBusters is a global, collaborative campaign project dedicated to helping journalists that are under attack. It calls itself "Online Pest Control for Women Writers.” Someone being harassed can send a message to TrollBusters who will respond by flooding their feed with positive, supportive messages to serve as a counternarrative to the harassment. They also provide resources that give some legal and psychological guidance to women authors.They are also developing software to identify and ‘out’ trolls. In 2015 it won a top prize at the International Women’s Media Foundation hackathon.
-   - learn more [here](https://yoursosteam.wordpress.com/) and [here](https://www.cjr.org/analysis/the_invaluable_service_of_trollbuster.php)
-- [Take Back the Tech](https://www.takebackthetech.net/about) 
-    - “a global, collaborative campaign project that highlights the problem of tech-related violence against women, together with research and solutions from different parts of the world. The campaign offers safety roadmaps and information and provides an avenue for taking action. Take Back the Tech! leads several campaigns at various points in the year, but our biggest annual campaign takes place during 16 Days of Activism Against Gender-Based Violence (25 Nov - 10 Dec).”
-    - play on Take back the night
-- [Cybersmile](https://www.cybersmile.org/)
-    - anti cyberbullying group that provides 24/7 trained support for people who were cyberbullied. They also have educational resources.
-- [Digital-Trust](http://www.digital-trust.org/)
-    - “Digital-Trust brings together technologists and professionals working with victims and vulnerable people to understand evolving risks and address digital abuse. We provide technical expertise to victims, charities, support groups and organisations working within the criminal justice system as well as directly to people experience digital abuse.”   
-- [Online SOS](http://onlinesosnetwork.org/)
-    - Online SOS is a nonprofit providing confidential, professional support to individuals experiencing online harassment. They  provide Crisis coaching which includes helping targets of harrasment document their experince and Referral to experts (legal and psychological)
--[Tactical Tech](http://www.tacticaltech.org/)
-    - "Founded in 2003, Tactical Tech is a non-profit that has been working worldwide to demystify and promote technology in the context of activism for over a decade. Working at the intersection of tech, activism and politics, Tactical Tech reaches more than three million people worldwide annually through events, training, online resources and exhibitions. We are an international group of technologists, activists, designers and practitioners based in Berlin, who work with citizens, journalists and activists to raise awareness about personal data, privacy and digital security."
+Most groups publish educational material including studies and reports on online harassment’s different forms, its adverse effects, and ways to mitigate such speech. Such organizations include the [Women’s Media Center’s Speech Project](http://wmcspeechproject.com/) and [Take Back the Tech](https://www.takebackthetech.net/about). Additionally, the Berkman Klein Center for Internet and Society at Harvard is in its third year of its [“Harmful Speech Online”](https://cyber.harvard.edu/node/99203) project which has yielded several valuable publications. Groups also provide education on how to secure online identities to prevent or limit online harassment—this includes employing cybersecuirty measures to prevent hacking, doxxing, and leaking of nonconsensual pornography. Such groups include HackBlossom a DIY feminist cybersecurity group and HeartMob’s [Technical Safety Guide](https://iheartmob.org/resources/tech). Heart mob also has detailed [Social Media Safety Guides](https://iheartmob.org/resources/safety_guides) for  Facebook, Twitter, Reddit, Tumblr, and Youtube. They also have an extensive [Supportive Organizations](https://iheartmob.org/resources/supportive_organizations) page.
 
-    
-    
-#### Call out groups
- - [Racists Getting Fired](http://racistsgettingfired.tumblr.com/)
-   - Blog that posts screenshots of racist posts made on social media along with the poster’s employer’s info so that people contact the company to get them fired
-   - [these](http://racistsgettingfired.tumblr.com/tagged/GOTTEN) are the posts that have resulted in successful firings
-   - The blog has been [criticized](https://www.washingtonpost.com/news/morning-mix/wp/2014/12/02/racists-getting-fired-exposes-weaknesses-of-internet-vigilantism-no-matter-how-well-intentioned/?utm_term=.77ffbcfddeae) by some for being a form of undiscerning internet vigilantism that on occasion has gotten innocent people fired 
-- [Yes You’re Racist](https://twitter.com/yesyoureracist)
-  - Twitter account that Identifies and retweets racist content (not a bot). A lot of the tweets they find start off with “I’m not racist but…”
-- [Yes You’re Sexist](https://twitter.com/YesYoureSexist)
-  - Twitter account that identifies and retweets sexist content (not a bot). A lot of the tweets they find start off with “I’m not sexist but…”. Inspired by @yesyoureracist
-- [EverydaySexism](https://twitter.com/EverydaySexism)
-  - “Documenting experiences of sexism,harassment and assault to show how bad the problem is &create solidarity.” 
-- [Bye Felipe](http://instagram.com/byefelipe)
-  - Alexandra Tweten started Bye Felipe on Instagram in October 2014. The idea came from a discussion between women in a private Facebook group about terrible messages women receive from men when they say they aren't interested. Dozens of women posted screenshots of messages they had received and Alexandra decided to gather them all and post them on Instagram.
+Organizations also publish legal and psychological resources for individuals trying to cope with and mitigate the effects of harassment. These resources include the anti-harassment non-profit Without My Consent’s [page](http://withoutmyconsent.org/50state) which outlines laws in all 50 states and federal level that could be used to prosecute various forms of online harassment. Without My Consent’s 50 State Project also summarizes lawsuits related to those laws and their outcomes. 
+
+Beyond providing resources for targets of harassment, some groups have professional or amateur support networks. [Online SOS](http://onlinesosnetwork.org/) and [Cybersmile](https://www.cybersmile.org/) for example has professional support that provides crisis coaching that helps people document and cope with harassment and seek legal and/or psychological counsel. Similarly, human rights activist Nighat Dad founded the Digital Rights Foundation in Pakistan which has a cyberharassment helpline that provides support and walks callers through the steps of filing legal complaints—they published a [report](https://digitalrightsfoundation.pk/wp-content/uploads/2017/07/Cyber-Harassment-Helpline-Six-Month-Report.pdf) outlining the nature of the calls they received in 2016-17. Instead of solely providing professional advice, Heartmob (established by anti-harassment group Hollaback) is a platform that creates a community of individuals who provide support for others targeted by harassment. Heartmob’s [site](https://iheartmob.org/) allows people to tell their story and receive “understanding messages, helpful resources, and practical assistance.” The Cyber Civil Rights Initiative conducts legal research on online harassment and even provides model legislation for drafting [“revenge porn” laws](https://www.cybercivilrights.org/guide-to-legislation/).
+
+A slightly more controversial approach is taken by popular social media accounts that call out online abuse. This includes the twitter and instagram accounts Yes You’re Racist, Yes You’re Sexist, and Bye Felipe. These accounts retweet or post screen shots of racist or sexist tweets, sometimes with the name of the account name of the person being called out. While some are critical of this approach in the name of protecting the person being amplified by these accounts, most of the things they are reposting were already posted online publicly. Even more controversial is the Tumblr blog “Racists Getting Fired” which posts screenshots of racist posts made on social media along with the poster’s employer’s info so that people contact the company to get them fired. The blog came under heat from the Washington Post for being a form of undiscerning internet vigilantism that on at least one occasion has gotten innocent people fired. The blog has a [page](http://racistsgettingfired.tumblr.com/tagged/GOTTEN) where they outline their successes. 
 
 
-#### Legal Aid
-
-- [Cyber Civil Rights Initiative](https://www.cybercivilrights.org/welcome/)
-  - Founded by Holly Jacobs, CCRI serves serving thousands of victims of Non Consensual Porn (NCP) and advocates for technological, social, and legal innovation to fight online abuse.
-  
-- [Digital Rights Foundation](https://digitalrightsfoundation.pk) 
-  - based in Pakistan, aims to strengthen protections for human rights defenders (HRDs), with a focus on women’s rights, in digital spaces through policy advocacy & digital security awareness-raising.
-  - founded by lawyer and human rights activist [Nighat Dad](https://twitter.com/nighatdad) 
-  - They have a cyberharassment helpline and between december 1 2016 and may 31 2017 they received 763 complaints in the form of calls emails and facebook messages. This [report](https://digitalrightsfoundation.pk/wp-content/uploads/2017/07/Cyber-Harassment-Helpline-Six-Month-Report.pdf) goes through nature of all these complaints, 
-  
-- [Without My Consent](http://www.withoutmyconsent.org)
-  - WMC provides legal and psychological resources for people who want to fight back against online harassment and privacy violations
-  - Founded by lawyer [Erica Johnstone](https://twitter.com/ericajstone)
-  - Their twitter page links to good weekly roundup of legal and social news related to non consensual pornography https://twitter.com/withoutconsent 
-  - They surveyed 359 people about their experience with online Stalking, Harassment and Violations of Privacy http://www.withoutmyconsent.org/blog/weve-got-data
-  
-#### Education (Colin)
-
-- [Radio La Benevolencija](www.labenevolencija.org)
-  - Radio La Benevolencija Humanitarian Tools Foundation (La Benevolencija) is a Dutch NGO that empowers groups and individuals who are the target of hate speech and ensuing acts. It broadcasts radio soaps, discussions and educational programmes, in combination with grass roots activities that provide citizens in vulnerable societies with knowledge on how to recognise and resist manipulation to violence and how to heal trauma, encouraging them to be active bystanders against incitement and violence. 
-  - Uses entertainment that deals with the psychology of incitement to hate and violence in order to inoculate against hate speech and mass conflict
-- [HackBlossom](https://hackblossom.org/)
-  - Hack Blossom provides educational resources and training for DIY feminist cybersecuirty with a focus on how to secure one's devices and digital identity to prevent and limit domestic abuse and harassment online
-  - [DIY Cybersecurity for Domestic Violence](https://hackblossom.org/domestic-violence/)
-  - [A DIY Guide to Feminist Cybersecurity](https://hackblossom.org/cybersecurity/)
-- [Diverse Gaming Coalition](http://diversegaming.co/)
-    - a non profit fighting against online harassment in gaming. Their advocacy includes talks, workshops, streaming, gaming, and partner projects.  
-    
-- [WomensLaw](womenslaw.org)
-    - Website with legal resources about a variety of laws related to women, especially related to domestic violence and other gender-based violence. They have information about cyberstalking and links to ways to stay safe while using technology.
 
 ### Initiatives by Social Media Platforms
 
