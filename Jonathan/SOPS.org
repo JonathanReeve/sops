@@ -73,9 +73,10 @@ CLOSED: [2017-11-03 Fri 14:57]
 :LOGBOOK:
 CLOCK: [2017-09-25 Mon 18:00]--[2017-09-25 Mon 18:19] =>  0:19
 :END:
-** TODO make master report
-DEADLINE: <2018-01-30 Tue> SCHEDULED: <2018-01-30 Tue>
+** TODO [#A] make master report
+SCHEDULED: <2018-02-18 Sun 18:00-20:00> DEADLINE: <2018-02-23 Fri>
 :LOGBOOK:
+CLOCK: [2018-02-18 Sun 19:47]--[2018-02-18 Sun 21:15] =>  1:28
 CLOCK: [2018-01-30 Tue 23:30]--[2018-01-31 Wed 00:12] =>  0:42
 CLOCK: [2018-01-30 Tue 19:48]--[2018-01-30 Tue 20:00] =>  0:12
 CLOCK: [2018-01-29 Mon 12:10]--[2018-01-29 Mon 12:28] =>  0:18
@@ -1073,3 +1074,9 @@ CLOCK: [2017-10-10 Tue 12:02]--[2017-10-10 Tue 13:03] =>  1:01
 :END:
 Workshop: internal to Columbia at first? 
 *** [['https:/en.wikipedia.org/wiki/Microaggression']['Microaggression - Wikipedia']]
+** Notes from meeting <2018-01-31 Wed> 
+:LOGBOOK:
+CLOCK: [2018-01-31 Wed 13:30]--[2018-01-31 Wed 14:30] =>  1:00
+:END:
+Funding: Columbia World Project? 
+Toward a publication
