@@ -2,6 +2,29 @@
 title: A Safer Online Public Square
 authors: Jonathan Reeve, Colin Muller
 ---
+# Outline
+
+## I. Introduction 
+
+## II. Approaches to identification
+	 i. Taxonomies and definitions
+	ii. Legal approaches
+	iii. Industry approaches
+	iv. Computational identification/classification/detection
+	
+## III. Possible causes of harmful behavior online
+
+## IV. Approaches to Intervention and Reporting
+	i. Organizations 
+	ii. Initiatives by Social Media Platforms  
+	iii. Counterspeech 
+## V. Future Directions
+
+## Bibliography 
+## Appendix 1: Advocacy Groups
+## Appendix 2: Platforms' Community Standards
+## Appendix 3: Patents
+
 
 # Problems
 
@@ -24,7 +47,31 @@ There are many categories of speech that fall under the umbrella of harmful spee
 There is significant corpus of writing which attempts to formulate a definition and taxonomy of harmful speech online. These classifications will often vary based on the purpose of the definition which varies from academic research, legal recommendations, or advocacy. These different purposes result in varying breadth and scope of definitions, and disagreement over definitions is one of the main challenges in compiling data from different sources on the frequency of harmful speech online (as the specific behavior being monitored in different studies varies widely). Despite these challenges, it is useful to outline the different categories of harmful online behavior, as these different types manifest themselves differently and will require different approaches for intervention.
 
  - Hate speech
+ 
+Andrew Sellars conducted an [overview](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2882244) of various attempts to define hate speech by academics, legal experts, and online platforms. In lieu of defining hate speech he identifies 8 emerging themes and common traits that are used in defining hate speech:
+
+1. Targeting of a group, or individuals as a member of a group
+2. Content in the message that expresses hatred
+3. The speech causes a harm
+4. The speaker intends harm or bad activity
+5. The speech incites bad actions beyond the speech itself
+6. The speech is either public or directed at a member of a the group
+7. The context makes violent response possible
+8. The speech has no redeeming purpose
+
+Sellars points out that there are two divergent theoretical fields that deal with hate speech: free speech theory and critical race theory, and there is little overlap between the two. 
+
+Academic definitions often vary based on whether the goal is to apply the indention to legal sanctions or to simply understand the social phenomenon of hate speech. Some definitions focus more on the content of the speech, whereas others place more emphasis on intent of speech, and a third approach ignores the intention of the speaker and instead focuses on the outcome and effects of speech. Alice Marwick and Ross Miller have synthesized these varying approaches, and proposed the following three general elements used to define hate speech: 
+
+1. Content-based elementary
+2. Intent-based elementary
+3. Harms-based element
+
+Perhaps the clearest definition of hate speech is Susan Benesch’s: 
    - “An expression that denigrates or stigmatizes a person or people based on their membership of a group that is usually but not always immutable, such as an ethnic or religious group. Sometimes other groups, defined by disability or sexual orientation, for example, are included.” Source: Benesch, Susan. Defining and diminishing hate speech. 2014. 
+
+The important difference between hate speech and other forms of harmful behavior online, is that hate speech is targeted at a group of people; even when it takes the form of hate speech against an individual it is targeting them for their belonging to a specific group
+ 
 
  - Bullying:
  
@@ -40,17 +87,14 @@ Tokunaga, Robert S. "Following you home from school: A critical review and synth
 
 
  - Harassment and stalking
-   - "Online harassment includes a wide range of targeted behaviors including: threats, continued hateful messages, doxxing, DDoS attacks, swatting, defamation, and more. Online harassment can target (or come from) a group or individual and often has the expressed purpose of having the individual or group leave the internet, take down their content, or to dissuade them from publically having a point of view. While there is space for debate and discussion online (as well as conflicting ideas!), what separates online harassment from healthy discourse is the focus on harm: including publishing personal information, sending threats with the intention to scare or harm, using discriminatory language against an individual, and even directly promoting harm against a person or organization."
+ 
+ Online harassment is a term used to describe a variety of online behaviors that target an individual or group with the intention of harming them, getting them to remove content, or discouraging from expressing themselves online. Behaviors that constitute online harassment include “threats, continued hateful messages, doxxing, DDoS attacks, swatting, defamation, and more.” According to HeartMob “what separates online harassment from healthy discourse is the focus on harm: including publishing personal information, sending threats with the intention to scare or harm, using discriminatory language against an individual, and even directly promoting harm against a person or organization." 
 Source: [HeartMob](https://iheartmob.org/pages/faqs#online-harassment)
  - Dangerous speech
-   - “speech that can inspire or catalyze intergroup violence” Source: [Counterspeech on Twitter: A Field Study](https://dangerousspeech.org/counterspeech-on-twitter-a-field-study/) 
-   - Susan Benesch puts forward the following conditions that make the likelihood of speech resulting in group violence : 
-     - there is a “powerful speaker with a high degree of influence;”
-     - there is a receptive audience with “grievances and fear that the speaker can cultivate;”
-     - a speech act “that is clearly under-stood as a call to violence;”
-     - a social or historical context that is “propitious for violence, for any of a variety of reasons;”
-     - An “influential means of dissemination.”” 
-     - Source: http://www.worldpolicy.org/sites/default/files/Dangerous%20Speech%20Guidelines%20Benesch%20January%202012.pdf 
+   
+   Dangerous speech is a form of online abuse that has high stakes. Susan Benesch characterizes it as ““speech that can inspire or catalyze intergroup violence.” The speaker of dangerous speech often hold positions of power with influence over a large base. The audience dangerous speech is addressed to often hold “grievances and fear that the speaker can cultivate,” and the speech plays on this in order to call on that group to act violently. Dangerous speech is most likely to occur in social or historical contexts that are already marked by or susceptible to violence, such as situations of civil war. 
+   
+   Source: [Counterspeech on Twitter: A Field Study](https://dangerousspeech.org/counterspeech-on-twitter-a-field-study/) & http://www.worldpolicy.org/sites/default/files/Dangerous%20Speech%20Guidelines%20Benesch%20January%202012.pdf 
 
  - Abuse of journalists
    - "Gamergate"
@@ -59,14 +103,14 @@ Source: [HeartMob](https://iheartmob.org/pages/faqs#online-harassment)
    - Deceptive opinion spam (e.g. fake Amazon product reviews) 
    
 ### Alternative approaches to classifying harfmul speech:
-
-Besides the approach of defining and taxonomizing different forms of hate speech, some have formulated other vectors for recognizing harmful speech online. 
-
 #### Implicit v. Explicit & Generalized v. Directed Abusive Language 
-   - Waseem et al. propose two primary factors for typologizing abusive language rather than attempting to define various terms such as abusive language, hate speech, cyberbullying, cyber harassment. They propose the following two factors: 
-     - Is the language directed towards a specific individual or entity or is it directed towards a generalized group?
-     - Is the abusive content explicit or implicit?     
-   - Typologizing based on these two factors is useful, as there can be a lot of overlap and ambiguity when relying on stricter defintions. One shortcoming of this typology is that by making the distinction between directed/generalized attacks, the research may downplay the fact that hate speech, even when verbally directed at an individual (ex: calling someone a racial slur) is an offense against an entire sub-group of people. 
+
+Besides the approach of defining and taxonomizing different forms of hate speech, some have formulated other vectors for recognizing harmful speech online. One particularly useful approach is that developed by Waseem et al. 
+Rather than attempting to define various terms such as hate speech, cyberbullying, and cyber harassment, they propose two primary vectors for typologizing abusive language—Implicit vs. Explicit and Generalized vs. Directed abusive language. To classify abusive speech they recommend asking the following questions:
+Is the language directed towards a specific individual or entity or is it directed towards a generalized group? 
+Is the abusive content explicit or implicit?
+	Typologizing based on these two factors is useful as there can be a lot of overlap and ambiguity when relying on stricter definitions. However, one shortcoming of this typology is that by making the distinction between directed/generalized attacks, the research may downplay the fact that hate speech, even when verbally directed at an individual (ex: calling someone a racial slur) is an offense against an entire sub-group of people.
+
    - Source: [Waseem, Zeerak, et al. "Understanding Abuse: A Typology of Abusive Language Detection Subtasks." arXiv preprint arXiv:1705.09899 (2017).](http://www.aclweb.org/anthology/W17-3012)
 
 #### Justice Stewart's rule: “I know it when I see it”
@@ -76,7 +120,24 @@ There are instances where specific epithets or insults are used and an outsider 
 
 The discussion of Stewart’s “I know it when I see it” points to a central difficulty in defining hate speech since it requires assessing the subjectivity and intention of both the perpetrator and the victim. However, only some definitions include the component of intention on the part of the perpetrator, and definitions also vary on how they define harm to the victim.
 
+#### Brandenburg test
+
+The 1969 supreme court case Brandenburg vs. Ohio narrowed the scope of unprotected speech under the first amendment. The court found that speech advocating illegal action is only prohibited when it is “directed to inciting or producing imminent lawless action and is likely to incite or produce such action.” Prior to this ruling the wording was applicable to vaguer, more generalized advocacy of illegal action. 
+The case revolved around whether or not a KKK leader saying “it's possible that there might have to be some revengeance [sic] taken” in a speech full of racist epithets constituted speech that intended to advocate violent illegal action. The Supreme court ended up deciding that the statement was protected by the first amendment since it was abstract advocacy of violence or illegal action. The court set higher standards for prohibiting speech that advocates for illegal action, requiring that it be likely that the illegal action actually occur in the near future.  
+What emerged from this case is the “Brandenburg test” which requires three elements for speech to be considered unprotected by the first amendment: intent, imminence, and likelihood. The court established that speech may be prohibited if it is: 
+1. “directed to inciting or producing imminent lawless action”
+2. “likely to incite or produce such action” 
+source: https://www.law.cornell.edu/wex/brandenburg_test 
+
+#### Elons v US
+
+In 2015 the supreme court ruled on a case about Anthony Elonis who had posted rap lyrics on his facebook that violently threatened his ex-wife in graphic detail. In lower courts Elonis had been convicted of threatening  a person over interstate lines, but the supreme court reversed this ruling.  Their decision revolved around whether or not the standard of a “reasonable person” feeling threatened by the post was sufficient evidence to sentence Elonis. The supreme court found that there was also the necessary element of a “guilty mind” or “mens rea” on the part of the speaker which they said was absent because Elonis had consistently held that he posted the threatening lyrics for therapeutic purposes.
+While this was the first time the Supreme Court heard a case related to speech on social media, the court largely avoided discussing first amendment related questions in the majority opinion. The judgment was only narrowly about whether or not mens rea was a requisite component of threatening a person.  
+In Samuel Alito’s concurrence there is more discussion of First Amendment on social media. Alito distinguishes between rap lyrics and social media posts saying: "lyrics in songs that are performed for an audience or sold in recorded form are unlikely to be interpreted as a real threat to a real person." Whereas "Statements on social media that are pointedly directed at their victims, by contrast, are much more likely to be taken seriously."
+
 #### What is left out of definitions
+
+There are two forms of harmful speech that are often left out of discussions of harmful speech. The first is self-directed harmful speech and the second is harmful speech expressed privately between a group of like-minded people where the target of the harmful speech is not a party to the discussion. Neither is easily categorized with other forms of harmful speech and they therefore need separate attention.
 
 - Harmful speech directed at one's self
   - this includes online posts that depict eating disorders or suggest self-harm. It is infrequently included in discussion of harmful online behavior, but it is a serious issue that needs to be dealt with in a different way than outward oriented harmful speech. 
