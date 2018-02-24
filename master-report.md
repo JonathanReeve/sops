@@ -104,7 +104,7 @@ Self-directed harmful speech includes online posts that depict eating disorders 
    
    
 
-### ii. Legal approaches
+### Legal approaches
 
 
 #### Justice Stewart's rule: “I know it when I see it”
@@ -401,5 +401,5 @@ Combinations of existing approaches could also be explored. While some studies h
 eyJoaXN0b3J5IjpbMTcwMjg4NDYzMl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ0NDc1OTAxXX0=
+eyJoaXN0b3J5IjpbLTE4MjcyMTMxNDFdfQ==
 -->
