@@ -213,6 +213,8 @@ Beyond providing resources for targets of harassment, some groups have professio
 
 A slightly more controversial approach is taken by popular social media accounts that call out online abuse. This includes the twitter and instagram accounts Yes You’re Racist, Yes You’re Sexist, and Bye Felipe. These accounts retweet or post screen shots of racist or sexist tweets, sometimes with the name of the account name of the person being called out. While some are critical of this approach in the name of protecting the person being amplified by these accounts, most of the things they are reposting were already posted online publicly. Even more controversial is the Tumblr blog “Racists Getting Fired” which posts screenshots of racist posts made on social media along with the poster’s employer’s info so that people contact the company to get them fired. The blog came under heat from the Washington Post for being a form of undiscerning internet vigilantism that on at least one occasion has gotten innocent people fired. The blog has a [page](http://racistsgettingfired.tumblr.com/tagged/GOTTEN) where they outline their successes. 
 
+ Inoculation is a long-term method for fighting against hate speech that takes some time. It involves instilling values in a society that oppose hate speech, and deals especially with building the social-psychological tools necessary so that groups of people don't fall victim to the pressures of engaging in hate speech or being incited by it. An example of a group that deals with Inoculation is Radio la Benevolencija (RLB) a dutch nonprofit that produces entertainment for countries in central africa that deals with the psychology underlying incitement to hate and violence.[Citron and Norton](http://web.a.ebscohost.com.ezproxy.cul.columbia.edu/ehost/pdfviewer/pdfviewer?vid=1&sid=1c840371-b7ff-4ba7-a74e-8848b5bae30a%40sessionmgr4008) suggest that internet intermediaries and society at large  (especially public schools) play a stronger role in fostering digital citizenship in attempt to inncoulate hate speech.  
+
 
 
 ### ii. Initiatives by Social Media Platforms  
@@ -389,15 +391,7 @@ There are also a few completely different academic disciplines that offer patter
 
 
  
-## Inoculation 
- Inoculation is a long-term method for fighting against hate speech that takes some time. It involves instilling values in a society that oppose hate speech, and deals especially with building the social-psychological tools necessary so that groups of people don't fall victim to the pressures of engaging in hate speech or being incited by it. 
- - An example of a group that deals with Inoculation is Radio la Benevolencija (RLB) a dutch nonprofit that produces entertainment for countries in central africa that deals with the psychology underlying incitement to hate and violence.
- - [Citron and Norton](http://web.a.ebscohost.com.ezproxy.cul.columbia.edu/ehost/pdfviewer/pdfviewer?vid=1&sid=1c840371-b7ff-4ba7-a74e-8848b5bae30a%40sessionmgr4008) suggest that internet intermediaries and society at large  (especially public schools) play a stronger role in fostering digital citizenship   
-
-## Calling out & doxxing
- - Gettign racists fired
- - Yes you’re racist/sexist
- - Goodbye felipe
+ 
 
 # Future Directions
 
