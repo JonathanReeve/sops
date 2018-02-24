@@ -142,7 +142,7 @@ The framework defines hate speech as containing one of the following three eleme
 
   - publicly condoning, denying or grossly trivialising crimes of genocide, crimes against humanity and war crimes as defined in the Statute of the International Criminal Court (Articles 6, 7 and 8) and crimes defined in Article 6 of the Charter of the International Military Tribunal, when the conduct is carried out in a manner likely to incite violence or hatred against such a group or a member of such a group.”
 
-In (Germany)[https://www.theguardian.com/media/2017/jun/30/germany-approves-plans-to-fine-social-media-firms-up-to-50m] big social media platforms are facing fines for failing to take down content that violates their laws fast enough. 
+In [Germany](https://www.theguardian.com/media/2017/jun/30/germany-approves-plans-to-fine-social-media-firms-up-to-50m) big social media platforms are facing fines for failing to take down content that violates their laws fast enough. 
 
 ### Industry approaches
 
