@@ -73,7 +73,7 @@ Perhaps the clearest definition of hate speech is Susan Benesch’s:
 The important difference between hate speech and other forms of harmful behavior online, is that hate speech is targeted at a group of people; even when it takes the form of hate speech against an individual it is targeting them for their belonging to a specific group
  
 
- #### Bullying:
+#### Bullying:
  
 Definitions of cyberbullying largely rely on definitions of offline bullying which are characterized by 3 factors: 1) psychological torment 2) repeated behavior 3) carried out with intent. Social Psychologist Robert Tokunaga defines cyberbullying as “any behavior performed through electronic or digital media by individuals or groups that repeatedly communicates hostile or aggressive messages intended to inflict harm or discomfort on others.” While in traditional settings the factor of repeated behavior is more clear cut, there is some disagreement over what is considered repetition online, as a single post can be shared or otherwise interacted with repeatedly.  
 
@@ -91,7 +91,7 @@ Tokunaga, Robert S. "Following you home from school: A critical review and synth
  Online harassment is a term used to describe a variety of online behaviors that target an individual or group with the intention of harming them, getting them to remove content, or discouraging from expressing themselves online. Behaviors that constitute online harassment include “threats, continued hateful messages, doxxing, DDoS attacks, swatting, defamation, and more.” According to HeartMob “what separates online harassment from healthy discourse is the focus on harm: including publishing personal information, sending threats with the intention to scare or harm, using discriminatory language against an individual, and even directly promoting harm against a person or organization." 
 Source: [HeartMob](https://iheartmob.org/pages/faqs#online-harassment)
  
- #### Dangerous speech
+#### Dangerous speech
    
    Dangerous speech is a form of online abuse that has high stakes. Susan Benesch characterizes it as ““speech that can inspire or catalyze intergroup violence.” The speaker of dangerous speech often hold positions of power with influence over a large base. The audience dangerous speech is addressed to often hold “grievances and fear that the speaker can cultivate,” and the speech plays on this in order to call on that group to act violently. Dangerous speech is most likely to occur in social or historical contexts that are already marked by or susceptible to violence, such as situations of civil war. 
    
@@ -125,10 +125,7 @@ Self-directed harmful speech includes online posts that depict eating disorders 
  
  Harfmul speech between an "in-group" includes things like a private message channel where racists exchange racist messages about a group of people who are not a part of the message channel. Upon first consideration this speech may seem more like private thought than it does speech in the public realm (this is how some legal scholars frame it), but such conversation can have real life consequences on the well being of those discussed such as in private [message forums where doxxing information is collected](https://theintercept.com/2017/09/06/how-right-wing-extremists-stalk-dox-and-harass-their-enemies/) 
    
-   
-
 ### ii. Legal approaches
-
 
 #### Justice Stewart's rule: “I know it when I see it”
 Supreme Court Justice Stewart famously asserted “I know it when I see it” when referring to identifying obscenity. It seems to be the consensus that this approach is not applicable to identifying hate speech due to the variety of forms of speech and contexts which one could identify as hate speech.
