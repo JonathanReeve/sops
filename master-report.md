@@ -339,7 +339,7 @@ Similarly, the subfield of deceptive opinion spam detection attempts to identify
 
 There are also a few completely different academic disciplines that offer patterns of abusive language. Quantitative psycholinguistics, for instance, is interested in the language patterns of psychological conditions such as mental illness and states of heightened emotion. [@gawda_emotional_2013], for instance, for instance, studies narratives written by prison inmates diagnosed with Antisocial Personality Disorder (ASPD), as compared with a control group, and those diagnosed as not having the disorder. They find that emotional words are higher in general among those with ASPD, but negative words, for instance, might have lower than normal scores for narratives that describe hate. When seen in the context of our project of the computational identification of abusive language, this finding suggests that negative words on their own may not be markers of abuse, at least that originating from those with ASPD. Similarly, [@rieber_language_1994], a literature review of "the language of psychopathy" finds that often one of the distinguishing linguistic features of these patients is the _lack_ of emotional markers in certain contexts. Here again, this indicates that strong emotional valence, as measured by sentiment analysis, might not on its own be a useful feature for a categorizer, and that contextually contrasting emotional content might perform better.
 
-## And the Law (C
+## And the Law
 ### US Federal Law
 - section 230 of the Communications Decency Act
 - Civil Rights Law
@@ -388,5 +388,5 @@ Combinations of existing approaches could also be explored. While some studies h
 eyJoaXN0b3J5IjpbMTcwMjg4NDYzMl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ2NzE2MjI2XX0=
+eyJoaXN0b3J5IjpbMTg4MTM2ODk3XX0=
 -->
