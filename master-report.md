@@ -4,7 +4,7 @@ authors: Jonathan Reeve, Colin Muller
 bibliography: bibliography.bib
 ---
 
-<!-- About this docement: 
+<!-- About this document: this is the Markdown source file that is used to create PDFs, .docx files, and/or other files. Edit this file instead of those. --> 
 
 # Introduction 
 
@@ -392,5 +392,5 @@ Combinations of existing approaches could also be explored. While some studies h
 eyJoaXN0b3J5IjpbMTcwMjg4NDYzMl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODMzMDQ5NjJdfQ==
+eyJoaXN0b3J5IjpbMjA0NDc5NTQ1Nl19
 -->
