@@ -1,6 +1,6 @@
 ---
 title: A Safer Online Public Square
-authors: Jonathan Reeve, Colin Muller
+author: Jonathan Reeve, Colin Muller
 bibliography: bibliography.bib
 ---
  
@@ -274,9 +274,9 @@ The Mozilla-funded [Coral Project](https://coralproject.net/) publishes a commen
 
 More proprietary systems also exist. A number of US patents---US5796948, US8868408, US8473443, US7818764, and US20080109214---describe "offensive message interceptors," "methods for word offensiveness processing," "inappropriate content detection," "methods for monitoring blocked content," and "methods for computerized psychological content analysis," respectively.
 
-## Computational Detection of Abusive Language, Behaviors, or People
+# Computational Detection of Abusive Language, Behaviors, or People
 
-### General Classification Studies
+## General Classification Studies
 
 Most computer science and computational linguistics studies in the detection of abusive language treat the problem as one of document categorization. This is a very common pattern of machine learning analysis in which an algorithm decides whether to place documents in one of two or more categories. These categories are almost never identically defined across studies, but are variously termed "abusive / non-abusive," "hate speech / non-hate speech," "high-quality / low-quality," and so on. 
 
@@ -298,7 +298,7 @@ To this collection of token vectors, often other language measurements are added
 
 Once these features are constructed, the classification task itself may begin, which will infer categories (abusive/non-abusive, high/low quality, and so on) using the features. A wide variety of classification algorithms are used in these experiments. In many, Support Vector Machines (SVM) are used, as in [@siersdorfer_how_2010, samghabadi_detecting_2017] and many of the entries of the 2012 Kaggle task. In others, Long Short-Term Memory (LSTM) categorizers are used, as in [@kolhatkar_constructive_2017], or Convolutional Neural Networks, as in [@gamback_using_2017]. Importantly, the categorizers that perform best in these experiments seem to vary greatly according to the data set and domain. It is for this reason that some of the most successful experiments in the Kaggle task used meta-categorizers. Meta-categorizers test the efficacy of a number of categorization algorithms, making the choice of categorization algorithm one of the tasks of the categorization experiment. Many of the Kaggle entrants, for example, used cross-validation grid searches (used also for parameter tuning), Random Forest regressors, or other stack-regressors. 
 
-### Detection of Quality, Formality
+## Detection of Quality, Formality
 
 Some related content-based approaches to language categorization include the identification of language quality. "Quality" can refer to the subjective usefulness of speech towards the goals of a particular website or online community, grammatical quality (correctness), credibility, or formality, among other definitions. [@siersdorfer_how_2010] define quality as YouTube comments with good feedback (high numbers of user upvotes), and construct a categorization experiment where 6.1M training comments are vectorized using the most distinctive words of each category (TF-IDF), their SentiWordNet sentiment synonyms, and then classified using support vector machine classifiers. [@agichtein_finding_2008] also define quality based on user-reported and metadata-based reputation scores, like PageRank and ExpertiseRank, in an experiment categorizing Yahoo Answers conteng. They test a number of features of each answer, including n-grams of length 1-5, their POS representations, and metadata such as number of clicks, and categorize these using stochastic gradient boosted trees.
 
@@ -306,7 +306,7 @@ A related metric is language formality. [@heylighen_variation_2002] propose a fo
 
 The presence of profanity has also been shown to correlate with abusive language, as in [@brand_comment_2014]. Many of the top entries in the Kaggle contest, for instance use a "bad words list" as a seed feature set. [@samghabadi_detecting_2017] uses Google's bad words dictionary, and combines it with a list from another researcher. "Bad" words themseles, though, are of course never unambiguously bad. [@kapoor_swears_2016], for instance, describes an attempt to differentiate between "casual" and abusive swearing. They find that the high-severity swears are likely to occur in abusive contexts. 
 
-### Sentiment Analysis
+## Sentiment Analysis
 
 Another useful language analysis, and one which often provides an additional categorization feature, is sentiment analysis. Now a veritable subfield of computational linguistics, and digital humanities more generally, sentiment analysis has its roots in industry NLP applications, where it is used, for example, to predict stock prices based on sentiments conveyed about companies in news media. Traditional approaches to sentiment analysis use lexical approaches: words with negative or positive valence (like "awful" or "amazing") are encoded as such in a lexicon such as SentiWordNet, , and this lexicon is then used to compute the overall sentiment for a given text. This sentiment is usually expressed numerically as two measurements: "PN-polarity" and "SO-polarity," for positive-negative sentiment, and subjective-objective [@baccianella2010sentiwordnet]. A word with very high positive sentiment associations might be, and which is highly subjective, might be encoded as (0.8, 0.8), for instance, and a negative-objective word might be encoded as (-0.8, -0.8). 
 
@@ -314,7 +314,7 @@ Sentiment analysis has seen some success in categorization experiments. [@siersd
 
 More recent approaches to sentiment analysis attempt to mitigate the domain problem of lexical approaches by using probabilistic methods, and training domain-specific models. After annotating a corpus by sentiment—this could be the traditional positive/negative scale, but also a set of sentiments, such as anger, happiness, disappointment, and so on—researchers train a categorizer such as a Recursive Neural Network on this corpus, before using the trained model to predict sentiment categories for unannotated text. For more on sentiment analysis, see [@liu_survey_2012]. 
 
-### Metadata Analysis
+## Metadata Analysis
 
 While many of the computational approaches described thus far have been concerned with detection of abusive speech through content analysis, metadata provides, in many cases, an even more useful feature set for categorization. Of course, the number and availability of these features is entirely dependent on the platform. Sites like Reddit provide comment upvote/downvote data, which sites like Twitter lack. Similarly, sites like Twitter provide data on the social networks of its users, which are missing on sites like Reddit. Metatextual features from a corpus of online news comments include the response times of comments to the news story and the "engagement" provoked by comments (i.e., the number of child comments) [@brand_comment_2014]. [@castillo_predicting_2013], for instance, find that the presence of a Twitter user's self-description ("bio") correlates strongly with the likelihood of their authoring abusive tweets.
 
