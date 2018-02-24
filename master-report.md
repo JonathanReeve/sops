@@ -4,7 +4,7 @@ authors: Jonathan Reeve, Colin Muller
 bibliography: bibliography.bib
 ---
 
-<!-- About this document: this is the Markdown source file that is used to create PDFs, .docx files, and/or other files. Edit this file instead of those. Bibliographic entries here, in the form [@author_title_year] refer to bibliographic keys in bibliography.bib, which is in turn generated from Jonathan/SOPS.bib and Colin/SOPS.bib. The bibliography, not visible --> 
+<!-- About this document: this is the Markdown source file that is used to create PDFs, .docx files, and/or other files. Edit this file instead of those. Bibliographic entries here, in the form [@author_title_year] refer to bibliographic keys in bibliography.bib, which is in turn generated from Jonathan/SOPS.bib and Colin/SOPS.bib. The bibliography, not visible here, is --> 
 
 # Introduction 
 
@@ -392,5 +392,5 @@ Combinations of existing approaches could also be explored. While some studies h
 eyJoaXN0b3J5IjpbMTcwMjg4NDYzMl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTI3MzIyMjJdfQ==
+eyJoaXN0b3J5IjpbMjE0MTQxMjYwMF19
 -->
