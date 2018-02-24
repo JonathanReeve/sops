@@ -200,14 +200,9 @@ Studies in temporal clustering demonstrate the role of peer-influence on harmful
 Political psychologists Nyhan and Reifler have researched the “backfire effect” where attempts at correcting misconceptions or misinformed beliefs results in firmer beliefs in the misconception [@nyhan2010corrections]. It is important to consider the backfire effect in looking at effective forms of intervention/counterspeech, since often presenting facts or engaging in logical/reasoned debate is not the most effective strategy. Rather than being swayed be reasoned fact-based challenges to their views, individuals will become further entrenched in their views and even incorporate the contrary speech into their world view. A similar psychological phenomenon is “motivated reasoning” where people make a strong effort to support the conclusions they seek despite being exposed to contradictory facts
 
 ## IV. Approaches to Intervention and Reporting
-### i. Organizations 
-### ii. Initiatives by Social Media Platforms  
-### iii. Counterspeech 
+ 
 
-# Existing Approaches to Intervention
-## Organizations 
-### Advocacy Groups (Colin and Jonathan)
-
+### i. Organizations and Advocacy Groups
 A number of organizations exist to study and combat harassment, hate speech, and related phenomena. There are a number of approaches taken by these group including education, legal or psychological resources, group support, legal aid, and direct action. Most organizations employ a variety of these approaches. 
 
 Most groups publish educational material including studies and reports on online harassment’s different forms, its adverse effects, and ways to mitigate such speech. Such organizations include the [Women’s Media Center’s Speech Project](http://wmcspeechproject.com/) and [Take Back the Tech](https://www.takebackthetech.net/about). Additionally, the Berkman Klein Center for Internet and Society at Harvard is in its third year of its [“Harmful Speech Online”](https://cyber.harvard.edu/node/99203) project which has yielded several valuable publications. Groups also provide education on how to secure online identities to prevent or limit online harassment—this includes employing cybersecuirty measures to prevent hacking, doxxing, and leaking of nonconsensual pornography. Such groups include HackBlossom a DIY feminist cybersecurity group and HeartMob’s [Technical Safety Guide](https://iheartmob.org/resources/tech). Heart mob also has detailed [Social Media Safety Guides](https://iheartmob.org/resources/safety_guides) for  Facebook, Twitter, Reddit, Tumblr, and Youtube. They also have an extensive [Supportive Organizations](https://iheartmob.org/resources/supportive_organizations) page.
@@ -220,23 +215,91 @@ A slightly more controversial approach is taken by popular social media accounts
 
 
 
-### Initiatives by Social Media Platforms
+### ii. Initiatives by Social Media Platforms  
 
-#### Instagram #KindComments
+Most social media platforms have similar approaches to removing abusive content, relying on a mix of flagging by users and detection software. As discussed above, most sites have vaguely worded terms of service and community standards that prohibit harmful speech without explicitly defining it, and once a post is flagged moderators determine whether or not to delete a post based on private, internal regulation. 
 
-Instagram (along with Tumblr) seem to be the most proactive in fostering a safe and kind environment on their social media websites. While other websites emphasize their commitment to free expression, instagram instead emphasizes their desire for the platform to be safe, kind, and inclusive. Therefore they don't shy away from asserting thier right as a platform to remove or boost certain posts. On Instagram users can anonymously report live videos and the person live-streaming will receive a notification with resources to mental health hot-lines and other resources. They also have an option in the application for users to “Hide Offensive Comments” which uses a filter to “automatically hide comments on your posts that may be offensive,” and users can also “Hide comments on your posts that contain specific words or phrases.” Instagram also launched a #KindComments campaign where they are encouraging users to generate kind content. Instagram and Tumblr both seem to be more proactive about connecting their users with mental health and anti-bullying resources. 
+When sites decide not to remove the content, they still provide users with the options of blocking, unfriending, or muting the poster or hiding the individual post/comment. Beyond these options, sites have developed advanced and creative approaches that are available to users. 
 
-Source: http://blog.instagram.com/post/162395020002/170629-comments & https://www.wired.com/2017/08/instagram-kevin-systrom-wants-to-clean-up-the-internet/ 
- - Official policies of Facebook, Twitter
- - Twitter's "progress on addressing online abuse"
- - Implementations of Perspective API on Facebook, Reddit
- - New social media outlets (Mastodon) created with these problems in mind
- - Moderation, flagging
+Twitter launched a feature where users can export lists of people they’ve blocked and share them this list with friends who wish to block the same people. Twitter explained that the feature is for “those who experience high volumes of unwanted interactions on Twitter [and] need more sophisticated tools. That’s where this new feature comes in. You can now export and share your block lists with people in your community facing similar issues or import another user’s list into your own account and block multiple accounts all at once, instead of blocking them individually.”](https://blog.twitter.com/official/en_us/a/2015/sharing-block-lists-to-help-make-twitter-safer.html).
+
+Instagram introduced an option where users can [“Enable Offensive Comment Filter”](https://help.instagram.com/700284123459336). Users can also create a customized list of keywords they want filtered out of posts (this includes emojis). Users can also choose to use Instagram’s default keywords.  Instagram also has a feature which allows users to anonymously report friends’ posts that suggest self-harm. Once they are reported Instagram sends the reported user a message of support that includes a phone number to a help line. 
+
+Instagram (along with Tumblr) seem to be the most proactive in fostering a safe and kind environment on their social media websites. While other websites emphasize their commitment to free expression, instagram instead emphasizes their [desire for the platform to be safe, kind, and inclusive](https://www.wired.com/2017/08/instagram-kevin-systrom-wants-to-clean-up-the-internet/). Therefore they don't shy away from asserting their right as a platform to remove or boost certain posts. Instagram launched a #KindComments campaign in 2017 where they encouraged users to generate kind content. The campaign also involved comments identified as kind being made more visible to other users. Instagram and Tumblr both seem to also be more proactive about connecting their users with mental health and anti-bullying resources.
+
+It is interesting to note that while Facebook owns instagram, many of the initiatives launched on instagram have not been transferred to Facebook. This is at least partially due to Instagram’s younger user base.
+
+In response to what the far-right characterizes as an assault on free speech, the social media website Gab.ai was founded with the purpose of creating “Free Speech for Everyone.” Their logo is a frog, reminiscent of the alt-right icon Pepe the frog, and they have primarily drawn in far right members with a good deal of racist, sexist, and xenophobic content. It has been described as the far right’s [“digital safe space”](https://www.nytimes.com/2016/11/30/arts/the-far-right-has-a-new-digital-safe-space.html)
+
+HeartMob has introduced detailed [Social Media Safety Guides](https://iheartmob.org/resources/safety_guides) for 5 of the most used social media platforms (Twitter, Facebook, Tumblr, Reddit, and Youtube). They worked closely with staff from all five platforms in preparing the reports. 
+
+
+### iii. Counterspeech 
+
+Counter Speech can address the perpetrator of hate speech or the cyber bystanders whose discourse norms are shaped by seeing hate speech go uncontested. For hateful speakers with deeply ingrained hate, counter speech is less effective, but it can still alter their discourse to be less overtly hateful which in itself can also positively affect the cyber bystanders.
+
+The guiding principle of counterspeech is the liberal ideal that more speech is the best remedy to harmful speech. This is partially informed by the idea that if you delete hateful content from one platform that there is always somewhere else to go (I’m not sure this is totally convincing).
+
+#### Recommended Strategies
+- Warning of consequences
+  - Remind speaker of harm done by speech
+  - Remind of offline consequences and the permanence of online communication
+  - Remind of online consequences (blocking, reporting, suspended account)
+  - Mainly effective at getting hate speech deleted and doesn't necessarily change speakers POV
+- Shaming and Labeling
+  - Labeling the speech (not speaker) as bigoted, misogynist, etc
+  - Helpful to cyberbystanders
+  - Speaker ‘may not have known’ so it is better not to make a personal attack and to only to label the speech has harmful
+- Empathy and Affiliation
+  - Change the tone to friendly, empathetic or peaceful
+  - Affiliate with speaker and establish a connection (ex: I am also a conservative, but…)
+  - Affiliate with targeted group (ex: what you said hurt me as an asian…)
+  - Changing the tone is more effective when the speaker affiliates with counterspeaker
+- Humor
+  - Neutralize hateful speech that is seen as dangerous and intimidating
+  - Attract larger audience to the counterspeech’s message
+  - Use humor to soften the message of counterspeech that could otherwise come off as hostile or aggressive (ex: [it’s time to stop posting cat](http://images.wikia.com/glee/images/c/c7/Imgur_gallery_hZSfl_It%27s_Time_to_Stop_Posting.jpg))
+- Images
+  - Can make counterspeech more viral
+  - Counterspeech is generally more effective when it is emotive rather than rational/logical so images can be a good way to “send people along emotive pathways”
+
+#### Discouraged Strategies
+- Hostile or aggressive tone and insults
+  - Can cause backfire or speaker to dig in their heels
+- Fact-checking
+  - Fact checking may sway cyber bystanders, but it is unlikely to influence original speaker
+  - Speaker will find a way to fit the new facts presented to the conclusions they are already committed to
+    - Social psychologists call this the backfire effect where challenging someone’s views with facts leads them to hold those views even more firmly
+  - Pointing out hypocrisy can be good for bystanders but usually not for speaker 
+- Harassment and Silencing
+
+#### Successful counterspeech is indicated by: 
+- Speaker shifts their discourse if not also their beliefs 
+- Speaker apologizes, recants, or deletes original hate speech
+- Discourse norms of the cyberbystanders are positively affected
+- Hate speech narratives delegitimized (even if speaker is not swayed)
+- More counter speech is elicited from the audience (this is good until it turns into harassment/dogpiling) 
+
+#### Types
+
+A useful method of typologizing harmful speech online is by distinguishing between the types of exchanges (vectors). (This is based on the models put forward in Counterspeech on Twitter: A Field Study)
  
-#### [Gab.ai](https://gab.ai/): The far-right's new social media platform
- - Gab.ai is a social media website founded with the purpose of creating “Free Speech for Everyone.” Their logo is a frog, reminiscent of the alt-right icon Pepe the frog, and they have primarily drawn in far right members with a good deal of racist, sexist, and xenophobic content. It has been described as the far right’s [“digital safe space”](https://www.nytimes.com/2016/11/30/arts/the-far-right-has-a-new-digital-safe-space.html)
+ - One-to-one: one person deploying counterspeech against one person’s hate speech
+ - One-to-many: one person deploying counterspeech against many people’s hate speech
+ - Many-to-one: many people deploying counterspeech against one person’s hate speech
+ - Many-to-many: many people deploying counterspeech against many people’s hate speech
+ 
+Source: 
+- [Counterspeech on Twitter: A Field Study, by Susan Benesch, Derek Ruths, Kelly Dillon, Haji Mohammad Saleem, and Lucas Wright](https://dangerousspeech.org/counterspeech-on-twitter-a-field-study/)
+- [Considerations for Successful Counterspeech,  by Susan Benesch, Derek Ruths, Kelly Dillon, Haji Mohammad Saleem, and Lucas Wright](https://dangerousspeech.org/considerations-for-successful-counterspeech/)
 
-source: https://www.theguardian.com/media/2016/nov/17/gab-alt-right-social-media-twitter
+ 
+####  Kevin Munger's Study as an example of counterspeech: [Tweetment Effects on the Tweeted: Experimentally Reducing Racist Harassment](https://link.springer.com/article/10.1007/s11109-016-9373-5)
+ 
+ Kevin Munger conducted a study where he identified 231 twitter accounts operated by white men that regularly used racial slurs against black twitter accounts. Munger created a variety of twitter ‘bots’ with different amounts of followers, and some with a white male avatar and others with a black male avatar. The bots would send the following tweet in response to  detected racist tweets by the identified twitter accounts: "@[subject] Hey man, just remember that there are real people who are hurt when you harass them with that kind of language.”
+
+Munger found that accounts confronted by the white male twitter bot with a lot of followers were most likely to alter their language in future posts. Around 27% of users stopped using the n-word in their posts the following weeks. Munger’s findings corroborate existing theories on counterspeech that tell us that counterspeech is most effective when done by someone with whom the harmful speaker identifies (in this case white males identify with other white men). On the other hand, Munger’s findings cut against existing theories about how anonymity affects online behavior; the study found that accounts with personal information (name, photo, location, etc.) that used the n-word were significantly less likely to change their behavior after being rebuked by the bot, and in some cases would increase their usage. It was primarily accounts with little or no personal information that would redress their behavior. This goes against the theory that anonymity contributes to online hate speech, since those that were most anonymous were the most likely to alter their behavior. 
+
 
 ### Databases and Datasets
 
@@ -323,71 +386,7 @@ Similarly, the subfield of deceptive opinion spam detection attempts to identify
 ### International Law
 - International Covenant on Civil and Political Rights (ICCPR)
 
-## Counterspeech (Colin)
 
-Counter Speech can address the perpetrator of hate speech or the cyber bystanders whose discourse norms are shaped by seeing hate speech go uncontested. For hateful speakers with deeply ingrained hate, counter speech is less effective, but it can still alter their discourse to be less overtly hateful which in itself can also positively affect the cyber bystanders.
-
-The guiding principle of counterspeech is the liberal ideal that more speech is the best remedy to harmful speech. This is partially informed by the idea that if you delete hateful content from one platform that there is always somewhere else to go (I’m not sure this is totally convincing).
-
-### Recommended Strategies
-- Warning of consequences
-  - Remind speaker of harm done by speech
-  - Remind of offline consequences and the permanence of online communication
-  - Remind of online consequences (blocking, reporting, suspended account)
-  - Mainly effective at getting hate speech deleted and doesn't necessarily change speakers POV
-- Shaming and Labeling
-  - Labeling the speech (not speaker) as bigoted, misogynist, etc
-  - Helpful to cyberbystanders
-  - Speaker ‘may not have known’ so it is better not to make a personal attack and to only to label the speech has harmful
-- Empathy and Affiliation
-  - Change the tone to friendly, empathetic or peaceful
-  - Affiliate with speaker and establish a connection (ex: I am also a conservative, but…)
-  - Affiliate with targeted group (ex: what you said hurt me as an asian…)
-  - Changing the tone is more effective when the speaker affiliates with counterspeaker
-- Humor
-  - Neutralize hateful speech that is seen as dangerous and intimidating
-  - Attract larger audience to the counterspeech’s message
-  - Use humor to soften the message of counterspeech that could otherwise come off as hostile or aggressive (ex: [it’s time to stop posting cat](http://images.wikia.com/glee/images/c/c7/Imgur_gallery_hZSfl_It%27s_Time_to_Stop_Posting.jpg))
-- Images
-  - Can make counterspeech more viral
-  - Counterspeech is generally more effective when it is emotive rather than rational/logical so images can be a good way to “send people along emotive pathways”
-
-### Discouraged Strategies
-- Hostile or aggressive tone and insults
-  - Can cause backfire or speaker to dig in their heels
-- Fact-checking
-  - Fact checking may sway cyber bystanders, but it is unlikely to influence original speaker
-  - Speaker will find a way to fit the new facts presented to the conclusions they are already committed to
-    - Social psychologists call this the backfire effect where challenging someone’s views with facts leads them to hold those views even more firmly
-  - Pointing out hypocrisy can be good for bystanders but usually not for speaker 
-- Harassment and Silencing
-
-### Successful counterspeech is indicated by: 
-- Speaker shifts their discourse if not also their beliefs 
-- Speaker apologizes, recants, or deletes original hate speech
-- Discourse norms of the cyberbystanders are positively affected
-- Hate speech narratives delegitimized (even if speaker is not swayed)
-- More counter speech is elicited from the audience (this is good until it turns into harassment/dogpiling) 
-
-### Types
-
-A useful method of typologizing harmful speech online is by distinguishing between the types of exchanges (vectors). (This is based on the models put forward in Counterspeech on Twitter: A Field Study)
- 
- - One-to-one: one person deploying counterspeech against one person’s hate speech
- - One-to-many: one person deploying counterspeech against many people’s hate speech
- - Many-to-one: many people deploying counterspeech against one person’s hate speech
- - Many-to-many: many people deploying counterspeech against many people’s hate speech
- 
-Source: 
-- [Counterspeech on Twitter: A Field Study, by Susan Benesch, Derek Ruths, Kelly Dillon, Haji Mohammad Saleem, and Lucas Wright](https://dangerousspeech.org/counterspeech-on-twitter-a-field-study/)
-- [Considerations for Successful Counterspeech,  by Susan Benesch, Derek Ruths, Kelly Dillon, Haji Mohammad Saleem, and Lucas Wright](https://dangerousspeech.org/considerations-for-successful-counterspeech/)
-
- 
-###  Kevin Munger's Study: [Tweetment Effects on the Tweeted: Experimentally Reducing Racist Harassment](https://link.springer.com/article/10.1007/s11109-016-9373-5)
- 
- Kevin Munger conducted a study where he identified 231 twitter accounts operated by white men that regularly used racial slurs against black twitter accounts. Munger created a variety of twitter ‘bots’ with different amounts of followers, and some with a white male avatar and others with a black male avatar. The bots would send the following tweet in response to  detected racist tweets by the identified twitter accounts: "@[subject] Hey man, just remember that there are real people who are hurt when you harass them with that kind of language.”
-
-Munger found that accounts confronted by the white male twitter bot with a lot of followers were most likely to alter their language in future posts. Around 27% of users stopped using the n-word in their posts the following weeks. Munger’s findings corroborate existing theories on counterspeech that tell us that counterspeech is most effective when done by someone with whom the harmful speaker identifies (in this case white males identify with other white men). On the other hand, Munger’s findings cut against existing theories about how anonymity affects online behavior; the study found that accounts with personal information (name, photo, location, etc.) that used the n-word were significantly less likely to change their behavior after being rebuked by the bot, and in some cases would increase their usage. It was primarily accounts with little or no personal information that would redress their behavior. This goes against the theory that anonymity contributes to online hate speech, since those that were most anonymous were the most likely to alter their behavior. 
 
  
 ## Inoculation 
