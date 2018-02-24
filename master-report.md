@@ -364,6 +364,7 @@ Combinations of existing approaches could also be explored. While some studies h
 
 ## Automated Counterspeech 
 
+# Appendices and Bibliography
 ## Appendix 1: Advocacy Groups
 ## Appendix 2: Platforms' Community Standards
 ## Appendix 3: Patents

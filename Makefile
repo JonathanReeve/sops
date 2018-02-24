@@ -5,4 +5,4 @@ bibliography.bib: Colin/SOPS.bib Jonathan/SOPS.bib
 
 master-report.pdf: master-report.md bibliography.bib
 	cat Colin/SOPS.bib Jonathan/SOPS.bib > bibliography.bib
-	pandoc -o $@ $< --filter=pandoc-citeproc -V linkcolor=blue
+	pandoc -o $@ $< --filter=pandoc-citeproc -V linkcolor=blue -V toc
