@@ -106,7 +106,6 @@ Self-directed harmful speech includes online posts that depict eating disorders 
 
 ### Legal approaches
 
-
 #### Justice Stewart's rule: “I know it when I see it”
 Supreme Court Justice Stewart famously asserted “I know it when I see it” when referring to identifying obscenity. It seems to be the consensus that this approach is not applicable to identifying hate speech due to the variety of forms of speech and contexts which one could identify as hate speech.
 
@@ -137,7 +136,8 @@ Source: [Pater, Jessica Annette, et al. "Characterizations of Online Harassment:
 
 Many have pointed to the gap between the publicly available policy on harfmul speech and the internal guidelines that websites provide to their content moderators (this is largely thanks to [leaked internal documents](https://www.theguardian.com/news/series/facebook-files)).These internal guidelines are often very detailed, but they are considered arbitrary by critics who argue that the strict criteria results in instances of harmless speech getting removed while some actually harmful speech is left unmoderated. An [often cited example](https://www.propublica.org/article/facebook-hate-speech-censorship-internal-documents-algorithms) of this is Facebook's leaked rules which classified white men as a protected category but not black children. These rules allowed offensive posts targeting black children to stay online and also resulted in the removing of posts by anti-racist activists that addressed white men. Additionally, there is a gap between the written rules (internal or public) and the [actual practices of content moderators](https://www.wired.com/2014/10/content-moderation/) who are often given only a few seconds to decide if a post should be removed.
 
-See appendex 2 for more details. 
+See Appendix 2 for more details. 
+
 ### Computational approaches to identification, classification, & detection
 
 
@@ -401,5 +401,5 @@ Combinations of existing approaches could also be explored. While some studies h
 eyJoaXN0b3J5IjpbMTcwMjg4NDYzMl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjcyMTMxNDFdfQ==
+eyJoaXN0b3J5IjpbLTIwNDA1OTg4OTddfQ==
 -->
