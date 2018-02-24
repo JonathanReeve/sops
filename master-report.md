@@ -177,7 +177,7 @@ The types of harassment include calling of names (reported by 60% of witnesses) 
 
 The Pew report finds that young women, aged 18-24, are disproportionately targeted in all categories except for those of purposeful embarrassment and the calling of offensive names. [A 2013 report by the WHOA organization](http://www.haltabuse.org/resources/stats/index.shtml) (Working to Halt Online Abuse) echoes this finding. In their analysis of 4,043 self-reported cases of abuse in American from 2000-2013, they find that 70% of victims were female, with a 42% majority between the ages of 18 and 30. The abusers, they find, are more likely to be men (47%) than women (30%). LGB Internet users, as well, are more likely to experience harassment [@lenhart2016online 37]. 
 
-## III. Possible causes of harmful behavior online
+## III. Possible social-psychological causes of harmful behavior online
 
 While theory building on the underlying causes of harmful speech online is generally underdeveloped and often not rigorously proven with empirical research, [@tokunaga2010following], existing social-psychological theories helps us better determine effective forms of intervention. This vein of research is particularly useful in emphasizing the impact that an individual’s harmful speech can have on their social group (including those not directly targeted by the speech), since “cyberbystanders” witnessing of abusive language online impacts their understanding of acceptable online norms. This research then reminds us that when intervening in the name of a safer online public sphere, it is not only the speaker and recipient that we must pay attention to, but also those bystanders and digital onlookers who may also happen to witness the encounter.
 	
