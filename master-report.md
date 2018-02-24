@@ -346,6 +346,7 @@ There are also a few completely different academic disciplines that offer patter
 - Civil Rights Law
 -[Elonis v United States](https://www.supremecourt.gov/opinions/14pdf/13-983_7l48.pdf)
   - [menacing behavior online thrown out by supreme court](http://www.pewresearch.org/fact-tank/2015/06/01/the-darkest-side-of-online-harassment-menacing-behavior/) 
+ 
 ### European Law
 - [Code of Conduct on Countering Illegal Hate Speech Online](ec.europa.eu/justice/fundamental-rights/files/hate_speech_code_of_conduct_en.pdf)
 - [Code of Conduct signed by Facebook, Microsoft, Twitter and YouTube](https://www.theguardian.com/technology/2016/may/31/facebook-youtube-twitter-microsoft-eu-hate-speech-code)
@@ -389,5 +390,5 @@ Combinations of existing approaches could also be explored. While some studies h
 eyJoaXN0b3J5IjpbMTcwMjg4NDYzMl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI1NjQ4NDAzXX0=
+eyJoaXN0b3J5IjpbLTE1NTc0NjE3XX0=
 -->
