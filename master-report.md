@@ -379,9 +379,7 @@ Such an approach of encouraging meta-discussions of the rules by which discussio
 Such a push towards transparency that invites public participation is unlikely, but some of the new tools on Instagram and Twitter are promising and do allow users to become more directly involved with the regulation of the platform. On Instagram users can customize and opt-in to blocking a list of words from comments on their posts, and on Twitter users can share lists of blocked accounts with each other. Both of these new policies bring users closer to direct engagement with the rules of the platform. 
 
 # Appendices and Bibliography
-## Appendix 1: Advocacy Groups
-## Appendix 2: Platforms' Community Standards
-## Appendix 3: Patents
+## Appendix: Patents
 
  - [Patent US5796948 - Offensive message interceptor for computers](https://www-google-com.ezproxy.cul.columbia.edu/patents/US5796948) 
  - [Patent US8868408 - Systems and methods for word offensiveness processing using aggregated...](https://www-google-com.ezproxy.cul.columbia.edu/patents/US8868408) 
