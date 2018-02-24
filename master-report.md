@@ -369,6 +369,11 @@ Another related subfield is credibility detection. Motivated by a desire to crea
 
 Similarly, the subfield of deceptive opinion spam detection attempts to identify fraudulent product reviews on online shopping sites like amazon.com, reviews which are usually funded by the product's creators. [@ott_finding_2011], for instance, construct a "gold-standard" dataset by commissioning fraudulent opinion spam from freelance writers using Amazon Turk, and training a model on that dataset. The resulting classifier is roughly 90% accurate at detecting deceptive opinion spam, while human judges detect it only at around 50%. Some of these techniques (commissioning gold-standard data, for instance) might be applied to the detection of abusive language, as well.
 
+There are also a few completely different academic disciplines that offer patterns of abusive language. Quantitative psycholinguistics, for instance, is interested in the language patterns of psychological conditions such as mental illness and states of heightened emotion. [@gawda_emotional_2013], for instance, for instance, studies narratives written by prison inmates diagnosed with Antisocial Personality Disorder (ASPD), as compared with a control group, and those diagnosed as not having the disorder. They find that emotional words are higher in general among those with ASPD, but negative words, for instance, might have lower than normal scores for narratives that describe hate. When seen in the context of our project of the computational identification of abusive language, this finding suggests that negative words on their own may not be markers of abuse, at least that originating from those with ASPD. Similarly, [@rieber_language_1994], a literature review of "the language of psychopathy" finds that often one of the distinguishing linguistic features of these patients is the _lack_ of emotional markers in certain contexts. Here again, this indicates that strong emotional valence, as measured by sentiment analysis, might not on its own be a useful feature for a categorizer, and that contextually contrasting emotional content might perform better.
+
+
+ 
+
 ## And the Law (Colin)
 ### US Federal Law
 - section 230 of the Communications Decency Act
@@ -457,22 +462,24 @@ Munger found that accounts confronted by the white male twitter bot with a lot o
  - Gettign racists fired
  - Yes you’re racist/sexist
  - Goodbye felipe
+
 # Future Directions
 
-The authors of this paper recommend 
+## Recommendation: a Twitter Bot
 
-## Potential Applications of Related Fields (Jonathan)
+There are many opportunities for improving the computational detection of abusive language, and potentially also for constructing an automated technique for intervention. Since categorizers are most effective when they are domain-specific, a preliminary experiment would focus on a single domain and social media platform. We might choose to begin with Twitter, and with journalism, for instance. The construction of the experiment would proceed according to these steps: 
 
+- Step 1. We would start by compiling a small preliminary corpus of abusive language, gathered from harassed journalists. This corpus wouldn't need to be exhaustive, as it would be augmented later. We would study the corpus to determine the most appropriate features. Twitter metadata (bios, social networks, etc.) could be used, along with linguistic features, including emoji, uppercase, parts-of-speech, or the presence of certain words.
+- Step 2. Using this corpus, we would train a model. The model's features would include all those discussed above: lexical features as well as metatextual features, and also including analytic metrics such as sentiment and formality. The model's categorizers would be selected from a meta-categorization layer, which would select the best performing categorizer. If possible, we could even use existing categorizers, like Jigsaw's Perspective API, in this layer.  
+ - Step 3: Once the model predicts abusive language, which it would do with an associated certainty it reaches out to humans for verification. In particular, it asks the target of the potentially abusive language whether it finds the language to be abusive. "Hi. I'm a friendly abusive language detection bot," it might say. "Was this tweet offensive to you?"
+ - Step 4: Once the human replies, the bot uses this response to learn from the interaction. In this way, positive responses like "yes" would add the tweet to the corpus of abusive language, thereby improving the bot's detection abilities. A response like "no" would have the opposite effect, and a response like "a little" might add the tweet to the corpus in a week or weighted sense. A response like "I'm not sure" wouldn't do any of the above, but might trigger a reeavaluation of the algorithm. 
+ - Step 4.5: Unsolicited submissions of offensive tweets might be accepted from the community. These could also be added to the collection of abusive language, probably after undergoing a human vetting process, and could then be used to improve the feature set. 
 
-### Psycholinguistics
+The process then repeats, learning from each interaction, and regenerating its model accordingly.
 
- - Linguistic properties of emotional speech
- - "Language of psychopathy"
+There are many opportunities here for applications of methods across disciplines. The findings of quantitative psycholinguistics, for instance, are almost never discussed in the categorization experiments discussed in computer science journals. The linguistic properties (proportions of parts-of-speech, for instance) characteristic of the writing of those with certain mental illnesses could be used as potential features, as could be the properties of emotional speech. 
 
-### Fusions of Existing Approaches 
-
- - Formality detection and social network theory
- - Quality ranking
+Combinations of existing approaches could also be explored. While some studies have used formality metrics as features, and others have used social network theory, experiments have not been performed which combine these. There are many more such combinations to be tested. Grid search techniques and parameter tuning could be used to identify the best features for the domain and dataset, and this could even be done dynamically, at each of the bot's iterations. Quality ranking, credibility detection, and malicious spam detection might also be leveraged in some way. 
 
 ## Automated Counterspeech 
 
@@ -483,3 +490,9 @@ The authors of this paper recommend
 ## Appendix 2: Platforms' Community Standards
 ## Appendix 3: Patents
 
+ - [Patent US5796948 - Offensive message interceptor for computers](https://www-google-com.ezproxy.cul.columbia.edu/patents/US5796948) 
+ - [Patent US8868408 - Systems and methods for word offensiveness processing using aggregated...]https://www-google-com.ezproxy.cul.columbia.edu/patents/US8868408) 
+ - [Patent US8473443 - Inappropriate content detection method for senders](https://www-google-com.ezproxy.cul.columbia.edu/patents/US8473443) 
+ - [Patent US7818764 - System and method for monitoring blocked content](https://www-google-com.ezproxy.cul.columbia.edu/patents/US7818764) 
+ - [Patent US20080109214 - System and method for computerized psychological content analysis of ...](https://www-google-com.ezproxy.cul.columbia.edu/patents/US20080109214) 
+ - [Patent US20110191105 - Systems and Methods for Word Offensiveness Detection and Processing Using ...](https://www.google.com/patents/US20110191105) 
