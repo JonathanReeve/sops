@@ -426,3 +426,6 @@ Combinations of existing approaches could also be explored. While some studies h
  - [Patent US7818764 - System and method for monitoring blocked content](https://www-google-com.ezproxy.cul.columbia.edu/patents/US7818764) 
  - [Patent US20080109214 - System and method for computerized psychological content analysis of ...](https://www-google-com.ezproxy.cul.columbia.edu/patents/US20080109214) 
  - [Patent US20110191105 - Systems and Methods for Word Offensiveness Detection and Processing Using ...](https://www.google.com/patents/US20110191105) 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTcwMjg4NDYzMl19
+-->
