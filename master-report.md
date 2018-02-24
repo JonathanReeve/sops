@@ -331,20 +331,6 @@ Similarly, the subfield of deceptive opinion spam detection attempts to identify
 
 There are also a few completely different academic disciplines that offer patterns of abusive language. Quantitative psycholinguistics, for instance, is interested in the language patterns of psychological conditions such as mental illness and states of heightened emotion. [@gawda_emotional_2013], for instance, for instance, studies narratives written by prison inmates diagnosed with Antisocial Personality Disorder (ASPD), as compared with a control group, and those diagnosed as not having the disorder. They find that emotional words are higher in general among those with ASPD, but negative words, for instance, might have lower than normal scores for narratives that describe hate. When seen in the context of our project of the computational identification of abusive language, this finding suggests that negative words on their own may not be markers of abuse, at least that originating from those with ASPD. Similarly, [@rieber_language_1994], a literature review of "the language of psychopathy" finds that often one of the distinguishing linguistic features of these patients is the _lack_ of emotional markers in certain contexts. Here again, this indicates that strong emotional valence, as measured by sentiment analysis, might not on its own be a useful feature for a categorizer, and that contextually contrasting emotional content might perform better.
 
-## And the Law
-
-### US Federal Law
-- section 230 of the Communications Decency Act
-- Civil Rights Law
--[Elonis v United States](https://www.supremecourt.gov/opinions/14pdf/13-983_7l48.pdf)
-  - [menacing behavior online thrown out by supreme court](http://www.pewresearch.org/fact-tank/2015/06/01/the-darkest-side-of-online-harassment-menacing-behavior/) 
- 
-### European Law
-- [Code of Conduct on Countering Illegal Hate Speech Online](ec.europa.eu/justice/fundamental-rights/files/hate_speech_code_of_conduct_en.pdf)
-- [Code of Conduct signed by Facebook, Microsoft, Twitter and YouTube](https://www.theguardian.com/technology/2016/may/31/facebook-youtube-twitter-microsoft-eu-hate-speech-code)
-### International Law
-- International Covenant on Civil and Political Rights (ICCPR)
-
 # Future Directions
 
 ## Recommendation: a Twitter Bot
