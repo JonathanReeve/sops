@@ -131,6 +131,19 @@ Federal Criminal Law related to [stalking](https://www.law.cornell.edu/uscode/te
 
 Other laws people have tried using to prosecute online abuse includes defamation,copright (for non-consensual porn), harassment, coercion, menacing. Hate crime laws are hard to use because hate crime requires that another specific offense be comitted against someone that is motivated due to an immutable characterstic.  
 
+#### EU's Framework 
+
+The European Union has a [“Framework Decision on combating certain forms and expressions of racism and xenophobia by means of criminal law.”](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=LEGISSUM%3Al33178)  In 2016 a [cooperative agreement](https://www.theguardian.com/technology/2016/may/31/facebook-youtube-twitter-microsoft-eu-hate-speech-code) was reached between private online platforms and the European Commission to regulate hate speech on the websites. 
+The framework defines hate speech as containing one of the following three elements:
+
+  - “public incitement to violence or hatred directed against a group of persons or a member of such a group defined on the basis of race, colour, descent, religion or belief, or national or ethnic origin;
+
+  - the above-mentioned offence when carried out by the public dissemination or distribution of tracts, pictures or other material;
+
+  - publicly condoning, denying or grossly trivialising crimes of genocide, crimes against humanity and war crimes as defined in the Statute of the International Criminal Court (Articles 6, 7 and 8) and crimes defined in Article 6 of the Charter of the International Military Tribunal, when the conduct is carried out in a manner likely to incite violence or hatred against such a group or a member of such a group.”
+
+In (Germany)[https://www.theguardian.com/media/2017/jun/30/germany-approves-plans-to-fine-social-media-firms-up-to-50m] big social media platforms are facing fines for failing to take down content that violates their laws fast enough. 
+
 ### Industry approaches
 
 Most social media sites have a bifurcated approach to presenting their policy on harmful speech to their users. On the one hand, their formal documents such as the terms of service tend to broadly prohibit harassment on the site, but these formal documents rarely elaborate on what constitutes harassment. On the other hand, the websites’ informal documentation such as ‘community guidelines’ will go into more detail about what constitutes misconduct on the website, but falls short of formally defining harassment, giving the websites lee-way to determine what sort of content they remove. In both the formal and informal policy of social media platforms, harassment is usually lumped together with other prohibited activity such as spamming and hacking. 
