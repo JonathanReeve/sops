@@ -1,6 +1,7 @@
 ---
 title: A Safer Online Public Square
 authors: Jonathan Reeve, Colin Muller
+bibliography: bibliography.bib
 ---
 
 # Introduction 
@@ -300,7 +301,7 @@ Choosing what constitutes a word, and defining its boundaries, is an important f
 
 Normalization often also involves domain- or platform-specific transformations. Treating emoji as words, for instance, or transforming them into words with sentiment valence, often greatly influences the outcomes of sentiment analysis. (See, for example, [@castillo_predicting_2013, samghabadi_detecting_2017]). Collapsing obfuscated words, like transforming "w o r d" into "word," and "ta$k into "task," also proved to be useful to participants in the Kaggle contest, [Detecting Insults in Social Commentary](https://www.kaggle.com/c/detecting-insults-in-social-commentary). Related normalization techniques involve expanding abbreviations such as "r u" into "are you," and collapsing long vowel representations, transforming "coooooool" into "cool." 
 
-The results of this tokenization and normalization are language features in the form of n-grams. These features are then vectorized and weighted using a variety of techniques. In some cases, binary representations of words are used (either 1 or 0 for the presence or absence of a word in a document, see [@sood_automatic_2012]), but more frequently, term frequencies are used (ratios of the words in each document), and even more frequently, TF-IDF, or term frequencies adjusted for inverse document frequencies (see [@samghabadi_detecting_2017, @diakopoulos_editors]). These vectorizations are often used in statistical studies of linguistic style (stylometry) and are sometimes considered proxies for the stylistic fingerprints of individual or authorial voices. However, the limitation of these vectors is that they require a critical mass of text (>500 words) for term frequencies to be statistically practical. 
+The results of this tokenization and normalization are language features in the form of n-grams. These features are then vectorized and weighted using a variety of techniques. In some cases, binary representations of words are used (either 1 or 0 for the presence or absence of a word in a document, see [@sood_automatic_2012]), but more frequently, term frequencies are used (ratios of the words in each document), and even more frequently, TF-IDF, or term frequencies adjusted for inverse document frequencies (see [@samghabadi_detecting_2017, @diakopoulos_editors_2015]). These vectorizations are often used in statistical studies of linguistic style (stylometry) and are sometimes considered proxies for the stylistic fingerprints of individual or authorial voices. However, the limitation of these vectors is that they require a critical mass of text (>500 words) for term frequencies to be statistically practical. 
 
 Other vectorization techniques take into account the meanings or functions of the words. Word embeddings, for instance, transform words into high-dimensional vectors that encode the probabilities of their co-occuring with other words in a large corpus. Embeddings from the [Stanford GloVe vectors](https://nlp.stanford.edu/projects/glove), for instance, encode semantic information into high-dimensional vectors. 
 
@@ -328,13 +329,13 @@ More recent approaches to sentiment analysis attempt to mitigate the domain prob
 
 While many of the computational approaches described thus far have been concerned with detection of abusive speech through content analysis, metadata provides, in many cases, an even more useful feature set for categorization. Of course, the number and availability of these features is entirely dependent on the platform. Sites like Reddit provide comment upvote/downvote data, which sites like Twitter lack. Similarly, sites like Twitter provide data on the social networks of its users, which are missing on sites like Reddit. Metatextual features from a corpus of online news comments include the response times of comments to the news story and the "engagement" provoked by comments (i.e., the number of child comments) [@brand_comment_2014]. [@castillo_predicting_2013], for instance, find that the presence of a Twitter user's self-description ("bio") correlates strongly with the likelihood of their authoring abusive tweets.
 
-For those sites that provide public data about the social networks of its users, social network analysis is a useful tool in these categorization experiments. [@agichtein_finding_2008], for instance, in their analysis of Yahoo answers social relations, find social network analysis and trust propogation to be useful in predicting the quality of an answer. For more on trust propogation, see [@ortega_propogation_2012] and [@rowe_assessing_2009]. 
+For those sites that provide public data about the social networks of its users, social network analysis is a useful tool in these categorization experiments. [@agichtein_finding_2008], for instance, in their analysis of Yahoo answers social relations, find social network analysis and trust propogation to be useful in predicting the quality of an answer. For more on trust propogation, see [@ortega_propagation_2012] and [@rowe_assessing_2009]. 
 
 A related subfield to these deals with the detection of paid malicious opinion manipulation "trolls." In this area, metatextual data is very predictive of trolls: as employees, their posts happened from 9-5, Monday through Friday [@mihaylov_exposing_2015]. The reply status of potential trolls, and the time of their replies were also strongly predictive factors. In cases where trolling is automated, [some Twitter users](https://twitter.com/conspirator0/status/900158823515770880) have pointed out that malicious Twitter accounts are likely to be named with similar patterns, for example, eight random digits. These patterns are so widespread that the service [Twitter Audit](https://www.twitteraudit.com/) offers to tell you the proportion of your followers that are real and fake. 
 
 Some sites, like Twitter, maintain hidden tweet metadata, such as data about their users' operating systems, that could help to identify automated trolls. At least 10% of the #Gamergate tweets were written by accounts running bot operating systems, for instance. These could be used to easily identify malicious bots. For more on troll detection, see [@mihaylov_finding_2015, @ortega_propagation_2012, and @kumar_accurately_2014]. 
 
-Another related subfield is credibility detection. Motivated by a desire to create a filter for "fake news" or politically motivated misinformation, credibility detection uses machine-learning models trained on manually-annotated corpora do distinguish between credible and discreditable information. Using a training corpus of tweets labeled by volunteers as likely or unlikely to be true, [@castillo_predicting_2003] test a variety of features and methods for classification. They find that the features which best predict credible tweet threads include: the average number of tweets posted by authors of tweets in that topic in the past, the average number of followers of the authors, the sentiment scores of the tweets, and whether the tweets contain a URL, emoticons, punctuation, or first-person pronouns (575).  
+Another related subfield is credibility detection. Motivated by a desire to create a filter for "fake news" or politically motivated misinformation, credibility detection uses machine-learning models trained on manually-annotated corpora do distinguish between credible and discreditable information. Using a training corpus of tweets labeled by volunteers as likely or unlikely to be true, [@castillo_predicting_2013] test a variety of features and methods for classification. They find that the features which best predict credible tweet threads include: the average number of tweets posted by authors of tweets in that topic in the past, the average number of followers of the authors, the sentiment scores of the tweets, and whether the tweets contain a URL, emoticons, punctuation, or first-person pronouns (575).  
 
 Similarly, the subfield of deceptive opinion spam detection attempts to identify fraudulent product reviews on online shopping sites like amazon.com, reviews which are usually funded by the product's creators. [@ott_finding_2011], for instance, construct a "gold-standard" dataset by commissioning fraudulent opinion spam from freelance writers using Amazon Turk, and training a model on that dataset. The resulting classifier is roughly 90% accurate at detecting deceptive opinion spam, while human judges detect it only at around 50%. Some of these techniques (commissioning gold-standard data, for instance) might be applied to the detection of abusive language, as well.
 
@@ -356,7 +357,7 @@ There are also a few completely different academic disciplines that offer patter
 ## Inoculation 
  Inoculation is a long-term method for fighting against hate speech that takes some time. It involves instilling values in a society that oppose hate speech, and deals especially with building the social-psychological tools necessary so that groups of people don't fall victim to the pressures of engaging in hate speech or being incited by it. 
  - An example of a group that deals with Inoculation is Radio la Benevolencija (RLB) a dutch nonprofit that produces entertainment for countries in central africa that deals with the psychology underlying incitement to hate and violence.
- - [Citron and Norton](http://web.a.ebscohost.com.ezproxy.cul.columbia.edu/ehost/pdfviewer/pdfviewer?vid=1&sid=1c840371-b7ff-4ba7-a74e-8848b5bae30a%40sessionmgr4008) suggest that internet intermediaries and society at large  (especially public schools) play a stronger role in fostering digital citizenship   
+ - [Citron and Norton](http://web.a.ebscohost.com.ezproxy.cul.columbia.edu/ehost/pdfviewer/pdfviewer?vid=1&sid=1c840371-b7ff-4ba7-a74e-8848b5bae30a%40sessionmgr4008) suggest that internet intermediaries and society at large (especially public schools) play a stronger role in fostering digital citizenship
 
 ## Calling out & doxxing
  - Gettign racists fired
@@ -383,14 +384,15 @@ Combinations of existing approaches could also be explored. While some studies h
 
 ## Automated Counterspeech 
 
-## Bibliography 
 ## Appendix 1: Advocacy Groups
 ## Appendix 2: Platforms' Community Standards
 ## Appendix 3: Patents
 
  - [Patent US5796948 - Offensive message interceptor for computers](https://www-google-com.ezproxy.cul.columbia.edu/patents/US5796948) 
- - [Patent US8868408 - Systems and methods for word offensiveness processing using aggregated...]https://www-google-com.ezproxy.cul.columbia.edu/patents/US8868408) 
+ - [Patent US8868408 - Systems and methods for word offensiveness processing using aggregated...](https://www-google-com.ezproxy.cul.columbia.edu/patents/US8868408) 
  - [Patent US8473443 - Inappropriate content detection method for senders](https://www-google-com.ezproxy.cul.columbia.edu/patents/US8473443) 
  - [Patent US7818764 - System and method for monitoring blocked content](https://www-google-com.ezproxy.cul.columbia.edu/patents/US7818764) 
- - [Patent US20080109214 - System and method for computerized psychological content analysis of ...](https://www-google-com.ezproxy.cul.columbia.edu/patents/US20080109214) 
+ - [Patent US20080109214 - System and method for computerized psychological content analysis of...](https://www-google-com.ezproxy.cul.columbia.edu/patents/US20080109214) 
  - [Patent US20110191105 - Systems and Methods for Word Offensiveness Detection and Processing Using ...](https://www.google.com/patents/US20110191105) 
+
+## Bibliography 
