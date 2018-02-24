@@ -70,14 +70,8 @@ Source: [HeartMob](https://iheartmob.org/pages/faqs#online-harassment)
    
    Dangerous speech is a form of online abuse that has high stakes. Susan Benesch characterizes it as “speech that can inspire or catalyze intergroup violence.” The speaker of dangerous speech often hold positions of power with influence over a large base. The audience dangerous speech is addressed to often hold “grievances and fear that the speaker can cultivate,” and the speech plays on this in order to call on that group to act violently. Dangerous speech is most likely to occur in social or historical contexts that are already marked by or susceptible to violence, such as situations of civil war. 
    
-   Source: [Counterspeech on Twitter: A Field Study](https://dangerousspeech.org/counterspeech-on-twitter-a-field-study/) & http://www.worldpolicy.org/sites/default/files/Dangerous%20Speech%20Guidelines%20Benesch%20January%202012.pdf 
+Source: [Counterspeech on Twitter: A Field Study](https://dangerousspeech.org/counterspeech-on-twitter-a-field-study/) & http://www.worldpolicy.org/sites/default/files/Dangerous%20Speech%20Guidelines%20Benesch%20January%202012.pdf 
 
- - Abuse of journalists
-   - "Gamergate"
- - Related language patterns that, while not strictly abusive language, could be useful to its detection
-   - Misinformation (e.g. Russian fake news)
-   - Deceptive opinion spam (e.g. fake Amazon product reviews) 
-   
 #### Alternative approaches to classifying harfmul speech:
 ##### Implicit v. Explicit & Generalized v. Directed Abusive Language 
 
@@ -100,8 +94,6 @@ Self-directed harmful speech includes online posts that depict eating disorders 
  
  Harfmul speech between an "in-group" includes things like a private message channel where racists exchange racist messages about a group of people who are not a part of the message channel. Upon first consideration this speech may seem more like private thought than it does speech in the public realm (this is how some legal scholars frame it), but such conversation can have real life consequences on the well being of those discussed such as in private [message forums where doxxing information is collected](https://theintercept.com/2017/09/06/how-right-wing-extremists-stalk-dox-and-harass-their-enemies/) 
    
-   
-
 ### Legal approaches
 
 #### Justice Stewart's rule: “I know it when I see it”
