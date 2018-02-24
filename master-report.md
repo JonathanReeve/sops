@@ -44,7 +44,7 @@ There are many categories of speech that fall under the umbrella of harmful spee
 
 ### i. Taxonomies and definitions
 
-There is significant corpus of writing which attempts to formulate a definition and taxonomy of harmful speech online. These classifications will often vary based on the purpose of the definition which varies from academic research, legal recommendations, or advocacy. These different purposes result in varying breadth and scope of definitions, and disagreement over definitions is one of the main challenges in compiling data from different sources on the frequency of harmful speech online (as the specific behavior being monitored in different studies varies widely). Despite these challenges, it is useful to outline the different categories of harmful online behavior, as these different types manifest themselves differently and will require different approaches for intervention.
+There is significant corpus of writing which attempts to formulate a definition and taxonomy of harmful speech online. These classifications will often vary based on the purpose of the definition which varies from academic research, legal recommendations, or advocacy. These different purposes result in varying breadth and scope of definitions, and disagreement over definitions is one of the main challenges in compiling data from different sources on the frequency of harmful speech online (as the specific behavior being monitored in different studies varies widely). Despite these challenges, it is useful to outline the different categories of harmful online behavior, as these different types manifest themselves differently and will require different approaches for intervention. Several organizations also have lists describing sub-categories and the different forms online abuse can take. The most exhaustive lits are from [Women’s Media Center](www.womensmediacenter.com/speech-project/online-abuse-101/) and the [Digital Rights Foundation](https://digitalrightsfoundation.pk/wp-content/uploads/2017/07/Cyber-Harassment-Helpline-Six-Month-Report.pdf).
 
 #### Hate speech
  
@@ -200,101 +200,106 @@ Studies in temporal clustering demonstrate the role of peer-influence on harmful
 Political psychologists Nyhan and Reifler have researched the “backfire effect” where attempts at correcting misconceptions or misinformed beliefs results in firmer beliefs in the misconception [@nyhan2010corrections]. It is important to consider the backfire effect in looking at effective forms of intervention/counterspeech, since often presenting facts or engaging in logical/reasoned debate is not the most effective strategy. Rather than being swayed be reasoned fact-based challenges to their views, individuals will become further entrenched in their views and even incorporate the contrary speech into their world view. A similar psychological phenomenon is “motivated reasoning” where people make a strong effort to support the conclusions they seek despite being exposed to contradictory facts
 
 ## IV. Approaches to Intervention and Reporting
-### i. Organizations 
+ 
+
+### i. Organizations and Advocacy Groups
+A number of organizations exist to study and combat harassment, hate speech, and related phenomena. There are a number of approaches taken by these group including education, legal or psychological resources, group support, legal aid, and direct action. Most organizations employ a variety of these approaches. 
+
+Most groups publish educational material including studies and reports on online harassment’s different forms, its adverse effects, and ways to mitigate such speech. Such organizations include the [Women’s Media Center’s Speech Project](http://wmcspeechproject.com/) and [Take Back the Tech](https://www.takebackthetech.net/about). Additionally, the Berkman Klein Center for Internet and Society at Harvard is in its third year of its [“Harmful Speech Online”](https://cyber.harvard.edu/node/99203) project which has yielded several valuable publications. Groups also provide education on how to secure online identities to prevent or limit online harassment—this includes employing cybersecuirty measures to prevent hacking, doxxing, and leaking of nonconsensual pornography. Such groups include HackBlossom a DIY feminist cybersecurity group and HeartMob’s [Technical Safety Guide](https://iheartmob.org/resources/tech). Heart mob also has detailed [Social Media Safety Guides](https://iheartmob.org/resources/safety_guides) for  Facebook, Twitter, Reddit, Tumblr, and Youtube. They also have an extensive [Supportive Organizations](https://iheartmob.org/resources/supportive_organizations) page.
+
+Organizations also publish legal and psychological resources for individuals trying to cope with and mitigate the effects of harassment. These resources include the anti-harassment non-profit Without My Consent’s [page](http://withoutmyconsent.org/50state) which outlines laws in all 50 states and federal level that could be used to prosecute various forms of online harassment. Without My Consent’s 50 State Project also summarizes lawsuits related to those laws and their outcomes. 
+
+Beyond providing resources for targets of harassment, some groups have professional or amateur support networks. [Online SOS](http://onlinesosnetwork.org/) and [Cybersmile](https://www.cybersmile.org/) for example has professional support that provides crisis coaching that helps people document and cope with harassment and seek legal and/or psychological counsel. Similarly, human rights activist Nighat Dad founded the Digital Rights Foundation in Pakistan which has a cyberharassment helpline that provides support and walks callers through the steps of filing legal complaints—they published a [report](https://digitalrightsfoundation.pk/wp-content/uploads/2017/07/Cyber-Harassment-Helpline-Six-Month-Report.pdf) outlining the nature of the calls they received in 2016-17. Instead of solely providing professional advice, Heartmob (established by anti-harassment group Hollaback) is a platform that creates a community of individuals who provide support for others targeted by harassment. Heartmob’s [site](https://iheartmob.org/) allows people to tell their story and receive “understanding messages, helpful resources, and practical assistance.” The Cyber Civil Rights Initiative conducts legal research on online harassment and even provides model legislation for drafting [“revenge porn” laws](https://www.cybercivilrights.org/guide-to-legislation/).
+
+A slightly more controversial approach is taken by popular social media accounts that call out online abuse. This includes the twitter and instagram accounts Yes You’re Racist, Yes You’re Sexist, and Bye Felipe. These accounts retweet or post screen shots of racist or sexist tweets, sometimes with the name of the account name of the person being called out. While some are critical of this approach in the name of protecting the person being amplified by these accounts, most of the things they are reposting were already posted online publicly. Even more controversial is the Tumblr blog “Racists Getting Fired” which posts screenshots of racist posts made on social media along with the poster’s employer’s info so that people contact the company to get them fired. The blog came under heat from the Washington Post for being a form of undiscerning internet vigilantism that on at least one occasion has gotten innocent people fired. The blog has a [page](http://racistsgettingfired.tumblr.com/tagged/GOTTEN) where they outline their successes. 
+
+
+
 ### ii. Initiatives by Social Media Platforms  
+
+Most social media platforms have similar approaches to removing abusive content, relying on a mix of flagging by users and detection software. As discussed above, most sites have vaguely worded terms of service and community standards that prohibit harmful speech without explicitly defining it, and once a post is flagged moderators determine whether or not to delete a post based on private, internal regulation. 
+
+When sites decide not to remove the content, they still provide users with the options of blocking, unfriending, or muting the poster or hiding the individual post/comment. Beyond these options, sites have developed advanced and creative approaches that are available to users. 
+
+Twitter launched a feature where users can export lists of people they’ve blocked and share them this list with friends who wish to block the same people. Twitter explained that the feature is for “those who experience high volumes of unwanted interactions on Twitter [and] need more sophisticated tools. That’s where this new feature comes in. You can now export and share your block lists with people in your community facing similar issues or import another user’s list into your own account and block multiple accounts all at once, instead of blocking them individually.”](https://blog.twitter.com/official/en_us/a/2015/sharing-block-lists-to-help-make-twitter-safer.html).
+
+Instagram introduced an option where users can [“Enable Offensive Comment Filter”](https://help.instagram.com/700284123459336). Users can also create a customized list of keywords they want filtered out of posts (this includes emojis). Users can also choose to use Instagram’s default keywords.  Instagram also has a feature which allows users to anonymously report friends’ posts that suggest self-harm. Once they are reported Instagram sends the reported user a message of support that includes a phone number to a help line. 
+
+Instagram (along with Tumblr) seem to be the most proactive in fostering a safe and kind environment on their social media websites. While other websites emphasize their commitment to free expression, instagram instead emphasizes their [desire for the platform to be safe, kind, and inclusive](https://www.wired.com/2017/08/instagram-kevin-systrom-wants-to-clean-up-the-internet/). Therefore they don't shy away from asserting their right as a platform to remove or boost certain posts. Instagram launched a #KindComments campaign in 2017 where they encouraged users to generate kind content. The campaign also involved comments identified as kind being made more visible to other users. Instagram and Tumblr both seem to also be more proactive about connecting their users with mental health and anti-bullying resources.
+
+It is interesting to note that while Facebook owns instagram, many of the initiatives launched on instagram have not been transferred to Facebook. This is at least partially due to Instagram’s younger user base.
+
+In response to what the far-right characterizes as an assault on free speech, the social media website Gab.ai was founded with the purpose of creating “Free Speech for Everyone.” Their logo is a frog, reminiscent of the alt-right icon Pepe the frog, and they have primarily drawn in far right members with a good deal of racist, sexist, and xenophobic content. It has been described as the far right’s [“digital safe space”](https://www.nytimes.com/2016/11/30/arts/the-far-right-has-a-new-digital-safe-space.html)
+
+HeartMob has introduced detailed [Social Media Safety Guides](https://iheartmob.org/resources/safety_guides) for 5 of the most used social media platforms (Twitter, Facebook, Tumblr, Reddit, and Youtube). They worked closely with staff from all five platforms in preparing the reports. 
+
+
 ### iii. Counterspeech 
 
-# Existing Approaches to Intervention
-## Organizations 
-### Advocacy Groups (Colin and Jonathan)
+Counter Speech can address the perpetrator of hate speech or the cyber bystanders whose discourse norms are shaped by seeing hate speech go uncontested. For hateful speakers with deeply ingrained hate, counter speech is less effective, but it can still alter their discourse to be less overtly hateful which in itself can also positively affect the cyber bystanders.
 
- - Working to Halt Online Abuse
- - No Hate Speech Movement
- - Etc...
+The guiding principle of counterspeech is the liberal ideal that more speech is the best remedy to harmful speech. This is partially informed by the idea that if you delete hateful content from one platform that there is always somewhere else to go (I’m not sure this is totally convincing).
 
-A number of organizations exist to study and combat harassment, hate speech, and related phenomena. The [Women's Media Center Speech Project](http://wmcspeechproject.com/) studies and reports on "the underrepresentation and misrepresentation of women in the media," including online harassment of women. 
-- [Crash Override Network](http://www.crashoverridenetwork.com/)
-   - Crash Override Network provides a hotline for crisis support and assistance to the targets of online harassment. They also engage in community outreach and education. It was founded by Zoe Quinn, a game developer who was one of the first targets of GamerGate. They also work with tech companies and government officials to better protect against online harassment.   
-- [Trollbusters](www.troll-busters.com)
-   - TrollBusters is a global, collaborative campaign project dedicated to helping journalists that are under attack. It calls itself "Online Pest Control for Women Writers.” Someone being harassed can send a message to TrollBusters who will respond by flooding their feed with positive, supportive messages to serve as a counternarrative to the harassment. They also provide resources that give some legal and psychological guidance to women authors.They are also developing software to identify and ‘out’ trolls. In 2015 it won a top prize at the International Women’s Media Foundation hackathon.
-   - learn more [here](https://yoursosteam.wordpress.com/) and [here](https://www.cjr.org/analysis/the_invaluable_service_of_trollbuster.php)
-- [Take Back the Tech](https://www.takebackthetech.net/about) 
-    - “a global, collaborative campaign project that highlights the problem of tech-related violence against women, together with research and solutions from different parts of the world. The campaign offers safety roadmaps and information and provides an avenue for taking action. Take Back the Tech! leads several campaigns at various points in the year, but our biggest annual campaign takes place during 16 Days of Activism Against Gender-Based Violence (25 Nov - 10 Dec).”
-    - play on Take back the night
-- [Cybersmile](https://www.cybersmile.org/)
-    - anti cyberbullying group that provides 24/7 trained support for people who were cyberbullied. They also have educational resources.
-- [Digital-Trust](http://www.digital-trust.org/)
-    - “Digital-Trust brings together technologists and professionals working with victims and vulnerable people to understand evolving risks and address digital abuse. We provide technical expertise to victims, charities, support groups and organisations working within the criminal justice system as well as directly to people experience digital abuse.”   
-- [Online SOS](http://onlinesosnetwork.org/)
-    - Online SOS is a nonprofit providing confidential, professional support to individuals experiencing online harassment. They  provide Crisis coaching which includes helping targets of harrasment document their experince and Referral to experts (legal and psychological)
--[Tactical Tech](http://www.tacticaltech.org/)
-    - "Founded in 2003, Tactical Tech is a non-profit that has been working worldwide to demystify and promote technology in the context of activism for over a decade. Working at the intersection of tech, activism and politics, Tactical Tech reaches more than three million people worldwide annually through events, training, online resources and exhibitions. We are an international group of technologists, activists, designers and practitioners based in Berlin, who work with citizens, journalists and activists to raise awareness about personal data, privacy and digital security."
+#### Recommended Strategies
+- Warning of consequences
+  - Remind speaker of harm done by speech
+  - Remind of offline consequences and the permanence of online communication
+  - Remind of online consequences (blocking, reporting, suspended account)
+  - Mainly effective at getting hate speech deleted and doesn't necessarily change speakers POV
+- Shaming and Labeling
+  - Labeling the speech (not speaker) as bigoted, misogynist, etc
+  - Helpful to cyberbystanders
+  - Speaker ‘may not have known’ so it is better not to make a personal attack and to only to label the speech has harmful
+- Empathy and Affiliation
+  - Change the tone to friendly, empathetic or peaceful
+  - Affiliate with speaker and establish a connection (ex: I am also a conservative, but…)
+  - Affiliate with targeted group (ex: what you said hurt me as an asian…)
+  - Changing the tone is more effective when the speaker affiliates with counterspeaker
+- Humor
+  - Neutralize hateful speech that is seen as dangerous and intimidating
+  - Attract larger audience to the counterspeech’s message
+  - Use humor to soften the message of counterspeech that could otherwise come off as hostile or aggressive (ex: [it’s time to stop posting cat](http://images.wikia.com/glee/images/c/c7/Imgur_gallery_hZSfl_It%27s_Time_to_Stop_Posting.jpg))
+- Images
+  - Can make counterspeech more viral
+  - Counterspeech is generally more effective when it is emotive rather than rational/logical so images can be a good way to “send people along emotive pathways”
 
-    
-    
-#### Call out groups
- - [Racists Getting Fired](http://racistsgettingfired.tumblr.com/)
-   - Blog that posts screenshots of racist posts made on social media along with the poster’s employer’s info so that people contact the company to get them fired
-   - [these](http://racistsgettingfired.tumblr.com/tagged/GOTTEN) are the posts that have resulted in successful firings
-   - The blog has been [criticized](https://www.washingtonpost.com/news/morning-mix/wp/2014/12/02/racists-getting-fired-exposes-weaknesses-of-internet-vigilantism-no-matter-how-well-intentioned/?utm_term=.77ffbcfddeae) by some for being a form of undiscerning internet vigilantism that on occasion has gotten innocent people fired 
-- [Yes You’re Racist](https://twitter.com/yesyoureracist)
-  - Twitter account that Identifies and retweets racist content (not a bot). A lot of the tweets they find start off with “I’m not racist but…”
-- [Yes You’re Sexist](https://twitter.com/YesYoureSexist)
-  - Twitter account that identifies and retweets sexist content (not a bot). A lot of the tweets they find start off with “I’m not sexist but…”. Inspired by @yesyoureracist
-- [EverydaySexism](https://twitter.com/EverydaySexism)
-  - “Documenting experiences of sexism,harassment and assault to show how bad the problem is &create solidarity.” 
-- [Bye Felipe](http://instagram.com/byefelipe)
-  - Alexandra Tweten started Bye Felipe on Instagram in October 2014. The idea came from a discussion between women in a private Facebook group about terrible messages women receive from men when they say they aren't interested. Dozens of women posted screenshots of messages they had received and Alexandra decided to gather them all and post them on Instagram.
+#### Discouraged Strategies
+- Hostile or aggressive tone and insults
+  - Can cause backfire or speaker to dig in their heels
+- Fact-checking
+  - Fact checking may sway cyber bystanders, but it is unlikely to influence original speaker
+  - Speaker will find a way to fit the new facts presented to the conclusions they are already committed to
+    - Social psychologists call this the backfire effect where challenging someone’s views with facts leads them to hold those views even more firmly
+  - Pointing out hypocrisy can be good for bystanders but usually not for speaker 
+- Harassment and Silencing
 
+#### Successful counterspeech is indicated by: 
+- Speaker shifts their discourse if not also their beliefs 
+- Speaker apologizes, recants, or deletes original hate speech
+- Discourse norms of the cyberbystanders are positively affected
+- Hate speech narratives delegitimized (even if speaker is not swayed)
+- More counter speech is elicited from the audience (this is good until it turns into harassment/dogpiling) 
 
-#### Legal Aid
+#### Types
 
-- [Cyber Civil Rights Initiative](https://www.cybercivilrights.org/welcome/)
-  - Founded by Holly Jacobs, CCRI serves serving thousands of victims of Non Consensual Porn (NCP) and advocates for technological, social, and legal innovation to fight online abuse.
-  
-- [Digital Rights Foundation](https://digitalrightsfoundation.pk) 
-  - based in Pakistan, aims to strengthen protections for human rights defenders (HRDs), with a focus on women’s rights, in digital spaces through policy advocacy & digital security awareness-raising.
-  - founded by lawyer and human rights activist [Nighat Dad](https://twitter.com/nighatdad) 
-  - They have a cyberharassment helpline and between december 1 2016 and may 31 2017 they received 763 complaints in the form of calls emails and facebook messages. This [report](https://digitalrightsfoundation.pk/wp-content/uploads/2017/07/Cyber-Harassment-Helpline-Six-Month-Report.pdf) goes through nature of all these complaints, 
-  
-- [Without My Consent](http://www.withoutmyconsent.org)
-  - WMC provides legal and psychological resources for people who want to fight back against online harassment and privacy violations
-  - Founded by lawyer [Erica Johnstone](https://twitter.com/ericajstone)
-  - Their twitter page links to good weekly roundup of legal and social news related to non consensual pornography https://twitter.com/withoutconsent 
-  - They surveyed 359 people about their experience with online Stalking, Harassment and Violations of Privacy http://www.withoutmyconsent.org/blog/weve-got-data
-  
-#### Education (Colin)
-
-- [Radio La Benevolencija](www.labenevolencija.org)
-  - Radio La Benevolencija Humanitarian Tools Foundation (La Benevolencija) is a Dutch NGO that empowers groups and individuals who are the target of hate speech and ensuing acts. It broadcasts radio soaps, discussions and educational programmes, in combination with grass roots activities that provide citizens in vulnerable societies with knowledge on how to recognise and resist manipulation to violence and how to heal trauma, encouraging them to be active bystanders against incitement and violence. 
-  - Uses entertainment that deals with the psychology of incitement to hate and violence in order to inoculate against hate speech and mass conflict
-- [HackBlossom](https://hackblossom.org/)
-  - Hack Blossom provides educational resources and training for DIY feminist cybersecuirty with a focus on how to secure one's devices and digital identity to prevent and limit domestic abuse and harassment online
-  - [DIY Cybersecurity for Domestic Violence](https://hackblossom.org/domestic-violence/)
-  - [A DIY Guide to Feminist Cybersecurity](https://hackblossom.org/cybersecurity/)
-- [Diverse Gaming Coalition](http://diversegaming.co/)
-    - a non profit fighting against online harassment in gaming. Their advocacy includes talks, workshops, streaming, gaming, and partner projects.  
-    
-- [WomensLaw](womenslaw.org)
-    - Website with legal resources about a variety of laws related to women, especially related to domestic violence and other gender-based violence. They have information about cyberstalking and links to ways to stay safe while using technology.
-
-### Initiatives by Social Media Platforms
-
-#### Instagram #KindComments
-
-Instagram (along with Tumblr) seem to be the most proactive in fostering a safe and kind environment on their social media websites. While other websites emphasize their commitment to free expression, instagram instead emphasizes their desire for the platform to be safe, kind, and inclusive. Therefore they don't shy away from asserting thier right as a platform to remove or boost certain posts. On Instagram users can anonymously report live videos and the person live-streaming will receive a notification with resources to mental health hot-lines and other resources. They also have an option in the application for users to “Hide Offensive Comments” which uses a filter to “automatically hide comments on your posts that may be offensive,” and users can also “Hide comments on your posts that contain specific words or phrases.” Instagram also launched a #KindComments campaign where they are encouraging users to generate kind content. Instagram and Tumblr both seem to be more proactive about connecting their users with mental health and anti-bullying resources. 
-
-Source: http://blog.instagram.com/post/162395020002/170629-comments & https://www.wired.com/2017/08/instagram-kevin-systrom-wants-to-clean-up-the-internet/ 
- - Official policies of Facebook, Twitter
- - Twitter's "progress on addressing online abuse"
- - Implementations of Perspective API on Facebook, Reddit
- - New social media outlets (Mastodon) created with these problems in mind
- - Moderation, flagging
+A useful method of typologizing harmful speech online is by distinguishing between the types of exchanges (vectors). (This is based on the models put forward in Counterspeech on Twitter: A Field Study)
  
-#### [Gab.ai](https://gab.ai/): The far-right's new social media platform
- - Gab.ai is a social media website founded with the purpose of creating “Free Speech for Everyone.” Their logo is a frog, reminiscent of the alt-right icon Pepe the frog, and they have primarily drawn in far right members with a good deal of racist, sexist, and xenophobic content. It has been described as the far right’s [“digital safe space”](https://www.nytimes.com/2016/11/30/arts/the-far-right-has-a-new-digital-safe-space.html)
+ - One-to-one: one person deploying counterspeech against one person’s hate speech
+ - One-to-many: one person deploying counterspeech against many people’s hate speech
+ - Many-to-one: many people deploying counterspeech against one person’s hate speech
+ - Many-to-many: many people deploying counterspeech against many people’s hate speech
+ 
+Source: 
+- [Counterspeech on Twitter: A Field Study, by Susan Benesch, Derek Ruths, Kelly Dillon, Haji Mohammad Saleem, and Lucas Wright](https://dangerousspeech.org/counterspeech-on-twitter-a-field-study/)
+- [Considerations for Successful Counterspeech,  by Susan Benesch, Derek Ruths, Kelly Dillon, Haji Mohammad Saleem, and Lucas Wright](https://dangerousspeech.org/considerations-for-successful-counterspeech/)
 
-source: https://www.theguardian.com/media/2016/nov/17/gab-alt-right-social-media-twitter
+ 
+####  Kevin Munger's Study as an example of counterspeech: [Tweetment Effects on the Tweeted: Experimentally Reducing Racist Harassment](https://link.springer.com/article/10.1007/s11109-016-9373-5)
+ 
+ Kevin Munger conducted a study where he identified 231 twitter accounts operated by white men that regularly used racial slurs against black twitter accounts. Munger created a variety of twitter ‘bots’ with different amounts of followers, and some with a white male avatar and others with a black male avatar. The bots would send the following tweet in response to  detected racist tweets by the identified twitter accounts: "@[subject] Hey man, just remember that there are real people who are hurt when you harass them with that kind of language.”
+
+Munger found that accounts confronted by the white male twitter bot with a lot of followers were most likely to alter their language in future posts. Around 27% of users stopped using the n-word in their posts the following weeks. Munger’s findings corroborate existing theories on counterspeech that tell us that counterspeech is most effective when done by someone with whom the harmful speaker identifies (in this case white males identify with other white men). On the other hand, Munger’s findings cut against existing theories about how anonymity affects online behavior; the study found that accounts with personal information (name, photo, location, etc.) that used the n-word were significantly less likely to change their behavior after being rebuked by the bot, and in some cases would increase their usage. It was primarily accounts with little or no personal information that would redress their behavior. This goes against the theory that anonymity contributes to online hate speech, since those that were most anonymous were the most likely to alter their behavior. 
+
 
 ### Databases and Datasets
 
@@ -386,71 +391,7 @@ There are also a few completely different academic disciplines that offer patter
 ### International Law
 - International Covenant on Civil and Political Rights (ICCPR)
 
-## Counterspeech (Colin)
 
-Counter Speech can address the perpetrator of hate speech or the cyber bystanders whose discourse norms are shaped by seeing hate speech go uncontested. For hateful speakers with deeply ingrained hate, counter speech is less effective, but it can still alter their discourse to be less overtly hateful which in itself can also positively affect the cyber bystanders.
-
-The guiding principle of counterspeech is the liberal ideal that more speech is the best remedy to harmful speech. This is partially informed by the idea that if you delete hateful content from one platform that there is always somewhere else to go (I’m not sure this is totally convincing).
-
-### Recommended Strategies
-- Warning of consequences
-  - Remind speaker of harm done by speech
-  - Remind of offline consequences and the permanence of online communication
-  - Remind of online consequences (blocking, reporting, suspended account)
-  - Mainly effective at getting hate speech deleted and doesn't necessarily change speakers POV
-- Shaming and Labeling
-  - Labeling the speech (not speaker) as bigoted, misogynist, etc
-  - Helpful to cyberbystanders
-  - Speaker ‘may not have known’ so it is better not to make a personal attack and to only to label the speech has harmful
-- Empathy and Affiliation
-  - Change the tone to friendly, empathetic or peaceful
-  - Affiliate with speaker and establish a connection (ex: I am also a conservative, but…)
-  - Affiliate with targeted group (ex: what you said hurt me as an asian…)
-  - Changing the tone is more effective when the speaker affiliates with counterspeaker
-- Humor
-  - Neutralize hateful speech that is seen as dangerous and intimidating
-  - Attract larger audience to the counterspeech’s message
-  - Use humor to soften the message of counterspeech that could otherwise come off as hostile or aggressive (ex: [it’s time to stop posting cat](http://images.wikia.com/glee/images/c/c7/Imgur_gallery_hZSfl_It%27s_Time_to_Stop_Posting.jpg))
-- Images
-  - Can make counterspeech more viral
-  - Counterspeech is generally more effective when it is emotive rather than rational/logical so images can be a good way to “send people along emotive pathways”
-
-### Discouraged Strategies
-- Hostile or aggressive tone and insults
-  - Can cause backfire or speaker to dig in their heels
-- Fact-checking
-  - Fact checking may sway cyber bystanders, but it is unlikely to influence original speaker
-  - Speaker will find a way to fit the new facts presented to the conclusions they are already committed to
-    - Social psychologists call this the backfire effect where challenging someone’s views with facts leads them to hold those views even more firmly
-  - Pointing out hypocrisy can be good for bystanders but usually not for speaker 
-- Harassment and Silencing
-
-### Successful counterspeech is indicated by: 
-- Speaker shifts their discourse if not also their beliefs 
-- Speaker apologizes, recants, or deletes original hate speech
-- Discourse norms of the cyberbystanders are positively affected
-- Hate speech narratives delegitimized (even if speaker is not swayed)
-- More counter speech is elicited from the audience (this is good until it turns into harassment/dogpiling) 
-
-### Types
-
-A useful method of typologizing harmful speech online is by distinguishing between the types of exchanges (vectors). (This is based on the models put forward in Counterspeech on Twitter: A Field Study)
- 
- - One-to-one: one person deploying counterspeech against one person’s hate speech
- - One-to-many: one person deploying counterspeech against many people’s hate speech
- - Many-to-one: many people deploying counterspeech against one person’s hate speech
- - Many-to-many: many people deploying counterspeech against many people’s hate speech
- 
-Source: 
-- [Counterspeech on Twitter: A Field Study, by Susan Benesch, Derek Ruths, Kelly Dillon, Haji Mohammad Saleem, and Lucas Wright](https://dangerousspeech.org/counterspeech-on-twitter-a-field-study/)
-- [Considerations for Successful Counterspeech,  by Susan Benesch, Derek Ruths, Kelly Dillon, Haji Mohammad Saleem, and Lucas Wright](https://dangerousspeech.org/considerations-for-successful-counterspeech/)
-
- 
-###  Kevin Munger's Study: [Tweetment Effects on the Tweeted: Experimentally Reducing Racist Harassment](https://link.springer.com/article/10.1007/s11109-016-9373-5)
- 
- Kevin Munger conducted a study where he identified 231 twitter accounts operated by white men that regularly used racial slurs against black twitter accounts. Munger created a variety of twitter ‘bots’ with different amounts of followers, and some with a white male avatar and others with a black male avatar. The bots would send the following tweet in response to  detected racist tweets by the identified twitter accounts: "@[subject] Hey man, just remember that there are real people who are hurt when you harass them with that kind of language.”
-
-Munger found that accounts confronted by the white male twitter bot with a lot of followers were most likely to alter their language in future posts. Around 27% of users stopped using the n-word in their posts the following weeks. Munger’s findings corroborate existing theories on counterspeech that tell us that counterspeech is most effective when done by someone with whom the harmful speaker identifies (in this case white males identify with other white men). On the other hand, Munger’s findings cut against existing theories about how anonymity affects online behavior; the study found that accounts with personal information (name, photo, location, etc.) that used the n-word were significantly less likely to change their behavior after being rebuked by the bot, and in some cases would increase their usage. It was primarily accounts with little or no personal information that would redress their behavior. This goes against the theory that anonymity contributes to online hate speech, since those that were most anonymous were the most likely to alter their behavior. 
 
  
 ## Inoculation 
