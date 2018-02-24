@@ -124,6 +124,13 @@ In the US Section 230 of the Communications Decency Act says that “no provider
 
 Legal scholar Mary A Franks has [called](http://digitalcommons.law.umaryland.edu/mlr/vol71/iss3/3 ) for section 230 of CDA to be amended so that it treats internet entities the same way it treats employers or school administrators under federal discrimination law. This means treating them as intermediaries who can exert control over those settings. This could be done simply by including explicit language in section 230 of the CDA about compliance with federal discrimination law, since the immunity that web hosts currently have is already limited by other federal laws such as copyright violations..
 
+#### Other US Laws
+
+Federal Criminal Law related to [stalking](https://www.law.cornell.edu/uscode/text/18/2261A 
+) criminalizes using the internet with "the intent to kill, injure, harass, intimidate, or place under surveillance with intent to kill, injure, harass, or intimidate another person” this includes placing a “person in reasonable fear of the death of or serious bodily injury” or causing, attempting to cause, “or would be reasonably expected to cause substantial emotional distress to a person”
+
+Other laws people have tried using to prosecute online abuse includes defamation,copright (for non-consensual porn), harassment, coercion, menacing. Hate crime laws are hard to use because hate crime requires that another specific offense be comitted against someone that is motivated due to an immutable characterstic.  
+
 ### Industry approaches
 
 Most social media sites have a bifurcated approach to presenting their policy on harmful speech to their users. On the one hand, their formal documents such as the terms of service tend to broadly prohibit harassment on the site, but these formal documents rarely elaborate on what constitutes harassment. On the other hand, the websites’ informal documentation such as ‘community guidelines’ will go into more detail about what constitutes misconduct on the website, but falls short of formally defining harassment, giving the websites lee-way to determine what sort of content they remove. In both the formal and informal policy of social media platforms, harassment is usually lumped together with other prohibited activity such as spamming and hacking. 
