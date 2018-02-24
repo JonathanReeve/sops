@@ -2,6 +2,7 @@
 title: A Safer Online Public Square
 authors: Jonathan Reeve, Colin Muller
 bibliography: bibliography.bib
+notes: T
 ---
 
 # Introduction 
@@ -390,5 +391,5 @@ Combinations of existing approaches could also be explored. While some studies h
 eyJoaXN0b3J5IjpbMTcwMjg4NDYzMl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTc0NjE3XX0=
+eyJoaXN0b3J5IjpbMTc3MDMyNDM1OF19
 -->
