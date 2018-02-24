@@ -3,7 +3,7 @@ title: A Safer Online Public Square
 authors: Jonathan Reeve, Colin Muller
 bibliography: bibliography.bib
 ---
-
+ 
 <!-- About this document: this is the Markdown source file, master-report.md, that is used to create master-report.pdf, .docx files, and/or other files. Please edit this file instead of those. You can use stackedit.io to edit it, if you want. Bibliographic entries here, in the form [@author_title_year] refer to bibliographic keys in bibliography.bib, which is in turn generated from Jonathan/SOPS.bib and Colin/SOPS.bib. This document's bibliography, not visible here, is automatically generated from those keys when this document is converted to other formats, and will be appended to the bottom of this page. This comment will not be visible upon compilation. --> 
 
 # Introduction 
@@ -393,5 +393,5 @@ Combinations of existing approaches could also be explored. While some studies h
 eyJoaXN0b3J5IjpbMTcwMjg4NDYzMl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjA2NzA3MzldfQ==
+eyJoaXN0b3J5IjpbLTExMjY3NDIzOTNdfQ==
 -->
