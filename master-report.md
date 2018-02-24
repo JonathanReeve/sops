@@ -138,14 +138,7 @@ Many have pointed to the gap between the publicly available policy on harfmul sp
 
 See Appendix 2 for more details. 
 
-### Computational approaches to identification, classification, & detection
-
-
 ## Statistics 
-
- - General stats related to abusive langauge
- - Cyberbulling stats
- - Hate speech stats
 
 [A 2014 Pew Research Center survey](http://www.pewinternet.org/2014/10/22/online-harassment/) found that 73% of adult Internet users have witnessed harassment online, and 40% have experienced it personally [@duggan_online_2014]. [A later 2016 report by the Data and Society Research Institute](https://www.datasociety.net/pubs/oh/Online_Harassment_2016.pdf) claims that, of American Internet users, 72% have witnessed harassment or abuse, and almost half (47%) have personally experienced it [@lenhart2016online]. 
 
@@ -175,8 +168,7 @@ Studies in temporal clustering demonstrate the role of peer-influence on harmful
 
 Political psychologists Nyhan and Reifler have researched the “backfire effect” where attempts at correcting misconceptions or misinformed beliefs results in firmer beliefs in the misconception [@nyhan2010corrections]. It is important to consider the backfire effect in looking at effective forms of intervention/counterspeech, since often presenting facts or engaging in logical/reasoned debate is not the most effective strategy. Rather than being swayed be reasoned fact-based challenges to their views, individuals will become further entrenched in their views and even incorporate the contrary speech into their world view. A similar psychological phenomenon is “motivated reasoning” where people make a strong effort to support the conclusions they seek despite being exposed to contradictory facts
 
-## Approaches to Intervention and Reporting
- 
+## Approaches to Intervention and Reporting 
 
 ### Organizations and Advocacy Groups
 A number of organizations exist to study and combat harassment, hate speech, and related phenomena. There are a number of approaches taken by these group including education, legal or psychological resources, group support, legal aid, and direct action. Most organizations employ a variety of these approaches. 
@@ -190,7 +182,6 @@ Beyond providing resources for targets of harassment, some groups have professio
 A slightly more controversial approach is taken by popular social media accounts that call out online abuse. This includes the twitter and instagram accounts Yes You’re Racist, Yes You’re Sexist, and Bye Felipe. These accounts retweet or post screen shots of racist or sexist tweets, sometimes with the name of the account name of the person being called out. While some are critical of this approach in the name of protecting the person being amplified by these accounts, most of the things they are reposting were already posted online publicly. Even more controversial is the Tumblr blog “Racists Getting Fired” which posts screenshots of racist posts made on social media along with the poster’s employer’s info so that people contact the company to get them fired. The blog came under heat from the Washington Post for being a form of undiscerning internet vigilantism that on at least one occasion has gotten innocent people fired. The blog has a [page](http://racistsgettingfired.tumblr.com/tagged/GOTTEN) where they outline their successes. 
 
  Inoculation is a long-term method for fighting against hate speech that takes some time. It involves instilling values in a society that oppose hate speech, and deals especially with building the social-psychological tools necessary so that groups of people don't fall victim to the pressures of engaging in hate speech or being incited by it. An example of a group that deals with Inoculation is Radio la Benevolencija (RLB) a dutch nonprofit that produces entertainment for countries in central africa that deals with the psychology underlying incitement to hate and violence.[Citron and Norton](http://web.a.ebscohost.com.ezproxy.cul.columbia.edu/ehost/pdfviewer/pdfviewer?vid=1&sid=1c840371-b7ff-4ba7-a74e-8848b5bae30a%40sessionmgr4008) suggest that internet intermediaries and society at large  (especially public schools) play a stronger role in fostering digital citizenship in attempt to inncoulate hate speech.  
-
 
 
 ### Initiatives by Social Media Platforms
@@ -210,7 +201,6 @@ It is interesting to note that while Facebook owns instagram, many of the initia
 In response to what the far-right characterizes as an assault on free speech, the social media website Gab.ai was founded with the purpose of creating “Free Speech for Everyone.” Their logo is a frog, reminiscent of the alt-right icon Pepe the frog, and they have primarily drawn in far right members with a good deal of racist, sexist, and xenophobic content. It has been described as the far right’s [“digital safe space”](https://www.nytimes.com/2016/11/30/arts/the-far-right-has-a-new-digital-safe-space.html)
 
 HeartMob has introduced detailed [Social Media Safety Guides](https://iheartmob.org/resources/safety_guides) for 5 of the most used social media platforms (Twitter, Facebook, Tumblr, Reddit, and Youtube). They worked closely with staff from all five platforms in preparing the reports. 
-
 
 ### Counterspeech 
 
@@ -293,7 +283,7 @@ The Mozilla-funded [Coral Project](https://coralproject.net/) publishes a commen
 
 More proprietary systems also exist. A number of US patents---US5796948, US8868408, US8473443, US7818764, and US20080109214---describe "offensive message interceptors," "methods for word offensiveness processing," "inappropriate content detection," "methods for monitoring blocked content," and "methods for computerized psychological content analysis," respectively.
 
-## Computational Detection of Abusive Language, Behaviors, or People (Jonathan)
+## Computational Detection of Abusive Language, Behaviors, or People
 
 ### General Classification Studies
 
@@ -349,10 +339,7 @@ Similarly, the subfield of deceptive opinion spam detection attempts to identify
 
 There are also a few completely different academic disciplines that offer patterns of abusive language. Quantitative psycholinguistics, for instance, is interested in the language patterns of psychological conditions such as mental illness and states of heightened emotion. [@gawda_emotional_2013], for instance, for instance, studies narratives written by prison inmates diagnosed with Antisocial Personality Disorder (ASPD), as compared with a control group, and those diagnosed as not having the disorder. They find that emotional words are higher in general among those with ASPD, but negative words, for instance, might have lower than normal scores for narratives that describe hate. When seen in the context of our project of the computational identification of abusive language, this finding suggests that negative words on their own may not be markers of abuse, at least that originating from those with ASPD. Similarly, [@rieber_language_1994], a literature review of "the language of psychopathy" finds that often one of the distinguishing linguistic features of these patients is the _lack_ of emotional markers in certain contexts. Here again, this indicates that strong emotional valence, as measured by sentiment analysis, might not on its own be a useful feature for a categorizer, and that contextually contrasting emotional content might perform better.
 
-
- 
-
-## And the Law (Colin)
+## And the Law (C
 ### US Federal Law
 - section 230 of the Communications Decency Act
 - Civil Rights Law
@@ -401,5 +388,5 @@ Combinations of existing approaches could also be explored. While some studies h
 eyJoaXN0b3J5IjpbMTcwMjg4NDYzMl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDA1OTg4OTddfQ==
+eyJoaXN0b3J5IjpbMzQ2NzE2MjI2XX0=
 -->
