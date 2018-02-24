@@ -259,7 +259,8 @@ A useful method of typologizing harmful speech online is by distinguishing betwe
   - Many-to-many: many people deploying counterspeech against many people’s hate speech 
 
 
-#### Kevin Munger's Study as an example of counterspeech: [Tweetment Effects on the Tweeted: Experimentally Reducing Racist Harassment](https://link.springer.com/article/10.1007/s11109-016-9373-5)
+#### Kevin Munger's Study as an example of counterspeech
+ [Tweetment Effects on the Tweeted: Experimentally Reducing Racist Harassment](https://link.springer.com/article/10.1007/s11109-016-9373-5)
  
  Kevin Munger conducted a study where he identified 231 twitter accounts operated by white men that regularly used racial slurs against black twitter accounts. Munger created a variety of twitter ‘bots’ with different amounts of followers, and some with a white male avatar and others with a black male avatar. The bots would send the following tweet in response to  detected racist tweets by the identified twitter accounts: "@[subject] Hey man, just remember that there are real people who are hurt when you harass them with that kind of language.”
 
@@ -392,5 +393,5 @@ Combinations of existing approaches could also be explored. While some studies h
 eyJoaXN0b3J5IjpbMTcwMjg4NDYzMl19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMjE1MDE5NV19
+eyJoaXN0b3J5IjpbLTE4NjA2NzA3MzldfQ==
 -->
