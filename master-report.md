@@ -180,7 +180,7 @@ Beyond providing resources for targets of harassment, some groups have professio
 
 A slightly more controversial approach is taken by popular social media accounts that call out online abuse. This includes the twitter and instagram accounts Yes You’re Racist, Yes You’re Sexist, and Bye Felipe. These accounts retweet or post screen shots of racist or sexist tweets, sometimes with the name of the account name of the person being called out. While some are critical of this approach in the name of protecting the person being amplified by these accounts, most of the things they are reposting were already posted online publicly. Even more controversial is the Tumblr blog “Racists Getting Fired” which posts screenshots of racist posts made on social media along with the poster’s employer’s info so that people contact the company to get them fired. The blog came under heat from the Washington Post for being a form of undiscerning internet vigilantism that on at least one occasion has gotten innocent people fired. The blog has a [page](http://racistsgettingfired.tumblr.com/tagged/GOTTEN) where they outline their successes. 
 
-### Initiatives by Social Media Platforms  
+### Initiatives by Social Media Platforms
 
 Most social media platforms have similar approaches to removing abusive content, relying on a mix of flagging by users and detection software. As discussed above, most sites have vaguely worded terms of service and community standards that prohibit harmful speech without explicitly defining it, and once a post is flagged moderators determine whether or not to delete a post based on private, internal regulation. 
 
@@ -197,7 +197,6 @@ It is interesting to note that while Facebook owns instagram, many of the initia
 In response to what the far-right characterizes as an assault on free speech, the social media website Gab.ai was founded with the purpose of creating “Free Speech for Everyone.” Their logo is a frog, reminiscent of the alt-right icon Pepe the frog, and they have primarily drawn in far right members with a good deal of racist, sexist, and xenophobic content. It has been described as the far right’s [“digital safe space”](https://www.nytimes.com/2016/11/30/arts/the-far-right-has-a-new-digital-safe-space.html)
 
 HeartMob has introduced detailed [Social Media Safety Guides](https://iheartmob.org/resources/safety_guides) for 5 of the most used social media platforms (Twitter, Facebook, Tumblr, Reddit, and Youtube). They worked closely with staff from all five platforms in preparing the reports. 
-
 
 ### Counterspeech 
 
@@ -350,6 +349,7 @@ There are also a few completely different academic disciplines that offer patter
 ### European Law
 - [Code of Conduct on Countering Illegal Hate Speech Online](ec.europa.eu/justice/fundamental-rights/files/hate_speech_code_of_conduct_en.pdf)
 - [Code of Conduct signed by Facebook, Microsoft, Twitter and YouTube](https://www.theguardian.com/technology/2016/may/31/facebook-youtube-twitter-microsoft-eu-hate-speech-code)
+
 ### International Law
 - International Covenant on Civil and Political Rights (ICCPR)
 
