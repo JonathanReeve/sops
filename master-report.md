@@ -2,31 +2,8 @@
 title: A Safer Online Public Square
 authors: Jonathan Reeve, Colin Muller
 ---
-# Outline
 
-## I. Introduction 
-
-## II. Approaches to identification
-	i. Taxonomies and definitions
-	ii. Legal approaches
-	iii. Industry approaches
-	iv. Computational identification/classification/detection
-	
-## III. Possible causes of harmful behavior online
-
-## IV. Approaches to Intervention and Reporting
-	i. Organizations 
-	ii. Initiatives by Social Media Platforms  
-	iii. Counterspeech 
-## V. Future Directions
-
-## Bibliography 
-## Appendix 1: Advocacy Groups
-## Appendix 2: Platforms' Community Standards
-## Appendix 3: Patents
-
-
-## I. Introdution 
+# Introduction 
 
 Perhaps the most challenging step in developing social or technological tools for promoting a ‘safer online public square’ is defining what sort of speech constitutes a threat to the civility and safety of members of online communities.
 
@@ -40,9 +17,9 @@ There are many categories of speech that fall under the umbrella of harmful spee
 
 ### Statement of purpose of our preliminary report (to discuss at meeting)
 
-## II. Approaches to identification
+## Approaches to identification
 
-### i. Taxonomies and definitions
+### Taxonomies and definitions
 
 There is significant corpus of writing which attempts to formulate a definition and taxonomy of harmful speech online. These classifications will often vary based on the purpose of the definition which varies from academic research, legal recommendations, or advocacy. These different purposes result in varying breadth and scope of definitions, and disagreement over definitions is one of the main challenges in compiling data from different sources on the frequency of harmful speech online (as the specific behavior being monitored in different studies varies widely). Despite these challenges, it is useful to outline the different categories of harmful online behavior, as these different types manifest themselves differently and will require different approaches for intervention. Several organizations also have lists describing sub-categories and the different forms online abuse can take. The most exhaustive lits are from [Women’s Media Center](www.womensmediacenter.com/speech-project/online-abuse-101/) and the [Digital Rights Foundation](https://digitalrightsfoundation.pk/wp-content/uploads/2017/07/Cyber-Harassment-Helpline-Six-Month-Report.pdf).
 
@@ -82,7 +59,6 @@ While the definition of offline and online bullying are nearly identical, Tokuna
 Findings from research on traditional bullying can also be informative for future studies on cyberbullying and approaches to intervention. One finding is that kids often don’t identify with the term “bullying” often considering bullying acts to be “drama” or “beef.” As a result in surveys that asked about cyberbullying, between 20-40% of youth reported being victimized, but in surveys that ask about “mean things” online, 70% of youth reported such experiences. This is important to bear in mind when collecting survey data, but it also highlights another feature of bullying which is its cyclical nature. Teens often refer to bullying as drama which blurs the line between serious and nonserious conflict. This is because there is not always a clear distinction between categories of bully, victim, and bystander. In many surveys half of young respondents report being involved in both bullying and victimizaiton. This is referred to as “reactive” bullying, where a target of  bullying retaliates with similar bullying behavior. It is important to bear the cyclical nature of bullying in mind when crafting intervention models. 
 
 
-
 Tokunaga, Robert S. "Following you home from school: A critical review and synthesis of research on cyberbullying victimization." Computers in human behavior 26.3 (2010): 278.
 
 
@@ -114,13 +90,13 @@ Is the abusive content explicit or implicit?
 
    - Source: [Waseem, Zeerak, et al. "Understanding Abuse: A Typology of Abusive Language Detection Subtasks." arXiv preprint arXiv:1705.09899 (2017).](http://www.aclweb.org/anthology/W17-3012)
    
-   
 #### What is left out of definitions
 
 There are two forms of harmful speech that are often left out of discussions of harmful speech. The first is self-directed harmful speech and the second is harmful speech expressed privately between a group of like-minded people where the target of the harmful speech is not a party to the discussion. Neither is easily categorized with other forms of harmful speech and they therefore need separate attention.
 
 ##### Harmful speech directed at one's self
 Self-directed harmful speech includes online posts that depict eating disorders or suggest self-harm. It is infrequently included in discussion of harmful online behavior, but it is a serious issue that needs to be dealt with in a different way than outward oriented harmful speech. 
+
 ##### Harmful speech between a group that does not include the target of the speech
  
  Harfmul speech between an "in-group" includes things like a private message channel where racists exchange racist messages about a group of people who are not a part of the message channel. Upon first consideration this speech may seem more like private thought than it does speech in the public realm (this is how some legal scholars frame it), but such conversation can have real life consequences on the well being of those discussed such as in private [message forums where doxxing information is collected](https://theintercept.com/2017/09/06/how-right-wing-extremists-stalk-dox-and-harass-their-enemies/) 
@@ -149,8 +125,7 @@ In 2015 the supreme court ruled on a case about Anthony Elonis who had posted ra
 While this was the first time the Supreme Court heard a case related to speech on social media, the court largely avoided discussing first amendment related questions in the majority opinion. The judgment was only narrowly about whether or not mens rea was a requisite component of threatening a person.  
 In Samuel Alito’s concurrence there is more discussion of First Amendment on social media. Alito distinguishes between rap lyrics and social media posts saying: "lyrics in songs that are performed for an audience or sold in recorded form are unlikely to be interpreted as a real threat to a real person." Whereas "Statements on social media that are pointedly directed at their victims, by contrast, are much more likely to be taken seriously."
 
-### 	iii. Industry approaches
-
+### Industry approaches
 
 Most social media sites have a bifurcated approach to presenting their policy on harmful speech to their users. On the one hand, their formal documents such as the terms of service tend to broadly prohibit harassment on the site, but these formal documents rarely elaborate on what constitutes harassment. On the other hand, the websites’ informal documentation such as ‘community guidelines’ will go into more detail about what constitutes misconduct on the website, but falls short of formally defining harassment, giving the websites lee-way to determine what sort of content they remove. In both the formal and informal policy of social media platforms, harassment is usually lumped together with other prohibited activity such as spamming and hacking. 
 
@@ -158,15 +133,11 @@ Source: [Pater, Jessica Annette, et al. "Characterizations of Online Harassment:
 
 Many have pointed to the gap between the publicly available policy on harfmul speech and the internal guidelines that websites provide to their content moderators (this is largely thanks to [leaked internal documents](https://www.theguardian.com/news/series/facebook-files)).These internal guidelines are often very detailed, but they are considered arbitrary by critics who argue that the strict criteria results in instances of harmless speech getting removed while some actually harmful speech is left unmoderated. An [often cited example](https://www.propublica.org/article/facebook-hate-speech-censorship-internal-documents-algorithms) of this is Facebook's leaked rules which classified white men as a protected category but not black children. These rules allowed offensive posts targeting black children to stay online and also resulted in the removing of posts by anti-racist activists that addressed white men. Additionally, there is a gap between the written rules (internal or public) and the [actual practices of content moderators](https://www.wired.com/2014/10/content-moderation/) who are often given only a few seconds to decide if a post should be removed.
 
-See appendex 2 for more details. 
-### 	iv. Computational approaches to identification, classification, & detection
+See Appendix 2 for more details. 
 
+### Computational approaches to identification, classification, & detection
 
 ## Statistics 
-
- - General stats related to abusive langauge
- - Cyberbulling stats
- - Hate speech stats
 
 [A 2014 Pew Research Center survey](http://www.pewinternet.org/2014/10/22/online-harassment/) found that 73% of adult Internet users have witnessed harassment online, and 40% have experienced it personally [@duggan_online_2014]. [A later 2016 report by the Data and Society Research Institute](https://www.datasociety.net/pubs/oh/Online_Harassment_2016.pdf) claims that, of American Internet users, 72% have witnessed harassment or abuse, and almost half (47%) have personally experienced it [@lenhart2016online]. 
 
@@ -174,7 +145,7 @@ The types of harassment include calling of names (reported by 60% of witnesses) 
 
 The Pew report finds that young women, aged 18-24, are disproportionately targeted in all categories except for those of purposeful embarrassment and the calling of offensive names. [A 2013 report by the WHOA organization](http://www.haltabuse.org/resources/stats/index.shtml) (Working to Halt Online Abuse) echoes this finding. In their analysis of 4,043 self-reported cases of abuse in American from 2000-2013, they find that 70% of victims were female, with a 42% majority between the ages of 18 and 30. The abusers, they find, are more likely to be men (47%) than women (30%). LGB Internet users, as well, are more likely to experience harassment [@lenhart2016online 37]. 
 
-## III. Possible causes of harmful behavior online
+## Possible causes of harmful behavior online
 
 While theory building on the underlying causes of harmful speech online is generally underdeveloped and often not rigorously proven with empirical research, [@tokunaga2010following], existing social-psychological theories helps us better determine effective forms of intervention. This vein of research is particularly useful in emphasizing the impact that an individual’s harmful speech can have on their social group (including those not directly targeted by the speech), since “cyberbystanders” witnessing of abusive language online impacts their understanding of acceptable online norms. This research then reminds us that when intervening in the name of a safer online public sphere, it is not only the speaker and recipient that we must pay attention to, but also those bystanders and digital onlookers who may also happen to witness the encounter.
 	
@@ -196,10 +167,9 @@ Studies in temporal clustering demonstrate the role of peer-influence on harmful
 
 Political psychologists Nyhan and Reifler have researched the “backfire effect” where attempts at correcting misconceptions or misinformed beliefs results in firmer beliefs in the misconception [@nyhan2010corrections]. It is important to consider the backfire effect in looking at effective forms of intervention/counterspeech, since often presenting facts or engaging in logical/reasoned debate is not the most effective strategy. Rather than being swayed be reasoned fact-based challenges to their views, individuals will become further entrenched in their views and even incorporate the contrary speech into their world view. A similar psychological phenomenon is “motivated reasoning” where people make a strong effort to support the conclusions they seek despite being exposed to contradictory facts
 
-## IV. Approaches to Intervention and Reporting
- 
+## Approaches to Intervention and Reporting
 
-### i. Organizations and Advocacy Groups
+### Organizations and Advocacy Groups
 A number of organizations exist to study and combat harassment, hate speech, and related phenomena. There are a number of approaches taken by these group including education, legal or psychological resources, group support, legal aid, and direct action. Most organizations employ a variety of these approaches. 
 
 Most groups publish educational material including studies and reports on online harassment’s different forms, its adverse effects, and ways to mitigate such speech. Such organizations include the [Women’s Media Center’s Speech Project](http://wmcspeechproject.com/) and [Take Back the Tech](https://www.takebackthetech.net/about). Additionally, the Berkman Klein Center for Internet and Society at Harvard is in its third year of its [“Harmful Speech Online”](https://cyber.harvard.edu/node/99203) project which has yielded several valuable publications. Groups also provide education on how to secure online identities to prevent or limit online harassment—this includes employing cybersecuirty measures to prevent hacking, doxxing, and leaking of nonconsensual pornography. Such groups include HackBlossom a DIY feminist cybersecurity group and HeartMob’s [Technical Safety Guide](https://iheartmob.org/resources/tech). Heart mob also has detailed [Social Media Safety Guides](https://iheartmob.org/resources/safety_guides) for  Facebook, Twitter, Reddit, Tumblr, and Youtube. They also have an extensive [Supportive Organizations](https://iheartmob.org/resources/supportive_organizations) page.
@@ -212,7 +182,7 @@ A slightly more controversial approach is taken by popular social media accounts
 
 
 
-### ii. Initiatives by Social Media Platforms  
+### Initiatives by Social Media Platforms  
 
 Most social media platforms have similar approaches to removing abusive content, relying on a mix of flagging by users and detection software. As discussed above, most sites have vaguely worded terms of service and community standards that prohibit harmful speech without explicitly defining it, and once a post is flagged moderators determine whether or not to delete a post based on private, internal regulation. 
 
@@ -231,7 +201,7 @@ In response to what the far-right characterizes as an assault on free speech, th
 HeartMob has introduced detailed [Social Media Safety Guides](https://iheartmob.org/resources/safety_guides) for 5 of the most used social media platforms (Twitter, Facebook, Tumblr, Reddit, and Youtube). They worked closely with staff from all five platforms in preparing the reports. 
 
 
-### iii. Counterspeech 
+### Counterspeech 
 
 Counter Speech can address the perpetrator of hate speech or the cyber bystanders whose discourse norms are shaped by seeing hate speech go uncontested. For hateful speakers with deeply ingrained hate, counter speech is less effective, but it can still alter their discourse to be less overtly hateful which in itself can also positively affect the cyber bystanders.
 
@@ -291,7 +261,7 @@ Source:
 - [Considerations for Successful Counterspeech,  by Susan Benesch, Derek Ruths, Kelly Dillon, Haji Mohammad Saleem, and Lucas Wright](https://dangerousspeech.org/considerations-for-successful-counterspeech/)
 
  
-####  Kevin Munger's Study as an example of counterspeech: [Tweetment Effects on the Tweeted: Experimentally Reducing Racist Harassment](https://link.springer.com/article/10.1007/s11109-016-9373-5)
+#### Kevin Munger's Study as an example of counterspeech: [Tweetment Effects on the Tweeted: Experimentally Reducing Racist Harassment](https://link.springer.com/article/10.1007/s11109-016-9373-5)
  
  Kevin Munger conducted a study where he identified 231 twitter accounts operated by white men that regularly used racial slurs against black twitter accounts. Munger created a variety of twitter ‘bots’ with different amounts of followers, and some with a white male avatar and others with a black male avatar. The bots would send the following tweet in response to  detected racist tweets by the identified twitter accounts: "@[subject] Hey man, just remember that there are real people who are hurt when you harass them with that kind of language.”
 
@@ -373,9 +343,6 @@ Similarly, the subfield of deceptive opinion spam detection attempts to identify
 
 There are also a few completely different academic disciplines that offer patterns of abusive language. Quantitative psycholinguistics, for instance, is interested in the language patterns of psychological conditions such as mental illness and states of heightened emotion. [@gawda_emotional_2013], for instance, for instance, studies narratives written by prison inmates diagnosed with Antisocial Personality Disorder (ASPD), as compared with a control group, and those diagnosed as not having the disorder. They find that emotional words are higher in general among those with ASPD, but negative words, for instance, might have lower than normal scores for narratives that describe hate. When seen in the context of our project of the computational identification of abusive language, this finding suggests that negative words on their own may not be markers of abuse, at least that originating from those with ASPD. Similarly, [@rieber_language_1994], a literature review of "the language of psychopathy" finds that often one of the distinguishing linguistic features of these patients is the _lack_ of emotional markers in certain contexts. Here again, this indicates that strong emotional valence, as measured by sentiment analysis, might not on its own be a useful feature for a categorizer, and that contextually contrasting emotional content might perform better.
 
-
- 
-
 ## And the Law (Colin)
 ### US Federal Law
 - section 230 of the Communications Decency Act
@@ -388,9 +355,6 @@ There are also a few completely different academic disciplines that offer patter
 ### International Law
 - International Covenant on Civil and Political Rights (ICCPR)
 
-
-
- 
 ## Inoculation 
  Inoculation is a long-term method for fighting against hate speech that takes some time. It involves instilling values in a society that oppose hate speech, and deals especially with building the social-psychological tools necessary so that groups of people don't fall victim to the pressures of engaging in hate speech or being incited by it. 
  - An example of a group that deals with Inoculation is Radio la Benevolencija (RLB) a dutch nonprofit that produces entertainment for countries in central africa that deals with the psychology underlying incitement to hate and violence.
@@ -420,8 +384,6 @@ There are many opportunities here for applications of methods across disciplines
 Combinations of existing approaches could also be explored. While some studies have used formality metrics as features, and others have used social network theory, experiments have not been performed which combine these. There are many more such combinations to be tested. Grid search techniques and parameter tuning could be used to identify the best features for the domain and dataset, and this could even be done dynamically, at each of the bot's iterations. Quality ranking, credibility detection, and malicious spam detection might also be leveraged in some way. 
 
 ## Automated Counterspeech 
-
-## V. Future Directions
 
 ## Bibliography 
 ## Appendix 1: Advocacy Groups
