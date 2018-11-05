@@ -357,6 +357,20 @@ Similarly, the subfield of deceptive opinion spam detection attempts to identify
 
 There are also a few completely different academic disciplines that offer patterns of abusive language. Quantitative psycholinguistics, for instance, is interested in the language patterns of psychological conditions such as mental illness and states of heightened emotion. [@gawda_emotional_2013], for instance, for instance, studies narratives written by prison inmates diagnosed with Antisocial Personality Disorder (ASPD), as compared with a control group, and those diagnosed as not having the disorder. They find that emotional words are higher in general among those with ASPD, but negative words, for instance, might have lower than normal scores for narratives that describe hate. When seen in the context of our project of the computational identification of abusive language, this finding suggests that negative words on their own may not be markers of abuse, at least that originating from those with ASPD. Similarly, [@rieber_language_1994], a literature review of "the language of psychopathy" finds that often one of the distinguishing linguistic features of these patients is the _lack_ of emotional markers in certain contexts. Here again, this indicates that strong emotional valence, as measured by sentiment analysis, might not on its own be a useful feature for a categorizer, and that contextually contrasting emotional content might perform better.
 
+## And the Law
+
+### US Federal Law
+- section 230 of the Communications Decency Act
+- Civil Rights Law
+-[Elonis v United States](https://www.supremecourt.gov/opinions/14pdf/13-983_7l48.pdf)
+  - [menacing behavior online thrown out by supreme court](http://www.pewresearch.org/fact-tank/2015/06/01/the-darkest-side-of-online-harassment-menacing-behavior/) 
+ 
+### European Law
+- [Code of Conduct on Countering Illegal Hate Speech Online](ec.europa.eu/justice/fundamental-rights/files/hate_speech_code_of_conduct_en.pdf)
+- [Code of Conduct signed by Facebook, Microsoft, Twitter and YouTube](https://www.theguardian.com/technology/2016/may/31/facebook-youtube-twitter-microsoft-eu-hate-speech-code)
+### International Law
+- International Covenant on Civil and Political Rights (ICCPR)
+
 # Future Directions
 
 ## Recommendation: a Twitter Bot
@@ -391,8 +405,10 @@ Such an approach of encouraging meta-discussions of the rules by which discussio
 
 Such a push towards transparency that invites public participation is unlikely, but some of the new tools on Instagram and Twitter are promising and do allow users to become more directly involved with the regulation of the platform. On Instagram users can customize and opt-in to blocking a list of words from comments on their posts, and on Twitter users can share lists of blocked accounts with each other. Both of these new policies bring users closer to direct engagement with the rules of the platform. 
 
-# Appendices and Bibliography
-## Appendix: Patents
+# Appendices and Bibliography Appendices and Bibliography
+## Appendix 1: Advocacy Groups
+## Appendix 2: Platforms' Community Standards
+## Appendix 3: Patents
 
  - [Patent US5796948 - Offensive message interceptor for computers](https://www-google-com.ezproxy.cul.columbia.edu/patents/US5796948) 
  - [Patent US8868408 - Systems and methods for word offensiveness processing using aggregated...](https://www-google-com.ezproxy.cul.columbia.edu/patents/US8868408) 
@@ -411,12 +427,12 @@ eyJoaXN0b3J5IjpbLTExMjY3NDIzOTNdfQ==
 -->
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJVVUFaV2luTm1xNjNzeDNDIjp7In
-N0YXJ0Ijo5NzEsImVuZCI6MTIwNywidGV4dCI6IlBlcmhhcHMg
-dGhlIG1vc3QgY2hhbGxlbmdpbmcgc3RlcCBpbiBkZXZlbG9waW
-5nIHNvY2lhbCBvciB0ZWNobm9sb2dpY2FsIHRvb2xzIGbigKYi
+RleHQiOiJQZXJoYXBzIHRoZSBtb3N0IGNoYWxsZW5naW5nIHN0
+ZXAgaW4gZGV2ZWxvcGluZyBzb2NpYWwgb3IgdGVjaG5vbG9naW
+NhbCB0b29scyBm4oCmIiwic3RhcnQiOjk3MSwiZW5kIjoxMjA3
 fX0sImNvbW1lbnRzIjp7IlpreGRjNFNkM2dabG1oZFUiOnsiZG
 lzY3Vzc2lvbklkIjoiVVVBWldpbk5tcTYzc3gzQyIsInN1YiI6
 IjEwMjMzMDY5MDIyNTc3Mzg4Mjk5OCIsInRleHQiOiJUZXN0IG
 NvbW1lbnQuIiwiY3JlYXRlZCI6MTUxOTQ0NzE5NzI1MH19LCJo
-aXN0b3J5IjpbLTgyNjg2NzQ1MV19
+aXN0b3J5IjpbMTkwMDgwNzkwMSwtODI2ODY3NDUxXX0=
 -->
